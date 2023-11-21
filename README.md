@@ -1,4 +1,4 @@
-# CodeTheFly_UAB
+# CodeTheFly at UAB using PIC Cluster computer
 Bioinformatics practical session on how to work in the CodeTheFly project
 
 Read additional information in here: https://codethefly.omicsuab.org/
