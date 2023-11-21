@@ -66,6 +66,20 @@ condor_submit HTCondor_sender.sub executable=”example.sh” arguments=”-n 1�
 ```
 Each job submitted will be assigned a job ID after submission. This job ID (or ClusterID) will help you to check the status using condor_q.	
 
+This job ID (or ClusterID) will help you to check the status using condor_q. Using the jobID you can also remove the jobID by using condor_rm.
+Once the job is finished, you can see the output generated in the log/ folder. You should look for files in the log folder named with termination as log, err and output containing submission log details, error or output generated. 
+
+Files would be something like this:
+- jobID-XYZ_SRAid_ABC_scriptID_EXE.log
+- jobID-XYZ_SRAid_ABC_scriptID_EXE.err
+- jobID-XYZ_SRAid_ABC_scriptID_EXE.out
+
+Where:
+- XYZ is the jobID generated in the submission
+- ABC is the unique identifier provided via append argument
+- EXE is the executable.
+
+
 ####  Select a random SRA id
 
 The first step of the analysis is to select a random SRA id entry. Here, we are going to call the [`SRA_selector.py`](./SRA_selector.py) script with a bunch of selected SRAids (available in [`SRAids.txt`](./SRAids.txt)). 
@@ -126,7 +140,7 @@ Once you have an SRA id assigned to you, you will be able to start the analysis 
 
 ##### fly-A.sh script
 
-We can call in the terminal to see additional information. Just type: `$ sh fly-A.sh`
+We can call it in the terminal to see additional information. Just type: `$ sh fly-A.sh`
 
 ```
 ###############################################
@@ -165,6 +179,32 @@ When we submit the job through the HTCondor system, we type something like the f
 HTCondor_sender.sub executable="fly-A.sh" arguments="-n 123456 -i SRR202127" append="123456"
 ```
 
+Adapt the previous command with your NIU and SRA id assign and submit the HTCondor submission. Again, when you submit, a new jobID will be generated. Check your job status using:
+```
+# check job status
+condor_q jobID
+```
+
+If it was successfully submitted this script might take from a few minutes to 1-1.30h. It depends on the dataset, the node and internet connection. This script calls the software sra-tools , that connects and allows to interact with the SRA database 
+
+Some important lines at the end of the fly-A.sh are the following:
+
+```
+###############################################
+## Get files
+###############################################
+echo "# Run SRAtools using docker"
+
+echo "## Pre-fecth SRA id"
+docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools prefetch $SRAacc
+
+echo "# Validate SRA id obtained"
+docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools vdb-validate $SRAacc
+
+echo "# Create FASTQ file from file downloaded"
+docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools fasterq-dump $SRAacc --split-files --split-3
+###############################################
+```
 
 
 
