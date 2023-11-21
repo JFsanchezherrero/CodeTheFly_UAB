@@ -14,9 +14,40 @@ Read additional information in here:
 
 In this github repository I have included the files for the submission of jobs for the analysis of transposon in Drosophila melanogaster.
 
-## Scripts
+## Material and Methods
 
-### HTCondor submission file
+For the development of this practical session you require access to computer power, genomic D. melanogaster sequencing samples and several scripts executiong guidelines.
+
+### Computer power 
+
+We will be using a computing server to the heavy analysis. This computer Server PIC (Port d'Informació científica) is located in Edifici D, Campus UAB and it is included a net of computer server in Spain.
+
+Read additional details here: 
+- https://www.pic.es/pic-included-in-the-updated-icts-map/ 
+- https://www.pic.es/areas/
+- https://www.pic.es/projects/ 
+
+Once you log in to the server, ask teacher for additional details on how to access, there are already several scripts prepared to execute and produce the results. See additional details below.
+
+### Samples
+Samples are already collected, sequenced and available from the **Melanogaster Catch the Fly!** project. Samples are deposited in the SRA database: https://www.ncbi.nlm.nih.gov/sra
+
+SRA database is the largest publicly available repository of NGS data. It accepts data from all branches of life as well as metagenomic and environmental surveys and it stores raw sequencing data and alignment information to enhance reproducibility and facilitate new discoveries through data analysis.
+
+To get a valida SRAid you can go to the https://codethefly.omicsuab.org/, in the tab collaborate there tones of SRAs ids to use. You will find that each entry can have a different status: 0-3 according to the number of people that have successfully submit results and have been validated
+
+![image](https://github.com/JFsanchezherrero/CodeTheFly_UAB/assets/20244642/7b34d6c1-5d4f-4b4d-a2a6-16f9f2bb9db9)
+
+### Scripts
+
+Once you log in to the server, ask teacher for additional details on how to access, there are already several scripts prepared to execute and produce the results.
+
+There are three types of scripts prepare:
+- HTCondor submission:
+- Random SRA selector
+- fly-X.sh files:
+
+#### HTCondor submission file
 
 A very important file is the one that configures the submission of jobs. You are going to submit your first job to a batch system, a queue that manages the order and the preference of execution of several tasks. It takes your commands and sends them to a remote machine where your commands are really executed.
 
@@ -35,15 +66,9 @@ condor_submit HTCondor_sender.sub executable=”example.sh” arguments=”-n 1�
 ```
 Each job submitted will be assigned a job ID after submission. This job ID (or ClusterID) will help you to check the status using condor_q.	
 
-###  Select a random SRA id
+####  Select a random SRA id
 
 The first step of the analysis is to select a random SRA id entry.
-
-SRA database is the largest publicly available repository of NGS data. It accepts data from all branches of life as well as metagenomic and environmental surveys and it stores raw sequencing data and alignment information to enhance reproducibility and facilitate new discoveries through data analysis.
-
-To get a valida SRAid you can go to the https://codethefly.omicsuab.org/, in the tab collaborate there tones of SRAs ids to use. You will find that each entry can have a different status: 0-3 according to the number of people that have successfully submit results and have been validated
-
-![image](https://github.com/JFsanchezherrero/CodeTheFly_UAB/assets/20244642/7b34d6c1-5d4f-4b4d-a2a6-16f9f2bb9db9)
 
 Here, we are going to call the `SRA_selector.py` script with a bunch of selected SRAids (available in `SRAids.txt`). The `SRA_selector.py` is a python script that reads the SRAids.txt file that contains a selection of SRA ids and randomly selects one for you. This script uses the `random` python package to select a random entry in the list obtained from the file.
 
