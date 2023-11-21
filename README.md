@@ -53,7 +53,7 @@ A very important file is the one that configures the submission of jobs. You are
 
 Read further details about the queue system here: https://htcondor.readthedocs.io/en/latest/ 
 
-The batch system software is called HTCondor and the configuration file that allows us to submit jobs to the cluster is named as: HTCondor_sender.sub. 
+The batch system software is called HTCondor and the configuration file that allows us to submit jobs to the cluster is named as: `HTCondor_sender.sub` and available [here](./HTCondor_sender.sub)
 
 This file HTCondor_sender.sub contains some configuration but also requires additional arguments to be supplied during execution such as: executable, arguments or append. 
 
