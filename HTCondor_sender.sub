@@ -1,0 +1,21 @@
+## file with command instructions
+# executable variable is provided via prompt
+# arguments variable is provided via prompt and pass to executable (if any)
+# append variable is provided via prompt and used as a name for log/error/output files
+
+## file to save output messages
+output = log/jobID-$(ClusterId)_SRAid_$(append)_scriptID_$(executable).out
+log = log/jobID-$(ClusterId)_SRAid_$(append)_scriptID_$(executable).log
+
+## file to save error messages
+error = log/jobID-$(ClusterId)_SRAid_$(append)_scriptID_$(executable).err
+
+## Number of CPUs requested to use
+request_cpus = 1
+
+## Notification configuration
+notification = Always
+
+## configuration details
++WN_property="fly"
+queue 1
