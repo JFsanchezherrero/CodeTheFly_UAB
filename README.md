@@ -170,7 +170,7 @@ Again, due to the configuration of the server we need to produce a submission us
 fly-A.sh -n 123456 -i SRR202127
 ```
 
-When we submit the job through the HTCondor system, we type something like the following line, where we include 
+If we submit the job through the HTCondor system, we type something like the following line, where we include 
 - arguments to pass to fly-A.sh ("-n 123456 -i SRR202127")
 - name ID to append to the log: unique ID, NIF, DNI, NIU (e.g. 123456)
 - script to execute: fly-A.sh
@@ -179,41 +179,99 @@ When we submit the job through the HTCondor system, we type something like the f
 HTCondor_sender.sub executable="fly-A.sh" arguments="-n 123456 -i SRR202127" append="123456"
 ```
 
-Adapt the previous command with your NIU and SRA id assign and submit the HTCondor submission. Again, when you submit, a new jobID will be generated. Check your job status using:
-```
-# check job status
-condor_q jobID
-```
-
-If it was successfully submitted this script might take from a few minutes to 1-1.30h. It depends on the dataset, the node and internet connection. This script calls the software sra-tools , that connects and allows to interact with the SRA database 
-
-Some important lines at the end of the fly-A.sh are the following:
-
-```
-###############################################
-## Get files
-###############################################
-echo "# Run SRAtools using docker"
-
-echo "## Pre-fecth SRA id"
-docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools prefetch $SRAacc
-
-echo "# Validate SRA id obtained"
-docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools vdb-validate $SRAacc
-
-echo "# Create FASTQ file from file downloaded"
-docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools fasterq-dump $SRAacc --split-files --split-3
-###############################################
-```
-
+If it was successfully submitted this script might take from a few minutes to 1-1.30h. It depends on the dataset, the node and internet connection. This script calls the software sra-tools , that connects and allows to interact with the SRA database.
 
 
 ##### fly-B.sh script
-a
+Now, we will execute fly-B.sh in order to get the length of the reads, necessary for the next step.
+
+You need to use the fly-B.sh file that contains the instructions to create the analysis. We can call it in the terminal to see additional help and information. 
+
+We can call it in the terminal to see additional information. Just type: `$ sh fly-A.sh`
+
+```
+###############################################
+### fly-B script Usage:
+###############################################
+
+This script B counts the sequence length of the SRAacc ID retrieved
+It requires the your NIU or any unique ID you used before to check the folder generated with your results
+
+
+Usage: sh fly-B.sh -n NIU -i SRA
+options:
+  -h       Optional: Print this help message
+  -n NIU   Unique ID identifier of each student
+  -i SRA   SRA ID identifying the dataset to obtain
+```
+
+This script contains several lines that:
+- Control the arguments provided
+- Control the job is not previously done
+- Prepare the job: move to the appropriate folder in the execution host computer
+- Checks the first 10.000.000 sequences and count the length of the sequence
+
+See details of the code in the fly-B.sh file within the github repository.
+
+As in the previous step, if we need to submit via HTCondor system. Again, we need to provide arguments, append the name and provide the executable. 
+- script to execute: fly-B.sh
+- arguments to pass to fly-B.sh ("-n 123456 -i SRR202127")
+- name ID to append to the log: unique ID, NIF, DNI, NIU (e.g. 123456)
 
 ##### fly-C.sh script
-a
+Finally, you have the last and longest job to submit. You will have to use the Read Length of the last calculation and also the NIU for the directory and SRA id. 
+
+You need to use the fly-C.sh file that contains the instructions to create the transposon characterization analysis. We can call it in the terminal to see additional help and information. 
+
+Just type “sh fly-C.sh” in the terminal where the fly-C.sh file is (in the path where you started the analysis and copy the files).
+
+
+```
+###############################################
+### fly-C script Usage:
+###############################################
+This script C creates the Tlex analysis using the previous SRAacc data retrieved
+It requires the your NIU or any unique ID you used before to check the folder generated with your results
+It also requires the length of the sequences obtained using fly-B script
+
+Usage: sh fly-C.sh -n NIU -i SRA -l num
+options:
+  -h       Optional: Print this help message
+  -n NIU   Unique ID identifier of each student
+  -i SRA   SRA ID identifying the dataset to obtain
+  -l num   Length of the sequences obtained in previous step B
+```
+
+This script requires a new argument, the length of reads, provided using option “-l”.
+
+This script contains several lines that:
+- Controls the arguments provided
+- Controls the job is not previously done
+- Prepares the job: move to the appropriate folder in the execution host computer
+- Creates the transposon characterization using the software Tlex3
+
+See details of the code in the fly-C.sh file within the github repository.
+
+As in the previous step, we need to submit via HTCondor system. Again, we need to provide arguments, append the name and provide the executable. 
+- script to execute: fly-C.sh
+- arguments to pass to fly-C.sh ("-n 123456 -i SRR202127 -l 146")
+- name ID to append to the log: unique ID, NIF, DNI, NIU (e.g. 123456)
+
+
+If it was successfully submitted this script might take from 5-20 hours to finish. It will depend on the dataset. This script calls the software [Tlex3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7703783/) that allow us to genotype and estimate population frequencies of transposable elements using the short-read whole genome sequencing data stored in fastq format.
 
 ## Results
-a
+
+
+Once the job is finished we want to retrieve the results generated for each SRA and submit it to the codethefly website in order to collaborate with the project.
+
+Remember your login credentials. Website is https://www.codethefly.omicsuab.org/.
+
+The summary file of interest is stored in the previous folder and named as Tresults. 
+
+You will have to download it from PIC using WinSCP in Windows or scp in linux. Use the ssh connection and password.
+
+Once stored in your computer, you will have to submit file Tresults to the project website in the Tab Collaborate. Search your SRA assigned and press the SUBMIT button to upload the file. You should only submite the Tresults file.
+
+
 
