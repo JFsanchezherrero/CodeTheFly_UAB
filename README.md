@@ -1,9 +1,18 @@
 # CodeTheFly at UAB using PIC Cluster computer
 Bioinformatics practical session on how to work in the CodeTheFly project
 
-Read additional information in here: https://codethefly.omicsuab.org/
+**Melanogaster: Code the fly!** is part of the citizen science project **Melanogaster: Catch the Fly!**. Both offer citizens a first contact with scientific research through
+- the collection and classification of fly samples in arid zones of Europe (Catch the Fly),
+- or the bioinformatic analysis of massive genomic data (Code the Fly).
 
-In this repository I have included the files for the submission of jobs for the analysis of transposon in Drosophila melanogaster.
+**In Melanogaster: Code the Fly!** you will analyze genomic data to estimate the frequency of transposable element (TE) insertions in the fruitfly Drosophila melanogaster. By uploading your data into the Code the Fly platform, you will contribute to the research of the European research consortia DrosEU. This tutorial contains some of the necessary information and code lines to guide your participation in the project.
+
+Read additional information in here: 
+- https://codethefly.omicsuab.org/
+- https://melanogaster.eu/
+- https://droseu.net/
+
+In this github repository I have included the files for the submission of jobs for the analysis of transposon in Drosophila melanogaster.
 
 ## Scripts
 
@@ -28,13 +37,21 @@ Each job submitted will be assigned a job ID after submission. This job ID (or C
 
 ###  Select a random SRA id
 
-The first step of the analysis is to select a random SRA id entry. We are going to call the `SRA_selector.py` script with a bunch of selected SRAids (available in `SRAids.txt`) but you can also go to the https://codethefly.omicsuab.org/, in the tab collaborate there tones of SRAs ids to use. 
+The first step of the analysis is to select a random SRA id entry.
 
-The `SRA_selector.py` is a python script that reads the SRAids.txt file that contains a selection of SRA ids and randomly selects one for you.
+SRA database is the largest publicly available repository of NGS data. It accepts data from all branches of life as well as metagenomic and environmental surveys and it stores raw sequencing data and alignment information to enhance reproducibility and facilitate new discoveries through data analysis.
 
-This script uses the random python package to select a random entry in the list, that contains the contents of the file SRAids.txt
+To get a valida SRAid you can go to the https://codethefly.omicsuab.org/, in the tab collaborate there tones of SRAs ids to use. You will find that each entry can have a different status: 0-3 according to the number of people that have successfully submit results and have been validated
 
-On our computer, we could just execute the script by doing “python SRA_selector.py” but due to the configuration of the cluster, we need to submit the job to an execution host. To do so, we will use the HTCondor_sender.sub and SRA_selector.py as an argument, in this case, named as executable.
+![image](https://github.com/JFsanchezherrero/CodeTheFly_UAB/assets/20244642/7b34d6c1-5d4f-4b4d-a2a6-16f9f2bb9db9)
+
+Here, we are going to call the `SRA_selector.py` script with a bunch of selected SRAids (available in `SRAids.txt`). The `SRA_selector.py` is a python script that reads the SRAids.txt file that contains a selection of SRA ids and randomly selects one for you. This script uses the `random` python package to select a random entry in the list obtained from the file.
+
+On our computer, we could just execute the script by doing 
+```
+python SRA_selector.py
+```
+but due to the configuration of the cluster at PIC, we need to submit the job to an execution host. To do so, we will use the `HTCondor_sender.sub` and `SRA_selector.py` as an argument, in this case, named as executable.
 
 To submit the job, in the directory you created that contains the script files type:
 
