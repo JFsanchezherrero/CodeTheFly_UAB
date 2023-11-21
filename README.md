@@ -53,9 +53,9 @@ A very important file is the one that configures the submission of jobs. You are
 
 Read further details about the queue system here: https://htcondor.readthedocs.io/en/latest/ 
 
-The batch system software is called HTCondor and the configuration file that allows us to submit jobs to the cluster is named as: `HTCondor_sender.sub` and available [here](./HTCondor_sender.sub)
+The batch system software is called HTCondor and the configuration file that allows us to submit jobs to the cluster is named as: [`HTCondor_sender.sub`](./HTCondor_sender.sub) and available in this repository.
 
-This file HTCondor_sender.sub contains some configuration but also requires additional arguments to be supplied during execution such as: executable, arguments or append. 
+This file `HTCondor_sender.sub` contains some configuration but also requires additional arguments to be supplied during execution such as: executable, arguments or append. 
 
 An example of job submissions might be:
 
@@ -70,7 +70,7 @@ Each job submitted will be assigned a job ID after submission. This job ID (or C
 
 The first step of the analysis is to select a random SRA id entry.
 
-Here, we are going to call the `SRA_selector.py` script with a bunch of selected SRAids (available in `SRAids.txt`). The `SRA_selector.py` is a python script that reads the SRAids.txt file that contains a selection of SRA ids and randomly selects one for you. This script uses the `random` python package to select a random entry in the list obtained from the file.
+Here, we are going to call the [`SRA_selector.py`](./SRA_selector.py) script with a bunch of selected SRAids (available in [`SRAids.txt`](./SRAids.txt)). The `SRA_selector.py` is a python script that reads the SRAids.txt file that contains a selection of SRA ids and randomly selects one for you. This script uses the `random` python package to select a random entry in the list obtained from the file.
 
 On our computer, we could just execute the script by doing 
 ```
