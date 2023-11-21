@@ -126,7 +126,46 @@ Once you have an SRA id assigned to you, you will be able to start the analysis 
 
 ##### fly-A.sh script
 
-We can call in the terminal to see additional information. Just type:
+We can call in the terminal to see additional information. Just type: `$ sh fly-A.sh`
+
+```
+###############################################
+### fly-A script Usage:
+###############################################
+This script A retrieves the SRAacc ID provided from NCBI SRA database
+to the server. It requires your NIU or any unique ID to create a folder to storee your results
+
+Usage: sh fly-A.sh -n NIU -i SRA
+options:
+  -h       Optional: Print this help message
+  -n NIU   Unique ID identifier of each student
+  -i SRA   SRA ID identifying the dataset to obtain
+```
+
+This script contains several lines that:
+- Control the arguments provided
+- Control the job is not previously done
+- Prepare the job: move to the appropriate folder in the execution host computer
+- Copy necessary files and unzips them
+
+See details of the code in the [fly-A.sh](./fly-A.sh) file within this repository.
+
+Again, due to the configuration of the server we need to produce a submission using the HTCondor system. fly-A.sh requires the SRAid and a unique identifier, that could you DNI, NIF, NIU, etc. As an example:
+
+```
+fly-A.sh -n 123456 -i SRR202127
+```
+
+When we submit the job through the HTCondor system, we type something like the following line, where we include 
+- arguments to pass to fly-A.sh ("-n 123456 -i SRR202127")
+- name ID to append to the log: unique ID, NIF, DNI, NIU (e.g. 123456)
+- script to execute: fly-A.sh
+
+```
+HTCondor_sender.sub executable="fly-A.sh" arguments="-n 123456 -i SRR202127" append="123456"
+```
+
+
 
 
 ##### fly-B.sh script
