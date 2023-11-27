@@ -1,0 +1,1632 @@
+strain	TE	absence_detection	presence_detection	combination	read_number_absence	left_match_length	left_match_id	polyAT_left	left_coverage	left_repeat	left_read_number_presence	left_filtered_read_number_presence	right_match_length	right_match_id	polyAT_right	right_coverage	right_repeat	right_read_number_presence	right_filtered_read_number_presence
+SRR2033160	FBti0062979	present	present	present	0	60	98.33(1/60)		23.87		9	9	60	100.00(0/60)		20.99		16	16
+SRR2033160	FBti0060429	present	present	present	0	60	100.00(0/60)		25.23		14	14	60	100.00(0/60)		25.43		19	19
+SRR2033160	FBti0063942	present	present	present	0	60	100.00(0/60)		12.47		6	6	60	98.33(1/60)		18.91	BEL-4_DFi-I	13	13
+SRR2033160	FBti0019285	absent	present	polymorphic	7	60	100.00(0/60)		14.20		12	12	60	100.00(0/60)		21.04		13	13
+SRR2033160	FBti0060661	present	present	present	0	60	100.00(0/60)		32.00		18	18	60	100.00(0/60)		21.86		13	13
+SRR2033160	FBti0019117	present	present	present	0	60	100.00(0/60)		5.84		5	5	60	100.00(0/60)		10.72		4	4
+SRR2033160	FBti0020145	absent	present	polymorphic	4	60	100.00(0/60)		6.36		6	6	60	100.00(0/60)	poly(A)4	7.75		3	3
+SRR2033160	FBti0060113		present	polymorphic		60	100.00(0/60)		9.79	Gypsy-7_DSim-LTR	9	9	60	100.00(0/60)		9.97		8	8
+SRR2033160	FBti0019510	present	present	present	0	60	100.00(0/60)		8.69		4	4	60	100.00(0/60)		23.43	Mariner-2_DT	8	8
+SRR2033160	FBti0060506	present	present	present	0	60	100.00(0/60)		28.86		26	26	60	100.00(0/60)		27.57		14	14
+SRR2033160	FBti0061759		present	polymorphic		60	100.00(0/60)		3.17	A-rich	1	1	60	100.00(0/60)		22.69		12	12
+SRR2033160	FBti0020048	absent	present	polymorphic	12	60	100.00(0/60)		11.01		3	3	60	100.00(0/60)		13.62		5	5
+SRR2033160	FBti0061405		present	polymorphic		60	100.00(0/60)		20.68	R1_DYa	15	15	60	96.67(2/60)	poly(A)4	25.71	R1_DYa	21	21
+SRR2033160	FBti0020100	absent	present	polymorphic	11	60	100.00(0/60)		17.46		7	7	60	100.00(0/60)		21.51		15	15
+SRR2033160	FBti0061745		present	polymorphic		60	100.00(0/60)		17.18	PROTOP	16	16	60	100.00(0/60)		25.30		18	18
+SRR2033160	FBti0020170	absent	present	polymorphic	4	60	100.00(0/60)		9.61		4	4	60	100.00(0/60)		6.32		4	4
+SRR2033160	FBti0063688	present	present	present	0	60	100.00(0/60)		20.52		14	14	60	98.33(1/60)		17.74		11	11
+SRR2033160	FBti0019380	present	present	present	0	60	100.00(0/60)		11.02		5	5	60	100.00(0/60)		10.77		3	3
+SRR2033160	FBti0019735	absent	present	polymorphic	1	60	100.00(0/60)		10.18		4	4	46	100.00(0/46)		6.19		3	3
+SRR2033160	FBti0019391	absent	present	polymorphic	4	60	100.00(0/60)		12.73	(TGGCT)n	10	10	60	100.00(0/60)		16.09	(AGC)n	6	6
+SRR2033160	FBti0019106	present	present	present	0	60	100.00(0/60)		15.93		2	2	60	100.00(0/60)		12.22		7	7
+SRR2033160	FBti0061734	present	present	present	0	60	100.00(0/60)		2.33		1	1	60	98.33(1/60)		7.37		4	4
+SRR2033160	FBti0020187	absent	absent	absent	9	-6	0(0/0)		2.00		0	0	-1	0(0/0)		7.74		0	0
+SRR2033160	FBti0061859	present	present	present	0	60	100.00(0/60)		19.17		10	10	60	100.00(0/60)		12.49		8	8
+SRR2033160	FBti0060342	present	present	present	0	60	100.00(0/60)		13.99		7	7	60	100.00(0/60)		17.38	Helitron-N2_DEl	15	15
+SRR2033160	FBti0062367	present	present	present	0	60	100.00(0/60)		21.68		15	15	60	100.00(0/60)		20.66		15	15
+SRR2033160	FBti0018960	present	present	present	0	60	100.00(0/60)		17.78	(ACAG)n	6	6	60	100.00(0/60)		16.16		8	8
+SRR2033160	FBti0019516	present	present	present	0	60	100.00(0/60)		22.60		12	12	60	100.00(0/60)		19.84		8	8
+SRR2033160	FBti0063955	present	present	present	0	60	100.00(0/60)		23.66		16	16	60	100.00(0/60)		12.37		8	8
+SRR2033160	FBti0063958	present	present	present	0	60	98.33(1/60)		13.79		6	6	60	100.00(0/60)		18.82		6	6
+SRR2033160	FBti0060578		present	polymorphic		60	100.00(0/60)		26.07	Gypsy-8_DSim-I	19	19	60	100.00(0/60)		35.94	Gypsy-8_DSim-I	23	23
+SRR2033160	FBti0061038		present	polymorphic		60	100.00(0/60)		32.98	Gypsy-26_DYa-LTR	17	17	60	100.00(0/60)		24.26	DNAREP1_DM	17	17
+SRR2033160	FBti0063136		present	polymorphic		60	100.00(0/60)		11.62	DNAREP1_DSim	8	8	60	100.00(0/60)		11.69	DNAREP1_DSim	6	6
+SRR2033160	FBti0020007	absent	present	polymorphic	3	60	100.00(0/60)		12.49		13	13	60	100.00(0/60)		17.79		11	11
+SRR2033160	FBti0020328	present	present	present	0	60	100.00(0/60)		27.68		28	28	60	100.00(0/60)		27.81	(CA)n	15	15
+SRR2033160	FBti0019829	present	present	present	0	60	100.00(0/60)		8.30	DNAREP1_DM	7	7	60	100.00(0/60)		14.10		10	10
+SRR2033160	FBti0061791		present	polymorphic		60	98.33(1/60)		25.38	BEL-4_DFi-I	20	20	60	100.00(0/60)		37.07		24	24
+SRR2033160	FBti0062246		present	polymorphic		60	100.00(0/60)		37.67		25	25	60	100.00(0/60)		29.23	DNAREP1_DM	15	15
+SRR2033160	FBti0063079	present	present	present	0	60	100.00(0/60)		26.09		11	11	60	100.00(0/60)		33.98		13	13
+SRR2033160	FBti0020306	present	present	present	0	60	100.00(0/60)		16.59		7	7	60	100.00(0/60)		23.21		12	12
+SRR2033160	FBti0060427	present	present	present	0	60	100.00(0/60)		32.90		26	26	60	100.00(0/60)		25.14		17	17
+SRR2033160	FBti0020273	present	present	present	0	60	100.00(0/60)		27.83		22	22	60	98.33(1/60)		42.79		24	24
+SRR2033160	FBti0018876	present	present	present	0	60	100.00(0/60)		10.97		5	5	60	100.00(0/60)		16.02		8	8
+SRR2033160	FBti0019249	present	present	present	0	60	98.33(1/60)		27.59		15	15	60	100.00(0/60)		17.81		5	5
+SRR2033160	FBti0019974	absent	present	polymorphic	5	60	100.00(0/60)		13.62	(CCAATC)n	7	7	60	100.00(0/60)		16.11		5	5
+SRR2033160	FBti0061061		present	polymorphic		60	98.33(1/60)	poly(A)4	21.80	G5_DM	12	12	60	100.00(0/60)		22.48	Gypsy-5_DEr-LTR	10	10
+SRR2033160	FBti0062258		present	polymorphic		60	100.00(0/60)		29.04	R1-1_DEr	16	16	60	100.00(0/60)		33.43		23	23
+SRR2033160	FBti0018884	absent	present	polymorphic	7	60	100.00(0/60)		18.46	(CA)n	9	9	60	100.00(0/60)		15.87		9	9
+SRR2033160	FBti0018965	absent	present	polymorphic	1	60	100.00(0/60)		15.21		7	7	60	100.00(0/60)		12.80		6	6
+SRR2033160	FBti0061762		present	polymorphic		60	100.00(0/60)		21.31		16	16	60	100.00(0/60)		44.62	DNAREP1_DSim	34	34
+SRR2033160			absent	no_data		-30	0(0/0)		0.00		0	0	60	0(0/0)		0.00		0	0
+SRR2033160	FBti0019092	absent	present	polymorphic	8	60	100.00(0/60)		16.07		13	13	60	100.00(0/60)		3.77		1	1
+SRR2033160	FBti0062136		present	polymorphic		60	100.00(0/60)		20.71		12	12	60	100.00(0/60)		17.17	Hoana5	13	13
+SRR2033160	FBti0064029		present	polymorphic		60	100.00(0/60)		15.18		10	10	60	100.00(0/60)		16.90	Gypsy-14_DBi-I	10	10
+SRR2033160	FBti0062809	present	present	present	0	60	100.00(0/60)		15.46		8	8	60	100.00(0/60)		15.82		10	10
+SRR2033160	FBti0062408	present	present	present	0	60	100.00(0/60)		17.59		10	10	60	100.00(0/60)		4.59	(ATT)n	3	3
+SRR2033160	FBti0018966	absent	present	polymorphic	4	60	100.00(0/60)		13.04	(GAGTC)n	4	4	60	100.00(0/60)		18.84		9	9
+SRR2033160	FBti0063938	present	present	present	0	60	100.00(0/60)		15.38		12	12	60	100.00(0/60)		18.38		6	6
+SRR2033160	FBti0060549	present	present	present	0	60	100.00(0/60)		10.79		4	4	60	100.00(0/60)		8.64		3	3
+SRR2033160	FBti0060109	present	present	present	0	60	100.00(0/60)		19.71		14	14	60	100.00(0/60)		14.64	(TAATT)n	11	11
+SRR2033160	FBti0063276		present	polymorphic		60	100.00(0/60)		25.28	DNAREP1_DSim	12	12	60	100.00(0/60)		18.32		3	3
+SRR2033160	FBti0019027	absent	present	polymorphic	2	60	100.00(0/60)		8.80	GA-rich	1	1	60	100.00(0/60)		15.87		2	2
+SRR2033160	FBti0063555	present	present	present	0	60	100.00(0/60)		17.51		11	11	60	100.00(0/60)		15.09		9	9
+SRR2033160	FBti0062413		present	polymorphic		60	100.00(0/60)		14.66	(ATT)n	8	8	60	100.00(0/60)		25.88		11	11
+SRR2033160	FBti0063868	present	present	present	0	60	100.00(0/60)	poly(A)7	8.09		4	4	60	100.00(0/60)		13.64		13	13
+SRR2033160	FBti0019556	absent	present	polymorphic	3	60	100.00(0/60)		13.82		2	2	60	100.00(0/60)		8.93		6	6
+SRR2033160	FBti0018945	present	present	present	0	60	100.00(0/60)		24.24		17	17	60	98.33(1/60)		17.07		6	6
+SRR2033160	FBti0019699	present	present	present	0	60	100.00(0/60)		15.16		7	7	60	100.00(0/60)		18.09		15	15
+SRR2033160	FBti0060460	present	present	present	0	60	100.00(0/60)		21.08		11	11	60	100.00(0/60)		26.06		14	14
+SRR2033160	FBti0019740		present	polymorphic		60	100.00(0/60)		15.87	(T)n	9	9	60	100.00(0/60)		30.51	Jockey-1_DYa	15	15
+SRR2033160	FBti0020144	absent	present	polymorphic	2	60	100.00(0/60)		16.72		9	9	60	100.00(0/60)		8.12		2	2
+SRR2033160	FBti0060637		present	polymorphic		60	100.00(0/60)		18.56	BEL-4_DFi-I	15	15	60	98.33(1/60)		20.17		13	13
+SRR2033160	FBti0064311	present	present	present	0	60	100.00(0/60)		7.39	(T)n	4	4	60	100.00(0/60)		10.65		4	4
+SRR2033160	FBti0063690	present	present	present	0	60	100.00(0/60)		30.15		17	17	60	100.00(0/60)		38.60		16	16
+SRR2033160	FBti0020244	present	present	present	0	60	100.00(0/60)		24.94	Gypsy-2_DTa-I	16	16	60	98.33(1/60)		15.90	(ATTTTT)n	5	5
+SRR2033160	FBti0060348	present	present	present	0	60	100.00(0/60)		13.20		9	9	60	98.33(1/60)		13.18		7	7
+SRR2033160	FBti0019538		absent	no_data		2	100.00(0/2)		18.13	A-rich	0	0	-1	0(0/0)		9.59	G-rich	0	0
+SRR2033160	FBti0061014		present	polymorphic		60	100.00(0/60)		26.27	Helitron-1_DYak	13	13	60	100.00(0/60)		36.21		25	25
+SRR2033160	FBti0019011	absent	present	polymorphic	5	60	100.00(0/60)		14.51		2	2	60	100.00(0/60)		14.42		4	4
+SRR2033160	FBti0060458		present	polymorphic		60	100.00(0/60)		6.98	Helitron-1_DYak	5	5	60	100.00(0/60)		11.37		5	5
+SRR2033160	FBti0019467	absent	absent	absent	13	0	0(0/0)		3.92		0	0	-8	0(0/0)		3.61		0	0
+SRR2033160	FBti0020036	present	present	present	0	60	100.00(0/60)		12.34	(ATTGGT)n	3	3	60	100.00(0/60)		19.16	(TG)n	7	7
+SRR2033160	FBti0019414	absent	present	polymorphic	3	60	100.00(0/60)		19.39		6	6	60	100.00(0/60)		11.51		3	3
+SRR2033160	FBti0063012	present	present	present	0	60	98.33(1/60)		23.53		15	15	60	100.00(0/60)		23.29		11	11
+SRR2033160	FBti0019748	present	present	present	0	60	100.00(0/60)		8.13		2	2	60	100.00(0/60)		24.81	(CATA)n	11	11
+SRR2033160	FBti0062835		present	polymorphic		60	100.00(0/60)		45.33	I-2_DBp	35	35	60	100.00(0/60)		38.31	I-2_DBi	23	23
+SRR2033160	FBti0020201	absent	present	polymorphic	6	60	100.00(0/60)		17.70		10	10	60	100.00(0/60)		14.46		7	7
+SRR2033160	FBti0061372		present	polymorphic		60	98.33(1/60)		30.00	R1_DM	19	19	60	100.00(0/60)		12.14	DNAREP1_DM	10	10
+SRR2033160	FBti0061637		present	polymorphic		60	100.00(0/60)		21.57	Gypsy-1_DSim-I	16	16	60	98.33(1/60)		31.74	Gypsy-1_DSim-I	13	13
+SRR2033160	FBti0062045	present	present	present	0	60	100.00(0/60)		14.01	(AATAACA)n	13	13	60	100.00(0/60)		31.53		17	17
+SRR2033160	FBti0020416	absent	present	polymorphic	2	60	100.00(0/60)		3.64		0	0	60	100.00(0/60)		7.16		7	7
+SRR2033160	FBti0019008	present	present	present	0	60	100.00(0/60)		18.12		7	7	60	100.00(0/60)	poly(A)5	8.21		3	3
+SRR2033160	FBti0060897		present	polymorphic		60	100.00(0/60)		19.31	Helitron-N1_DBi	9	9	60	100.00(0/60)		19.16		14	14
+SRR2033160	FBti0019421	present	present	present	0	60	100.00(0/60)		15.43		9	9	60	100.00(0/60)		11.93		13	13
+SRR2033160	FBti0063268	present	present	present	0	60	100.00(0/60)		31.09		9	9	60	100.00(0/60)		24.49		18	18
+SRR2033160	FBti0020185	absent	present	polymorphic	7	60	100.00(0/60)		15.50		7	7	60	100.00(0/60)		8.66		2	2
+SRR2033160	FBti0020243	absent	present	polymorphic	7	50	100.00(0/50)		0.61	Gypsy-10_DEu-I	1	1	60	100.00(0/60)		17.50		11	11
+SRR2033160	FBti0020188	absent	present	polymorphic	1	60	100.00(0/60)		19.27		10	10	60	100.00(0/60)		9.56		1	1
+SRR2033160	FBti0020088	absent	present	polymorphic	7	27	100.00(0/27)		9.49		6	6	38	100.00(0/38)		8.51		3	3
+SRR2033160	FBti0060935	present	present	present	0	60	91.67(5/60)		22.26		16	16	60	96.67(2/60)		19.72		10	10
+SRR2033160	FBti0020092	absent	present	polymorphic	2	60	100.00(0/60)		21.53		9	9	60	100.00(0/60)		6.86		1	1
+SRR2033160	FBti0019855		present	polymorphic		60	100.00(0/60)		11.91	Gypsy-29_DYa-I	5	5	60	100.00(0/60)		36.21	Gypsy-29_DYa-I	26	26
+SRR2033160	FBti0019284	present	present	present	0	60	100.00(0/60)		22.68		13	13	60	100.00(0/60)		18.74		15	15
+SRR2033160	FBti0019523	absent	present	polymorphic	10	60	100.00(0/60)		17.68		17	17	60	100.00(0/60)		8.75		3	3
+SRR2033160	FBti0060832		present	polymorphic		60	98.33(1/60)		32.11	hAT-2_DY	21	21	60	100.00(0/60)		10.38	hAT-2_DY	9	9
+SRR2033160	FBti0060649	present	present	present	0	60	100.00(0/60)		20.16		12	12	60	100.00(0/60)		24.43		10	10
+SRR2033160	FBti0062239		present	polymorphic		60	100.00(0/60)		28.51	Gypsy12-I_Dya	13	13	60	100.00(0/60)		25.11	Gypsy12-I_Dya	23	23
+SRR2033160	FBti0019698	present	present	present	0	60	100.00(0/60)		23.74	(ATAT)n	13	13	60	100.00(0/60)		30.46		15	15
+SRR2033160	FBti0019015		absent	no_data		-26	0(0/0)		4.44	DNAREP1_DM	0	0	3	100.00(0/3)		6.59		0	0
+SRR2033160	FBti0020172	absent	present	polymorphic	4	60	100.00(0/60)		12.75		9	9	60	100.00(0/60)		10.20		4	4
+SRR2033160	FBti0062187	present	present	present	0	60	96.67(2/60)		16.47		9	9	60	100.00(0/60)		18.84	(CATATA)n	16	16
+SRR2033160	FBti0019399	present	present	present	0	60	100.00(0/60)		22.06	(ATAC)n	7	7	60	100.00(0/60)		11.12		8	8
+SRR2033160	FBti0019016	absent	present	polymorphic	2	60	100.00(0/60)		7.59		5	5	60	100.00(0/60)		11.97		3	3
+SRR2033160	FBti0019417	absent	present	polymorphic	2	60	100.00(0/60)		12.91	(AATT)n	3	3	56	100.00(0/57)		7.37		0	0
+SRR2033160	FBti0020121	absent	present	polymorphic	6	60	100.00(0/60)		10.20		5	5	60	100.00(0/60)		14.18		6	6
+SRR2033160	FBti0019160	absent	present	polymorphic	2	60	100.00(0/60)		6.79		3	3	60	100.00(0/60)		11.00		8	8
+SRR2033160	FBti0063104		present	polymorphic		60	100.00(0/60)		18.29	Transib-2_DRh	4	4	60	100.00(0/60)	poly(A)8	5.74		3	3
+SRR2033160	FBti0062411		present	polymorphic		60	100.00(0/60)		31.49	DNAREP1_DSim	20	20	60	100.00(0/60)		31.99	DNAREP1_DSim	22	22
+SRR2033160	FBti0020079	present	present	present	0	60	100.00(0/60)		27.75		23	23	60	98.33(1/60)		27.29		20	20
+SRR2033160	FBti0019660	absent	absent	absent	3	-7	0(0/0)		2.26		0	0	-8	0(0/0)		3.45		0	0
+SRR2033160	FBti0061321		present	polymorphic		60	100.00(0/60)		26.57	Jockey-1_DEr	16	16	60	100.00(0/60)		26.29		14	14
+SRR2033160	FBti0063007	absent	present	polymorphic	7	60	100.00(0/60)		10.06		2	2	60	100.00(0/60)		14.41		4	4
+SRR2033160	FBti0019340	present	present	present	0	60	100.00(0/60)		6.11	(T)n	1	1	60	100.00(0/60)		14.01		7	7
+SRR2033160	FBti0060681	absent	absent	absent	12	-6	0(0/0)		2.83	(ATCTGTT)n	0	0	-6	0(0/0)		2.52		0	0
+SRR2033160	FBti0062948		present	polymorphic		60	98.33(1/60)		33.83	Gypsy-7_DFi-I	22	22	60	98.33(1/60)		30.74	Gypsy-1_DSe-I	18	18
+SRR2033160	FBti0063060	present	present	present	0	60	98.33(1/60)		12.07	Mariner-10_DEl	6	6	60	100.00(0/60)		11.80		5	5
+SRR2033160	FBti0019993		present	polymorphic		60	98.33(1/60)		17.09		4	4	60	96.67(2/60)		14.64	Jockey-1_DK	5	5
+SRR2033160	FBti0063237	present	present	present	0	60	98.33(1/60)		17.99		11	11	60	100.00(0/60)		25.29		18	18
+SRR2033160	FBti0062285	present	present	present	0	60	100.00(0/60)		31.59		20	20	60	100.00(0/60)		34.86		20	20
+SRR2033160	FBti0020022	absent	present	polymorphic	4	60	100.00(0/60)		11.45		4	4	60	100.00(0/60)		12.28		3	3
+SRR2033160	FBti0061106	present	present	present	0	60	100.00(0/60)		41.69		27	27	60	100.00(0/60)		45.17		36	36
+SRR2033160	FBti0060364		present	polymorphic		60	100.00(0/60)		23.37	Gypsy-30_DWil-I	18	18	60	100.00(0/60)		20.40	Gypsy-4_DSe-I	14	14
+SRR2033160	FBti0061271		present	polymorphic		60	100.00(0/60)		21.09		17	17	60	98.33(1/60)		29.61	Gypsy-21_DWil-I	15	15
+SRR2033160	FBti0063922	present	present	present	0	60	100.00(0/60)		7.51		5	5	60	100.00(0/60)		15.47		13	13
+SRR2033160	FBti0062242	present	present	present	0	60	100.00(0/60)		20.88	(ACTTT)n	13	13	60	100.00(0/60)		23.08		18	18
+SRR2033160	FBti0061964		present	polymorphic		60	100.00(0/60)		26.56	Helitron-2N1_DVir	16	16	60	100.00(0/60)		27.58		16	16
+SRR2033160	FBti0019349	absent	present	polymorphic	1	60	100.00(0/60)		21.28	(TA)n	12	12	60	100.00(0/60)		14.46		8	8
+SRR2033160	FBti0064173		present	polymorphic		60	100.00(0/60)		18.48	DNAREP1_DSim	17	17	60	100.00(0/60)		27.03		15	15
+SRR2033160	FBti0060834	present	present	present	0	60	100.00(0/60)		16.28	Copia-2_DYa-LTR	13	13	60	100.00(0/60)		8.22		5	5
+SRR2033160	FBti0061888	present	present	present	0	60	100.00(0/60)		22.99		11	11	60	100.00(0/60)		19.63		10	10
+SRR2033160	FBti0018872	absent	present	polymorphic	5	60	100.00(0/60)		18.87		10	10	60	100.00(0/60)		12.99		3	3
+SRR2033160	FBti0019782		present	polymorphic		60	100.00(0/60)		29.83	(ATATC)n	27	27	60	98.33(1/60)		34.29	Jockey-3_DBp	29	29
+SRR2033160	FBti0060315	present	present	present	0	60	100.00(0/60)		18.91		16	16	60	100.00(0/60)		19.60		14	14
+SRR2033160	FBti0020160	present	present	present	0	60	100.00(0/60)		4.44		1	1	60	100.00(0/60)		25.89		15	15
+SRR2033160	FBti0019193	absent	present	polymorphic	15	60	100.00(0/60)		3.76		1	1	60	100.00(0/60)		8.74		4	4
+SRR2033160	FBti0020015		present	polymorphic		60	100.00(0/60)		14.08		9	9	60	100.00(0/60)		10.61	DM412B_LTR	4	4
+SRR2033160	FBti0019186	absent	present	polymorphic	3	60	100.00(0/60)		7.38		6	6	-4	100.00(0/1)		5.19		0	0
+SRR2033160	FBti0020212	absent	absent	absent	13	-1	0(0/0)		7.31		0	0	-1	0(0/0)		1.16		0	0
+SRR2033160	FBti0060571		present	polymorphic		60	100.00(0/60)		78.84		58	58	60	100.00(0/60)		89.71	NOMAD_I	57	57
+SRR2033160	FBti0019363	absent	present	polymorphic	1	60	100.00(0/60)		2.74		1	1	60	100.00(0/60)		5.29		4	4
+SRR2033160	FBti0020116	absent	present	polymorphic	7	60	100.00(0/60)		6.85		2	2	60	100.00(0/60)		11.26		10	10
+SRR2033160	FBti0019356	present	present	present	0	60	100.00(0/60)		8.02		3	3	60	100.00(0/60)		11.68		3	3
+SRR2033160	FBti0061769	present	present	present	0	60	100.00(0/60)		30.76		27	27	60	100.00(0/60)		41.11		23	23
+SRR2033160	FBti0060416	present	present	present	0	60	100.00(0/60)		11.74		10	10	60	98.33(1/60)		12.01		9	9
+SRR2033160	FBti0061318	present	present	present	0	60	100.00(0/60)		26.79		21	21	60	98.33(1/60)		30.16		10	10
+SRR2033160	FBti0019390	absent	present	polymorphic	6	60	100.00(0/60)		12.60		4	4	60	100.00(0/60)		14.93	(CAGCATC)n	8	8
+SRR2033160	FBti0060849		present	polymorphic		60	100.00(0/60)		15.02	DNAREP1_DSim	10	10	60	100.00(0/60)		29.70		12	12
+SRR2033160	FBti0019437	absent	present	polymorphic	4	60	100.00(0/60)		16.68		5	5	60	100.00(0/60)		4.19		1	1
+SRR2033160	FBti0018951	absent	present	polymorphic	4	60	100.00(0/60)		18.98	(TA)n	15	15	60	98.33(1/60)		6.29		7	7
+SRR2033160	FBti0060174		present	polymorphic		60	100.00(0/60)		26.99	R1-1C_DK	24	24	60	100.00(0/60)		34.64		14	14
+SRR2033160	FBti0061367		present	polymorphic		60	100.00(0/60)		30.68		11	11	60	98.33(1/60)		19.54	DNAREP1_DSim	8	8
+SRR2033160	FBti0064152	present	present	present	0	60	100.00(0/60)		28.38		18	18	60	100.00(0/60)		21.45		10	10
+SRR2033160	FBti0063051		present	polymorphic		60	100.00(0/60)		4.58		2	2	60	100.00(0/60)		21.02	DNAREP1_DSim	15	15
+SRR2033160	FBti0019126	absent	present	polymorphic	10	60	100.00(0/60)		17.37		9	9	60	100.00(0/60)		13.15		8	8
+SRR2033160	FBti0018920	present	present	present	0	60	100.00(0/60)		7.55		0	0	60	100.00(0/60)		14.02		12	12
+SRR2033160	FBti0020042	absent	present	polymorphic	5	60	100.00(0/60)	poly(A)4	10.25		7	7	60	100.00(0/60)		16.28		3	3
+SRR2033160	FBti0060159		present	polymorphic		60	100.00(0/60)		25.51	DNAREP1_DM	13	13	60	100.00(0/60)		36.47	Helitron-1_DYak	26	26
+SRR2033160	FBti0019146	present	present	present	0	60	100.00(0/60)		3.73		0	0	60	100.00(0/60)		17.96		13	13
+SRR2033160	FBti0020405		present	polymorphic		60	100.00(0/60)		32.17	Helitron-N1_DBi	19	19	60	100.00(0/60)		9.20	DNAREP1_DM	7	7
+SRR2033160	FBti0019350	absent	present	polymorphic	2	60	100.00(0/60)		8.49		7	7	60	100.00(0/60)		17.03		10	10
+SRR2033160	FBti0060903		present	polymorphic		60	100.00(0/60)		27.34	Gypsy-26_DYa-LTR	20	20	-30	0(0/0)		0.00	Gypsy-26_DYa-I	0	0
+SRR2033160	FBti0019422	absent	present	polymorphic	3	60	100.00(0/60)		16.06		12	12	60	100.00(0/60)		15.48	(ATAC)n	4	4
+SRR2033160	FBti0064253		present	polymorphic		60	100.00(0/60)		19.37	Jockey-2_DEl	17	17	60	100.00(0/60)		18.35	DNAREP1_DSim	13	13
+SRR2033160	FBti0019457	absent	present	polymorphic	1	60	100.00(0/60)		12.92		2	2	60	100.00(0/60)		11.65		4	4
+SRR2033160	FBti0020128	present	present	present	0	60	96.67(2/60)		16.73		11	11	60	95.00(3/60)		21.50		13	13
+SRR2033160	FBti0020115	absent	present	polymorphic	1	60	100.00(0/60)		7.40	(ATATC)n	5	5	60	100.00(0/60)		5.32		2	2
+SRR2033160	FBti0061872	present	present	present	0	60	100.00(0/60)		34.87	BEL-6_DYa-I	23	23	60	98.33(1/60)		40.94		23	23
+SRR2033160	FBti0063925		present	polymorphic		60	100.00(0/60)		15.44		7	7	60	100.00(0/60)		15.72	DNAREP1_DSim	13	13
+SRR2033160	FBti0018915	present	present	present	0	60	100.00(0/60)		9.32		2	2	60	100.00(0/60)		9.61		4	4
+SRR2033160	FBti0060848		present	polymorphic		60	100.00(0/60)		6.74	DNAREP1_DM	2	2	60	100.00(0/60)		27.82		16	16
+SRR2033160	FBti0060190		present	polymorphic		60	100.00(0/60)		22.62		17	17	60	100.00(0/60)		23.10	Helitron-2_DVir	8	8
+SRR2033160	FBti0061649	present	present	present	0	60	100.00(0/60)		26.11		28	28	60	98.33(1/60)		31.67		19	19
+SRR2033160	FBti0061571		present	polymorphic		60	100.00(0/60)		15.41	DNAREP1_DYak	10	10	60	100.00(0/60)		13.82		10	10
+SRR2033160	FBti0019029	absent	present	polymorphic	7	60	100.00(0/60)		16.81		10	10	60	100.00(0/60)		23.18		11	11
+SRR2033160	FBti0020190	absent	present	polymorphic	1	60	100.00(0/60)		5.53		2	2	60	100.00(0/60)		12.65		4	4
+SRR2033160	FBti0020146	absent	present	polymorphic	7	60	100.00(0/60)		11.01	Galileo_DM	4	4	60	100.00(0/60)		9.52		3	3
+SRR2033160	FBti0060982	present	present	present	0	60	100.00(0/60)		23.68	Helitron-2N1_DVir	21	21	60	100.00(0/60)		27.09		16	16
+SRR2033160	FBti0020232		present	polymorphic		55	100.00(0/60)		7.96	(ATATA)n	1	1	60	100.00(0/60)		8.68		5	5
+SRR2033160	FBti0019318		present	polymorphic		60	100.00(0/60)		14.90	(CA)n	7	7	60	100.00(0/60)	poly(A)7	13.14	(AC)n	1	1
+SRR2033160	FBti0020303		present	polymorphic		60	100.00(0/60)		6.28	BARI1	4	4	60	100.00(0/60)		16.59	BARI1	8	8
+SRR2033160	FBti0019520	present	present	present	0	60	100.00(0/60)		18.06		18	18	60	100.00(0/60)		24.81		17	17
+SRR2033160	FBti0018987	absent	present	polymorphic	3	60	100.00(0/60)		17.09		10	10	60	100.00(0/60)		14.87	(AC)n	5	5
+SRR2033160	FBti0060187	absent	present	polymorphic	6	60	100.00(0/60)		13.69		5	5	60	100.00(0/60)		7.04		6	6
+SRR2033160	FBti0019327		present	polymorphic		60	100.00(0/60)		25.96		15	15	60	100.00(0/60)		30.16	BEL-1_DBi-I	15	15
+SRR2033160	FBti0062009	present	present	present	0	60	100.00(0/60)		27.74		14	14	60	98.33(1/60)		21.12		18	18
+SRR2033160	FBti0019597	absent	present	polymorphic	11	60	100.00(0/60)		11.38		12	12	60	100.00(0/60)		7.84		3	3
+SRR2033160	FBti0062615	present	present	present	0	60	100.00(0/60)		20.74		19	19	60	100.00(0/60)		24.74		10	10
+SRR2033160	FBti0019172	absent	present	polymorphic	1	60	100.00(0/60)		3.39		1	1	60	100.00(0/60)		16.44		16	16
+SRR2033160	FBti0061050		present	polymorphic		60	98.33(1/60)		32.16		14	14	60	100.00(0/60)		22.31	DNAREP1_DM	11	11
+SRR2033160	FBti0019140	absent	present	polymorphic	10	60	100.00(0/60)		16.79		8	8	60	100.00(0/60)		19.62		13	13
+SRR2033160	FBti0020032	present	present	present	0	60	100.00(0/60)		8.27		5	5	60	100.00(0/60)		10.43		5	5
+SRR2033160	FBti0019611		present	polymorphic		60	100.00(0/60)		8.30	HeT-A3_DVi	2	2	60	100.00(0/60)		9.02		3	3
+SRR2033160	FBti0064257		present	polymorphic		60	100.00(0/60)		25.07	DNAREP1_DSim	11	11	60	100.00(0/60)		35.53		18	18
+SRR2033160	FBti0020068	absent	present	polymorphic	2	59	100.00(0/60)		6.44		0	0	60	100.00(0/60)		20.46	(TG)n	8	8
+SRR2033160	FBti0020080	absent	present	polymorphic	1	60	100.00(0/60)		17.21		10	10	60	100.00(0/60)		9.38		6	6
+SRR2033160	FBti0020097	absent	present	polymorphic	3	60	100.00(0/60)		5.48		1	1	60	100.00(0/60)		11.56		2	2
+SRR2033160	FBti0020061	absent	present	polymorphic	8	60	100.00(0/60)		15.51		10	10	60	100.00(0/60)		16.36		9	9
+SRR2033160	FBti0019620	absent	present	polymorphic	2	60	100.00(0/60)		10.22		8	8	56	100.00(0/56)		4.89		4	4
+SRR2033160	FBti0019638	present	present	present	0	60	100.00(0/60)		19.89		5	5	60	100.00(0/60)		9.44		5	5
+SRR2033160	FBti0020441	present	present	present	0	60	100.00(0/60)		11.04	EnSpm-1_DF	4	4	60	100.00(0/60)		14.38		9	9
+SRR2033160	FBti0020310	present	present	present	0	60	98.33(1/60)	poly(A)8	9.64		1	1	60	100.00(0/60)		21.02		18	18
+SRR2033160	FBti0062671		present	polymorphic		60	98.33(1/60)		14.10	Gypsy-28_DYa-I	4	4	60	100.00(0/60)		8.51		5	5
+SRR2033160	FBti0019120	absent	present	polymorphic	6	60	100.00(0/60)		16.59		7	7	13	100.00(0/13)		7.64		0	0
+SRR2033160	FBti0018980	present	present	present	0	60	100.00(0/60)		18.99		12	12	60	100.00(0/60)		27.38		7	7
+SRR2033160	FBti0064250		present	polymorphic		60	95.00(3/60)		8.48	HOBO	10	10	60	100.00(0/60)		21.34		14	14
+SRR2033160	FBti0062250		present	polymorphic		60	100.00(0/60)		10.09	DNAREP1_DM	5	5	60	100.00(0/60)		16.41	DNAREP1_DSim	11	11
+SRR2033160	FBti0059801	present	present	present	0	60	96.67(2/60)		12.68		12	12	60	96.67(2/60)		17.13		15	15
+SRR2033160	FBti0019780	absent	present	polymorphic	4	60	100.00(0/60)		14.81		10	10	60	100.00(0/60)		13.26		4	4
+SRR2033160	FBti0019306	absent	present	polymorphic	2	60	100.00(0/60)		14.71		4	4	60	100.00(0/60)		14.81		6	6
+SRR2033160	FBti0061717	present	present	present	0	60	100.00(0/60)		16.49		9	9	60	98.33(1/60)		32.14		19	19
+SRR2033160	FBti0019599	absent	present	polymorphic	10	60	100.00(0/60)		19.27		12	12	3	100.00(0/3)		8.40		0	0
+SRR2033160	FBti0018957		present	polymorphic		60	100.00(0/60)		12.11	REP-1_DTa	7	7	60	100.00(0/60)		25.51	REP-1_DTa	22	22
+SRR2033160	FBti0019592	absent	absent	absent	16	-5	0(0/0)		6.21		0	0	-17	0(0/0)		6.03		0	0
+SRR2033160	FBti0060235	present	present	present	0	60	100.00(0/60)		19.65		13	13	60	100.00(0/60)		10.97	(ATAAC)n	4	4
+SRR2033160	FBti0061810	present	present	present	0	60	100.00(0/60)		12.12	A-rich	9	9	60	93.33(4/60)		10.06		3	3
+SRR2033160	FBti0019064	absent	present	polymorphic	2	60	100.00(0/60)		19.34		11	11	60	100.00(0/60)		9.85		4	4
+SRR2033160	FBti0019057	absent	present	polymorphic	8	60	100.00(0/60)		12.13		7	7	60	100.00(0/60)		17.67		10	10
+SRR2033160	FBti0061001	present	present	present	0	60	100.00(0/60)		23.14		16	16	60	98.33(1/60)		11.53		5	5
+SRR2033160	FBti0019150	absent	present	polymorphic	2	60	100.00(0/60)		7.84		4	4	60	100.00(0/60)		12.44		9	9
+SRR2033160	FBti0020124	absent	present	polymorphic	6	60	100.00(0/60)		12.57		6	6	60	100.00(0/60)		19.87		8	8
+SRR2033160	FBti0019110	absent	present	polymorphic	6	60	100.00(0/60)		10.68		5	5	60	100.00(0/60)		15.61		7	7
+SRR2033160	FBti0019165	absent	present	polymorphic	1	60	100.00(0/60)		12.26		7	7	60	100.00(0/60)		6.51		4	4
+SRR2033160	FBti0063961	present	present	present	0	60	98.33(1/60)		9.93		5	5	60	98.33(1/60)		14.28		6	6
+SRR2033160	FBti0061632	present	present	present	0	60	100.00(0/60)		24.27		22	22	60	100.00(0/60)		22.46		4	4
+SRR2033160	FBti0018914	absent	present	polymorphic	3	60	100.00(0/60)		5.69		3	3	60	100.00(0/60)		6.00		3	3
+SRR2033160	FBti0020096	present	present	present	0	60	100.00(0/60)		24.12		11	11	60	100.00(0/60)		19.50		9	9
+SRR2033160	FBti0019515		present	polymorphic		60	100.00(0/60)		13.86	Gypsy-1_DSim-I	13	13	60	100.00(0/60)		12.16	Gypsy-1_DSim-I	6	6
+SRR2033160	FBti0061795		present	polymorphic		60	100.00(0/60)		22.29	DNAREP1_DSim	17	17	60	100.00(0/60)		22.73	DNAREP1_DSim	15	15
+SRR2033160	FBti0020106	absent	present	polymorphic	11	60	100.00(0/60)		18.34		9	9	60	100.00(0/60)		12.75		4	4
+SRR2033160	FBti0019998	present	present	present	0	60	100.00(0/60)		23.11		12	12	60	100.00(0/60)		30.49		15	15
+SRR2033160	FBti0060387	present	present	present	0	60	100.00(0/60)		19.31		10	10	60	100.00(0/60)		15.24		10	10
+SRR2033160	FBti0019370	present	present	present	0	60	100.00(0/60)		10.26		5	5	57	100.00(0/60)		6.14	(AT)n	0	0
+SRR2033160	FBti0019321	absent	present	polymorphic	7	48	100.00(0/48)		3.26		0	0	60	100.00(0/60)		15.40		8	8
+SRR2033160	FBti0060706	present	present	present	0	60	100.00(0/60)		17.88		13	13	60	98.33(1/60)		14.84		10	10
+SRR2033160	FBti0020192	present	present	present	0	60	100.00(0/60)		9.58		6	6	60	98.33(1/60)	poly(A)9	20.72		20	20
+SRR2033160	FBti0019617	present	absent	no_data	0	-13	0(0/0)		4.77	(AT)n	0	0	1	100.00(0/1)		5.66		0	0
+SRR2033160	FBti0019297	present	present	present	0	60	100.00(0/60)		17.59		8	8	60	100.00(0/60)		18.05		6	6
+SRR2033160	FBti0019069	absent	present	polymorphic	6	60	100.00(0/60)		10.27		7	7	60	100.00(0/60)		28.24		8	8
+SRR2033160	FBti0019048	absent	no_data	no_data	1	-28	0(0/0)		2.61		0	0	-30	0(0/0)		0.54		0	0
+SRR2033160	FBti0020238	present	present	present	0	60	100.00(0/60)		8.25		2	2	60	98.33(1/60)		17.02		7	7
+SRR2033160	FBti0019203	present	present	present	0	60	100.00(0/60)		26.53		12	12	60	100.00(0/60)		14.01		6	6
+SRR2033160	FBti0020055	absent	present	polymorphic	8	60	100.00(0/60)		31.32		12	12	60	100.00(0/60)		9.66		5	5
+SRR2033160	FBti0019572	present	present	present	0	60	100.00(0/60)		23.76		7	7	60	98.33(1/60)		26.35		14	14
+SRR2033160	FBti0060572		present	polymorphic		60	100.00(0/60)		40.86	Gypsy-24_DY-I	33	33	60	100.00(0/60)		39.11	Gypsy-13_DRh-I	30	30
+SRR2033160	FBti0019388	present	present	present	0	60	100.00(0/60)		16.57		7	7	60	100.00(0/60)		8.26		2	2
+SRR2033160	FBti0020322	absent	present	polymorphic	4	60	100.00(0/60)		9.29		4	4	60	100.00(0/60)		23.34		14	14
+SRR2033160	FBti0019169	present	present	present	0	60	100.00(0/60)		13.01	(TT)n	7	7	60	100.00(0/60)		17.34	(T)n	7	7
+SRR2033160	FBti0019919		present	polymorphic		60	100.00(0/60)		17.69	Helitron-N1_DBi	13	13	60	100.00(0/60)		7.81	DNAREP1_DYak	3	3
+SRR2033160	FBti0060388	present	present	present	0	60	100.00(0/60)		15.41		7	7	60	100.00(0/60)		24.18		10	10
+SRR2033160	FBti0018869	absent	present	polymorphic	3	60	100.00(0/60)		9.47		2	2	60	100.00(0/60)		16.38		7	7
+SRR2033160	FBti0018881	absent	present	polymorphic	7	60	100.00(0/60)		12.16		4	4	60	100.00(0/60)		14.68		9	9
+SRR2033160	FBti0059674	present	present	present	0	60	100.00(0/60)		16.41		7	7	60	100.00(0/60)		15.82		10	10
+SRR2033160	FBti0060443	present	present	present	0	60	100.00(0/60)		37.90		27	27	60	100.00(0/60)		34.97		17	17
+SRR2033160	FBti0019604	absent	present	polymorphic	4	60	100.00(0/60)		19.69		15	15	60	100.00(0/60)		10.07		6	6
+SRR2033160	FBti0019431	absent	present	polymorphic	1	60	100.00(0/60)		7.39		3	3	60	100.00(0/60)		13.03		8	8
+SRR2033160	FBti0064176	present	present	present	0	60	100.00(0/60)		17.98		7	7	60	100.00(0/60)		25.61		17	17
+SRR2033160	FBti0062477	present	present	present	0	60	100.00(0/60)		28.50		9	9	60	100.00(0/60)		12.29		8	8
+SRR2033160	FBti0020047	absent	present	polymorphic	9	60	100.00(0/60)		12.49		1	1	60	100.00(0/60)		20.26		10	10
+SRR2033160	FBti0019359	present	present	present	0	60	100.00(0/60)		6.38		3	3	60	100.00(0/60)		27.00		14	14
+SRR2033160	FBti0018889		present	polymorphic		60	100.00(0/60)		7.89	(AATG)n	5	5	60	100.00(0/60)		14.33	DNAREP1_DSim	8	8
+SRR2033160	FBti0019678	absent	present	polymorphic	6	60	100.00(0/60)		10.76		7	7	60	100.00(0/60)		14.42		7	7
+SRR2033160	FBti0060126	present	present	present	0	60	98.33(1/60)		25.38		15	15	60	100.00(0/60)		24.84	DNAREP1_DSim	21	21
+SRR2033160	FBti0019354	absent	present	polymorphic	3	60	100.00(0/60)		8.12	(TA)n	4	4	60	98.33(1/60)		11.72		9	9
+SRR2033160	FBti0019358	absent	present	polymorphic	8	60	100.00(0/60)		9.58		3	3	60	100.00(0/60)		14.76		18	18
+SRR2033160	FBti0019917	present	present	present	0	60	100.00(0/60)		18.92		13	13	60	100.00(0/60)		16.06		6	6
+SRR2033160	FBti0063127	present	present	present	0	60	100.00(0/60)		23.98		19	19	60	100.00(0/60)		31.83		18	18
+SRR2033160	FBti0018969	absent	present	polymorphic	1	60	100.00(0/60)		9.56		5	5	60	100.00(0/60)		6.32		4	4
+SRR2033160	FBti0019065	absent	present	polymorphic	5	60	100.00(0/60)		16.09		5	5	60	100.00(0/60)		8.74		7	7
+SRR2033160	FBti0061731	present	present	present	0	54	100.00(0/56)		3.01	A-rich	0	0	34	100.00(0/34)		4.30		2	2
+SRR2033160	FBti0019127	present	present	present	0	60	100.00(0/60)		8.91		7	7	55	100.00(0/56)		2.66	(T)n	2	2
+SRR2033160	FBti0062862		present	polymorphic		60	98.33(1/60)		31.08	Mariner-15_DK	8	8	60	100.00(0/60)		31.04		31	31
+SRR2033160	FBti0063749	absent	present	polymorphic	6	60	100.00(0/60)		19.94		8	8	60	100.00(0/60)		18.46		4	4
+SRR2033160	FBti0019355		present	polymorphic		60	100.00(0/60)		10.35	Jockey-1_DYa	8	8	60	100.00(0/60)		10.36		6	6
+SRR2033160	FBti0060971	present	present	present	0	60	100.00(0/60)		31.88		26	26	60	100.00(0/60)		17.29		15	15
+SRR2033160	FBti0064138		present	polymorphic		60	96.67(2/60)		16.86	Mariner-9_DEl	10	10	60	100.00(0/60)		9.00		4	4
+SRR2033160	FBti0063722	present	present	present	0	60	100.00(0/60)		25.26		17	17	60	96.67(2/60)		22.88	(TTTG)n	8	8
+SRR2033160	FBti0020075	absent	present	polymorphic	3	60	100.00(0/60)		11.14		0	0	60	100.00(0/60)		21.79		10	10
+SRR2033160	FBti0019062	present	present	present	0	60	96.67(2/60)		8.23		3	3	60	100.00(0/60)		7.53		3	3
+SRR2033160	FBti0020171		present	polymorphic		60	100.00(0/60)		18.41	(CTATA)n	15	15	60	100.00(0/60)		10.75		4	4
+SRR2033160	FBti0019385	present	present	present	0	60	100.00(0/60)		4.27		2	2	60	100.00(0/60)		10.18		8	8
+SRR2033160	FBti0020052	absent	present	polymorphic	3	60	100.00(0/60)		15.41		2	2	60	100.00(0/60)		18.54	(GT)n	6	6
+SRR2033160	FBti0019732	present	present	present	0	60	100.00(0/60)		20.66		7	7	60	100.00(0/60)		11.04		6	6
+SRR2033160	FBti0060415		present	polymorphic		60	100.00(0/60)		26.43	Gypsy-13_DSim-LTR	12	12	60	100.00(0/60)		32.86	Gypsy-13_DSim-I	20	20
+SRR2033160	FBti0060718	present	present	present	0	60	100.00(0/60)		26.59		27	27	60	98.33(1/60)		21.35		11	11
+SRR2033160	FBti0059791	present	present	present	0	60	100.00(0/60)		17.13		6	6	60	100.00(0/60)		19.21		12	12
+SRR2033160	FBti0020280	present	present	present	0	60	100.00(0/60)		10.42	Transib-N1_DM	10	10	60	100.00(0/60)		17.11		12	12
+SRR2033160	FBti0020105	absent	present	polymorphic	3	60	100.00(0/60)		15.63		4	4	15	100.00(0/15)		1.83		0	0
+SRR2033160	FBti0019975	absent	present	polymorphic	3	60	100.00(0/60)		11.39		8	8	26	100.00(0/26)		9.36	(AT)n	0	0
+SRR2033160	FBti0019368	present	present	present	0	60	100.00(0/60)		24.62	BARI1	22	22	60	95.00(3/60)		31.84		13	13
+SRR2033160	FBti0060462		present	polymorphic		60	100.00(0/60)		16.14	Transib5	11	11	60	100.00(0/60)		22.71	Gypsy-1_DSim-I	11	11
+SRR2033160	FBti0062810		present	polymorphic		60	100.00(0/60)		31.45	PROTOP_B	26	26	60	100.00(0/60)		27.46		8	8
+SRR2033160	FBti0019270		present	polymorphic		60	100.00(0/60)		16.99		6	6	60	98.33(1/60)		13.00	Gypsy-4_DSim-LTR	9	9
+SRR2033160	FBti0019992	present	present	present	0	60	100.00(0/60)		11.31		7	7	60	100.00(0/60)		11.19		5	5
+SRR2033160	FBti0063103	present	present	present	0	60	100.00(0/60)		27.54		30	30	60	100.00(0/60)		24.23		7	7
+SRR2033160	FBti0018894	present	present	present	0	60	100.00(0/60)		5.69		2	2	60	98.33(1/60)		14.99	A-rich	6	6
+SRR2033160	FBti0060665		present	polymorphic		60	100.00(0/60)		17.59	Gypsy-12_DSim-I	8	8	60	100.00(0/60)		17.41	Jockey-6_DVi	11	11
+SRR2033160	FBti0060339		present	polymorphic		60	100.00(0/60)		9.31		1	1	60	100.00(0/60)		16.41	TC1-2_DM	12	12
+SRR2033160	FBti0018964	absent	present	polymorphic	6	60	100.00(0/60)		6.24		5	5	60	100.00(0/60)		6.57		3	3
+SRR2033160	FBti0061835	present	present	present	0	60	100.00(0/60)		17.46		11	11	60	100.00(0/60)		14.64		6	6
+SRR2033160	FBti0060593		present	polymorphic		60	100.00(0/60)		26.73	Transib5	11	11	60	100.00(0/60)		23.64	Transib5	17	17
+SRR2033160	FBti0019114	absent	present	polymorphic	12	60	100.00(0/60)		14.33		8	8	21	100.00(0/21)		4.99		0	0
+SRR2033160	FBti0062879	present	present	present	0	60	91.67(5/60)		25.07		22	22	60	98.33(1/60)		14.74		13	13
+SRR2033160	FBti0062894	present	present	present	0	60	100.00(0/60)		17.48	Helitron-N2_DEl	15	15	60	100.00(0/60)		17.37		9	9
+SRR2033160	FBti0061688	present	present	present	0	60	100.00(0/60)		21.62		13	13	60	100.00(0/60)		24.98		14	14
+SRR2033160	FBti0019197	present	present	present	0	60	100.00(0/60)		11.54		6	6	60	100.00(0/60)		29.05		20	20
+SRR2033160	FBti0019143	absent	present	polymorphic	7	60	100.00(0/60)		12.68		7	7	60	100.00(0/60)		8.49		5	5
+SRR2033160	FBti0018903	absent	absent	absent	16	-4	0(0/0)		7.38		0	0	-2	0(0/0)		4.81		0	0
+SRR2033160	FBti0019635	absent	present	polymorphic	1	60	100.00(0/60)		6.07		5	5	60	100.00(0/60)		15.38	(TGTA)n	9	9
+SRR2033160	FBti0019195	absent	absent	absent	6	-1	0(0/0)		3.90		0	0	-2	0(0/0)		3.20		0	0
+SRR2033160	FBti0020237	present	present	present	0	60	100.00(0/60)		25.57	Helitron-2_DRh	10	10	60	100.00(0/60)		15.94		13	13
+SRR2033160	FBti0060381	present	present	present	0	60	100.00(0/60)		19.44		14	14	60	100.00(0/60)		13.66		2	2
+SRR2033160	FBti0020311	present	present	present	0	60	100.00(0/60)		30.21		15	15	60	98.33(1/60)		18.57		12	12
+SRR2033160	FBti0019573	absent	present	polymorphic	6	60	100.00(0/60)		7.81		0	0	60	100.00(0/60)		12.03		6	6
+SRR2033160	FBti0019427	present	present	present	0	60	100.00(0/60)		9.99	(ATG)n	0	0	60	100.00(0/60)		14.13	(TGTTTA)n	7	7
+SRR2033160	FBti0060948	present	present	present	0	60	96.67(2/60)		6.70		5	5	60	100.00(0/60)		10.79		6	6
+SRR2033160	FBti0019058	absent	present	polymorphic	4	3	100.00(0/12)		1.84		0	0	60	100.00(0/60)		9.62		6	6
+SRR2033160	FBti0060796	present	present	present	0	60	100.00(0/60)		21.92		19	19	60	100.00(0/60)		22.79		13	13
+SRR2033160	FBti0063369		present	polymorphic		60	100.00(0/60)		23.36	DNAREP1_DYak	23	23	60	100.00(0/60)		24.44		15	15
+SRR2033160	FBti0018913		present	polymorphic		42	100.00(0/42)	poly(A)9	3.21	Gypsy-30_DEl-LTR	0	0	60	100.00(0/60)		4.67		3	3
+SRR2033160	FBti0019758	absent	present	polymorphic	3	60	100.00(0/60)		10.80		1	1	60	100.00(0/60)		12.31		7	7
+SRR2033160	FBti0019996	present	present	present	0	60	100.00(0/60)		17.56		4	4	60	98.33(1/60)		23.07		15	15
+SRR2033160	FBti0019128	absent	present	polymorphic	5	60	100.00(0/60)		13.03		5	5	60	100.00(0/60)		17.81		9	9
+SRR2033160	FBti0064309		present	polymorphic		60	100.00(0/60)		25.41	Transib-1_DRh	23	23	60	100.00(0/60)		20.12		12	12
+SRR2033160	FBti0019217	absent	present	polymorphic	5	60	100.00(0/60)		18.09		8	8	60	100.00(0/60)		13.19		8	8
+SRR2033160	FBti0063347		present	polymorphic		60	100.00(0/60)		33.66		23	23	60	100.00(0/60)		36.10	Gypsy-26_DYa-LTR	21	21
+SRR2033160	FBti0019571	absent	present	polymorphic	3	60	100.00(0/60)		17.36		12	12	60	100.00(0/60)		12.97		8	8
+SRR2033160	FBti0019590		present	polymorphic		60	100.00(0/60)		12.56	(TG)n	2	2	60	100.00(0/60)		4.92	Jockey-1_DYa	6	6
+SRR2033160	FBti0019134	absent	present	polymorphic	8	60	100.00(0/60)		14.89		5	5	60	100.00(0/60)		16.74		9	9
+SRR2033160	FBti0019337	absent	present	polymorphic	8	60	100.00(0/60)		16.29		12	12	60	100.00(0/60)		15.16		6	6
+SRR2033160	FBti0018927	absent	present	polymorphic	1	60	100.00(0/60)		6.19		4	4	60	100.00(0/60)		7.17		3	3
+SRR2033160	FBti0060155		present	polymorphic		60	100.00(0/60)		27.69	Gypsy-13_DSim-I	16	16	60	100.00(0/60)		22.18		8	8
+SRR2033160	FBti0019521	absent	present	polymorphic	3	60	100.00(0/60)		15.14		2	2	60	100.00(0/60)		22.71		8	8
+SRR2033160	FBti0061339		present	polymorphic		60	100.00(0/60)		7.16	A-rich	3	3	60	100.00(0/60)		28.66	DMCR1A	16	16
+SRR2033160	FBti0019075	absent	present	polymorphic	8	60	100.00(0/60)		7.18	(AC)n	1	1	60	100.00(0/60)		13.81		5	5
+SRR2033160	FBti0019149	present	present	present	0	60	100.00(0/60)		9.54		7	7	60	100.00(0/60)	poly(A)13	8.09		2	2
+SRR2033160	FBti0019377	absent	present	polymorphic	1	60	100.00(0/60)		4.19		3	3	60	100.00(0/60)		19.46		7	7
+SRR2033160	FBti0019567	absent	present	polymorphic	3	60	100.00(0/60)		9.89		6	6	60	100.00(0/60)		11.94		7	7
+SRR2033160	FBti0062654	present	present	present	0	60	100.00(0/60)		29.36		16	16	60	100.00(0/60)		15.70		12	12
+SRR2033160	FBti0015567		absent	no_data		-6	0(0/0)		3.62	A-rich	0	0	-1	0(0/0)		2.65	(T)n	0	0
+SRR2033160	FBti0019435	absent	present	polymorphic	2	60	100.00(0/60)		18.95		12	12	60	100.00(0/60)		15.82		6	6
+SRR2033160	FBti0060879		present	polymorphic		60	100.00(0/60)		7.36	PROTOP	8	8	60	100.00(0/60)		12.85		9	9
+SRR2033160	FBti0061025		present	polymorphic		60	100.00(0/60)		38.38	Gypsy-13_DSim-I	26	26	60	100.00(0/60)		44.08	Gypsy-13_DSim-I	38	38
+SRR2033160	FBti0019550		present	polymorphic		60	100.00(0/60)		11.54		4	4	60	100.00(0/60)		15.97	(TCTTCAG)n	7	7
+SRR2033160	FBti0019581	absent	present	polymorphic	2	60	100.00(0/60)		9.81	(A)n	7	7	60	100.00(0/60)		7.03		7	7
+SRR2033160	FBti0019447	absent	present	polymorphic	3	60	100.00(0/60)		8.47		3	3	60	100.00(0/60)		9.89		0	0
+SRR2033160	FBti0020386	absent	present	polymorphic	9	60	100.00(0/60)		21.54		15	15	60	100.00(0/60)		10.88		3	3
+SRR2033160	FBti0020077	absent	present	polymorphic	3	60	100.00(0/60)		18.65		9	9	60	100.00(0/60)		6.09	(CAGGA)n	0	0
+SRR2033160	FBti0019566	absent	present	polymorphic	6	60	100.00(0/60)		13.23	(GT)n	7	7	60	100.00(0/60)		10.47		3	3
+SRR2033160	FBti0020226		present	polymorphic		60	98.33(1/60)		21.56	Polinton-1_DY	14	14	60	100.00(0/60)		18.37		3	3
+SRR2033160	FBti0060788	present	present	present	0	60	100.00(0/60)		24.14		7	7	60	98.33(1/60)		18.83		10	10
+SRR2033160	FBti0062683		present	polymorphic		60	100.00(0/60)		12.62	Gypsy-4_DBi-I	3	3	60	100.00(0/60)		8.94		4	4
+SRR2033160	FBti0019401	present	present	present	0	60	100.00(0/60)		2.51	(C)n	3	3	-22	0(0/0)	poly(A)7	2.92		0	0
+SRR2033160	FBti0060534	present	present	present	0	60	100.00(0/60)		16.72	A-rich	14	14	60	98.33(1/60)		30.79		18	18
+SRR2033160	FBti0060244	present	present	present	0	60	100.00(0/60)		13.27		10	10	60	100.00(0/60)		10.03		5	5
+SRR2033160	FBti0019155	absent	present	polymorphic	7	60	100.00(0/60)		15.54		4	4	60	100.00(0/60)		17.19		7	7
+SRR2033160	FBti0019190	absent	absent	absent	7	5	100.00(0/35)		1.44		0	0	60	100.00(0/60)		8.49		0	0
+SRR2033160	FBti0059687	present	present	present	0	60	100.00(0/60)		12.62		7	7	60	100.00(0/60)		15.82		10	10
+SRR2033160	FBti0019763	absent	absent	absent	17	0	0(0/0)		9.21		0	0	-30	0(0/0)		0.00		0	0
+SRR2033160	FBti0019037		present	polymorphic		60	98.33(1/60)		12.84	DNAREP1_DYak	2	2	60	96.67(2/60)		19.74	R1_DYa	11	11
+SRR2033160	FBti0059673		present	polymorphic		60	100.00(0/60)		11.46	Transib5	5	5	60	100.00(0/60)		29.36		17	17
+SRR2033160	FBti0059648		present	polymorphic		60	98.33(1/60)		17.42		6	6	60	100.00(0/60)		23.29	DNAREP1_DSim	14	14
+SRR2033160	FBti0019454	absent	present	polymorphic	5	60	100.00(0/60)		17.40		5	5	60	100.00(0/60)		8.44		6	6
+SRR2033160	FBti0020231	present	present	present	0	60	98.33(1/60)		21.94	(ACAG)n	19	19	60	98.33(1/60)		12.43		7	7
+SRR2033160	FBti0060337	present	present	present	0	60	100.00(0/60)		26.73		22	22	60	100.00(0/60)		14.25		9	9
+SRR2033160	FBti0019124	present	present	present	0	60	100.00(0/60)		21.93		6	6	60	100.00(0/60)		19.74		7	7
+SRR2033160	FBti0060584		present	polymorphic		60	100.00(0/60)		22.93	Gypsy-1_DSim-I	17	17	60	100.00(0/60)		37.08	R1-7_DPer	20	20
+SRR2033160	FBti0059938	present	present	present	0	60	100.00(0/60)		17.61		9	9	60	98.33(1/60)		14.62		6	6
+SRR2033160	FBti0060866	present	present	present	0	60	98.33(1/60)		9.75		5	5	60	98.33(1/60)		10.09	(TTATA)n	8	8
+SRR2033160	FBti0020294	present	present	present	0	60	100.00(0/60)		36.54	(ATATACAGT)n	18	18	60	100.00(0/60)		18.34		5	5
+SRR2033160	FBti0020137	present	present	present	0	60	100.00(0/60)		13.39		9	9	60	100.00(0/60)		10.41		7	7
+SRR2033160	FBti0019335	absent	present	polymorphic	11	60	100.00(0/60)		10.20		4	4	60	100.00(0/60)		12.34		8	8
+SRR2033160	FBti0019302	present	present	present	0	60	100.00(0/60)		28.16		21	21	60	100.00(0/60)		16.09	DNAREP1_DYak	7	7
+SRR2033160	FBti0061779	present	present	present	0	60	98.33(1/60)		25.91		20	20	60	100.00(0/60)		28.79		15	15
+SRR2033160	FBti0020035	present	present	present	0	-30	0(0/0)		0.00		0	0	60	100.00(0/60)		15.84		11	11
+SRR2033160	FBti0019840		present	polymorphic		60	100.00(0/60)		13.50	A-rich	10	10	60	100.00(0/60)		4.09	PROTOP	3	3
+SRR2033160	FBti0019236	absent	present	polymorphic	8	60	100.00(0/60)		15.70		10	10	60	100.00(0/60)		11.91		12	12
+SRR2033160	FBti0019148	absent	present	polymorphic	9	60	100.00(0/60)		21.36		9	9	60	100.00(0/60)		19.46		5	5
+SRR2033160	FBti0059682	present	present	present	0	60	100.00(0/60)		20.02		11	11	60	100.00(0/60)		12.72		8	8
+SRR2033160	FBti0018948	absent	absent	absent	6	-1	0(0/0)		8.93	(TG)n	0	0	-1	0(0/0)		4.19		0	0
+SRR2033160	FBti0019397	present	present	present	0	31	100.00(0/39)	poly(A)5	2.48		0	0	60	100.00(0/60)		7.63		5	5
+SRR2033160	FBti0019749	present	present	present	0	60	100.00(0/60)		14.03		8	8	60	100.00(0/60)		21.59		8	8
+SRR2033160	FBti0019151	absent	present	polymorphic	7	60	100.00(0/60)		8.52		5	5	60	100.00(0/60)		12.93		3	3
+SRR2033160	FBti0020427	present	present	present	0	60	100.00(0/60)		26.03		16	16	60	100.00(0/60)		19.22		18	18
+SRR2033160	FBti0020298	present	present	present	0	60	100.00(0/60)		26.48		10	10	60	100.00(0/60)		18.74		10	10
+SRR2033160	FBti0019013	absent	present	polymorphic	4	60	100.00(0/60)		22.90		9	9	60	100.00(0/60)		18.74		7	7
+SRR2033160	FBti0019381	absent	present	polymorphic	3	60	100.00(0/60)		9.67		6	6	60	100.00(0/60)		12.97		6	6
+SRR2033160	FBti0063077	present	present	present	0	60	100.00(0/60)		20.14		21	21	60	100.00(0/60)		25.39		12	12
+SRR2033160	FBti0019311	absent	present	polymorphic	14	60	100.00(0/60)		15.36		7	7	60	100.00(0/60)		11.23		3	3
+SRR2033160	FBti0018992	absent	present	polymorphic	1	26	100.00(0/26)		6.95	hAT-N1_DF	2	2	60	100.00(0/60)		3.85		0	0
+SRR2033160	FBti0063067	present	present	present	0	60	100.00(0/60)		30.99		22	22	60	100.00(0/60)		25.62	(AGAACG)n	23	23
+SRR2033160	FBti0019382	absent	present	polymorphic	6	60	100.00(0/60)		5.86		0	0	60	100.00(0/60)		10.10		6	6
+SRR2033160	FBti0020094	absent	present	polymorphic	2	60	100.00(0/60)		23.11		9	9	60	100.00(0/60)		21.77		13	13
+SRR2033160	FBti0064268	absent	present	polymorphic	4	60	100.00(0/60)		8.69		1	1	60	100.00(0/60)		9.73		4	4
+SRR2033160	FBti0060922	present	present	present	0	60	98.33(1/60)		24.81		13	13	60	100.00(0/60)		31.38		26	26
+SRR2033160	FBti0019312	absent	present	polymorphic	1	60	100.00(0/60)		12.58		4	4	17	100.00(0/19)		2.89		0	0
+SRR2033160	FBti0019978	absent	present	polymorphic	5	60	100.00(0/60)		16.00		6	6	60	100.00(0/60)		17.49		9	9
+SRR2033160	FBti0062980	present	present	present	0	60	100.00(0/60)		11.54		6	6	60	98.33(1/60)		11.79		5	5
+SRR2033160	FBti0019654	absent	absent	absent	27	-1	0(0/0)		10.57	(GT)n	0	0	-1	0(0/0)		5.90		0	0
+SRR2033160	FBti0020089	absent	present	polymorphic	6	60	100.00(0/60)		6.24		4	4	60	100.00(0/60)	poly(A)4	7.02		3	3
+SRR2033160	FBti0059897		present	polymorphic		60	100.00(0/60)		30.98	Gypsy-23_DYa-I	15	15	60	100.00(0/60)		32.02		23	23
+SRR2033160	FBti0062589		present	polymorphic		60	98.33(1/60)		37.92	DMRT1B	24	24	60	100.00(0/60)		31.42		23	23
+SRR2033160	FBti0019410	present	present	present	0	60	100.00(0/60)		27.16		24	24	60	100.00(0/60)		11.99		5	5
+SRR2033160	FBti0063947	present	present	present	0	60	100.00(0/60)		28.51		26	26	60	100.00(0/60)		21.74		15	15
+SRR2033160	FBti0019446	absent	absent	absent	11	-8	0(0/0)		2.34		0	0	-6	0(0/0)		5.99		0	0
+SRR2033160	FBti0064218	present	present	present	0	60	100.00(0/60)	poly(A)5	23.44	Gypsy-3_DBi-I	13	13	60	100.00(0/60)		12.57		9	9
+SRR2033160	FBti0060160		present	polymorphic		60	100.00(0/60)		41.02		19	19	60	100.00(0/60)		19.80	Gypsy-7_DSim-LTR	16	16
+SRR2033160	FBti0020147	present	present	present	0	60	100.00(0/60)		41.78		35	35	60	100.00(0/60)		38.36		21	21
+SRR2033160	FBti0019304		present	polymorphic		60	100.00(0/60)		25.51		17	17	60	100.00(0/60)		26.61	Jockey-1_DYa	15	15
+SRR2033160	FBti0019087	absent	present	polymorphic	6	60	100.00(0/60)		16.77		8	8	60	100.00(0/60)		15.32		5	5
+SRR2033160	FBti0061486		present	polymorphic		60	100.00(0/60)		24.26	Gypsy12A_LTR	15	15	60	100.00(0/60)		7.43	Gypsy12A_LTR	3	3
+SRR2033160	FBti0060895		present	polymorphic		60	100.00(0/60)		9.82		4	4	60	100.00(0/60)		23.66	DNAREP1_DYak	15	15
+SRR2033160	FBti0020301		present	polymorphic		60	100.00(0/60)		10.49	(AT)n	11	11	60	100.00(0/60)		27.97	DNAREP1_DM	21	21
+SRR2033160	FBti0019426	absent	present	polymorphic	1	60	100.00(0/60)		7.98		3	3	60	100.00(0/60)		4.71		1	1
+SRR2033160	FBti0061396	present	present	present	0	60	100.00(0/60)		26.33		18	18	60	100.00(0/60)		27.95		11	11
+SRR2033160	FBti0019384	absent	present	polymorphic	7	60	100.00(0/60)		13.98		8	8	60	100.00(0/60)		12.82		7	7
+SRR2033160	FBti0063672	present	present	present	0	60	100.00(0/60)		6.69		4	4	60	100.00(0/60)		9.74		6	6
+SRR2033160	FBti0061866	present	present	present	0	60	100.00(0/60)		12.57		7	7	60	100.00(0/60)		12.89		9	9
+SRR2033160	FBti0019582	absent	present	polymorphic	1	60	100.00(0/60)		18.44		4	4	60	100.00(0/60)		9.62		11	11
+SRR2033160	FBti0061994		present	polymorphic		60	98.33(1/60)		29.56		15	15	60	100.00(0/60)		17.94	DNAREP1_DYak	7	7
+SRR2033160	FBti0019441	absent	absent	absent	22	-4	0(0/0)		6.81		0	0	-26	0(0/0)		3.74		0	0
+SRR2033160	FBti0019529	present	present	present	0	60	100.00(0/60)		30.27		10	10	60	100.00(0/60)	poly(A)4	23.96		18	18
+SRR2033160	FBti0019492		present	polymorphic		60	100.00(0/60)		10.86	DNAREP1_DSim	8	8	60	100.00(0/60)		7.61	DNAREP1_DSim	2	2
+SRR2033160	FBti0019308	absent	present	polymorphic	3	60	100.00(0/60)		11.54		3	3	60	100.00(0/60)		8.15		4	4
+SRR2033160	FBti0019745	absent	present	polymorphic	9	60	100.00(0/60)		11.79		7	7	60	100.00(0/60)		23.34		5	5
+SRR2033160	FBti0062875	present	present	present	0	60	100.00(0/60)		23.03		17	17	60	100.00(0/60)		20.07		10	10
+SRR2033160	FBti0060396		present	polymorphic		60	100.00(0/60)		21.37	DNAREP1_DSim	9	9	60	100.00(0/60)		16.02	DNAREP1_DSim	11	11
+SRR2033160	FBti0019591	absent	present	polymorphic	2	60	100.00(0/60)		11.81	(TTTC)n	4	4	60	100.00(0/60)		8.01		2	2
+SRR2033160	FBti0020024	absent	absent	absent	5	-7	0(0/0)		1.77		0	0	-12	0(0/0)		2.41		0	0
+SRR2033160	FBti0019697	present	present	present	0	60	98.33(1/60)		34.79		15	15	60	100.00(0/60)		24.84		10	10
+SRR2033160	FBti0019631	absent	present	polymorphic	4	60	100.00(0/60)		6.91		5	5	60	100.00(0/60)		1.52	(G)n	2	2
+SRR2033160	FBti0019449	present	present	present	0	60	100.00(0/60)		5.02		1	1	60	100.00(0/60)		15.88		3	3
+SRR2033160	FBti0059790	present	present	present	0	60	100.00(0/60)		22.39		16	16	60	98.33(1/60)		26.11		18	18
+SRR2033160	FBti0020130	absent	present	polymorphic	9	60	100.00(0/60)		9.87		6	6	60	100.00(0/60)		8.56		1	1
+SRR2033160	FBti0062854	present	present	present	0	60	100.00(0/60)		14.22	(ATTTTC)n	7	7	60	100.00(0/60)		19.47		8	8
+SRR2033160	FBti0063255	present	present	present	0	60	100.00(0/60)		22.91		16	16	60	100.00(0/60)		32.31		16	16
+SRR2033160	FBti0019438	absent	present	polymorphic	5	60	100.00(0/60)		7.65		3	3	60	100.00(0/60)		17.31		7	7
+SRR2033160	FBti0061630	present	present	present	0	60	100.00(0/60)		17.49	(ATGAAT)n	5	5	60	100.00(0/60)		24.86		14	14
+SRR2033160	FBti0019373	absent	present	polymorphic	4	60	100.00(0/60)		9.21		7	7	27	100.00(0/30)	poly(A)5	2.84		0	0
+SRR2033160	FBti0062069	present	present	present	0	60	100.00(0/60)		27.64	(TTG)n	19	19	60	100.00(0/60)		30.23		20	20
+SRR2033160	FBti0062311	present	present	present	0	60	100.00(0/60)		22.22		14	14	60	100.00(0/60)		22.42		10	10
+SRR2033160	FBti0019511		present	polymorphic		60	100.00(0/60)		11.68	(T)n	7	7	60	100.00(0/60)		16.40	DNAREP1_DSim	13	13
+SRR2033160	FBti0061615	present	present	present	0	60	100.00(0/60)		17.47		9	9	60	100.00(0/60)		10.59	(TTATATT)n	9	9
+SRR2033160	FBti0019378	present	present	present	0	60	100.00(0/60)		8.48		0	0	60	100.00(0/60)		5.97		5	5
+SRR2033160	FBti0019458	absent	present	polymorphic	12	60	100.00(0/60)		13.00		8	8	60	100.00(0/60)		18.47		9	9
+SRR2033160	FBti0018940	present	present	present	0	60	100.00(0/60)		5.99	(TATAT)n	1	1	60	100.00(0/60)		17.37		5	5
+SRR2033160	FBti0020164	absent	present	polymorphic	3	-30	0(0/0)		0.00	A-rich	0	0	60	100.00(0/60)		10.99		6	6
+SRR2033160	FBti0019583	present	present	present	0	60	100.00(0/60)		16.51		7	7	-7	0(0/0)	poly(A)4	6.66		0	0
+SRR2033160	FBti0019040	absent	present	polymorphic	3	60	100.00(0/60)		10.85	(AT)n	5	5	60	100.00(0/60)		16.29		8	8
+SRR2033160	FBti0018947	absent	absent	absent	19	0	0(0/0)		11.30		0	0	-4	0(0/0)		7.44		0	0
+SRR2033160	FBti0060360	present	present	present	0	60	98.33(1/60)		21.04		14	14	60	98.33(1/60)		23.21		16	16
+SRR2033160	FBti0063759	present	present	present	0	60	100.00(0/60)		31.77		32	32	60	100.00(0/60)		32.06		13	13
+SRR2033160	FBti0061399	present	present	present	0	60	100.00(0/60)		21.69		15	15	60	98.33(1/60)		20.74		13	13
+SRR2033160	FBti0019090	present	present	present	0	60	100.00(0/60)		24.35		12	12	60	100.00(0/60)		23.73		9	9
+SRR2033160	FBti0062912	present	present	present	0	60	100.00(0/60)		18.43		9	9	60	100.00(0/60)		13.03		4	4
+SRR2033160	FBti0061008	present	present	present	0	60	100.00(0/60)	poly(A)4	15.94		7	7	60	100.00(0/60)		17.63		10	10
+SRR2033160	FBti0020093	present	present	present	0	60	100.00(0/60)		4.70	A-rich	3	3	60	100.00(0/60)		6.01		2	2
+SRR2033160	FBti0019466	absent	present	polymorphic	4	60	100.00(0/60)		10.55		2	2	60	100.00(0/60)		16.34		10	10
+SRR2033160	FBti0060865	present	present	present	0	60	100.00(0/60)		24.54		19	19	60	100.00(0/60)		22.43		13	13
+SRR2033160	FBti0061612	present	present	present	0	60	100.00(0/60)		10.54		7	7	60	100.00(0/60)		25.69		16	16
+SRR2033160	FBti0060722		present	polymorphic		60	100.00(0/60)		17.99	Gypsy-36_DEl-I	10	10	60	100.00(0/60)		21.16	Gypsy-36_DEl-I	17	17
+SRR2033160	FBti0019524	absent	present	polymorphic	11	60	100.00(0/60)		15.89		8	8	60	100.00(0/60)		15.30		8	8
+SRR2033160	FBti0019000	absent	present	polymorphic	11	60	100.00(0/60)		16.89		9	9	60	100.00(0/60)		8.02		2	2
+SRR2033160	FBti0060604		present	polymorphic		60	98.33(1/60)		19.82		10	10	60	100.00(0/60)		16.12	P-1_DY	8	8
+SRR2033160	FBti0063618	present	present	present	0	60	100.00(0/60)		18.66	Gypsy10-I_Dya	9	9	60	100.00(0/60)		23.34		15	15
+SRR2033160	FBti0061808	present	present	present	0	60	100.00(0/60)		25.08		15	15	60	100.00(0/60)		23.68	(AATAG)n	13	13
+SRR2033160	FBti0061740		present	polymorphic		60	100.00(0/60)		8.13		4	4	59	96.61(2/59)		13.19	hAT-1_DSi	8	8
+SRR2033160	FBti0019985	absent	present	polymorphic	7	60	100.00(0/60)		15.16		12	12	60	100.00(0/60)		14.21		7	7
+SRR2033160	FBti0018946		absent	no_data		-5	0(0/0)		10.69	Gypsy-22_DWil-I	0	0	-3	0(0/0)		12.84	Jockey-3_DGri	0	0
+SRR2033160	FBti0062261	present	present	present	0	60	100.00(0/60)		14.57		15	15	60	100.00(0/60)		17.12		11	11
+SRR2033160	FBti0061529	present	present	present	0	60	100.00(0/60)		22.81		21	21	60	100.00(0/60)		20.16		9	9
+SRR2033160	FBti0061894		present	polymorphic		60	100.00(0/60)		12.96	Helitron-N1_DBi	3	3	60	100.00(0/60)		10.82	(TCATAAT)n	6	6
+SRR2033160	FBti0019081	present	present	present	0	60	100.00(0/60)		33.15		13	13	60	100.00(0/60)		14.95		7	7
+SRR2033160	FBti0060081		present	polymorphic		60	100.00(0/60)		28.86	BEL-4_DEl-LTR	14	14	60	100.00(0/60)		30.68	Harbinger1_DYa	19	19
+SRR2033160	FBti0059794	present	absent	no_data	0	-19	0(0/0)	poly(A)7	2.84		0	0	-5	0(0/0)		6.67		0	0
+SRR2033160	FBti0019540	absent	present	polymorphic	12	60	100.00(0/60)		14.55		11	11	60	100.00(0/60)		11.46		6	6
+SRR2033160	FBti0062412		present	polymorphic		60	98.33(1/60)		18.84	DNAREP1_DYak	16	16	60	100.00(0/60)		27.07		21	21
+SRR2033160	FBti0019174	present	present	present	0	31	100.00(0/31)	poly(A)27	6.28	(T)n	0	0	60	100.00(0/60)		22.18		13	13
+SRR2033160	FBti0019461	present	present	present	0	60	100.00(0/60)		10.09		6	6	60	100.00(0/60)		9.90		3	3
+SRR2033160	FBti0064169		present	polymorphic		60	100.00(0/60)		31.70	BEL-4_DEu-I	21	21	60	100.00(0/60)		33.11		11	11
+SRR2033160	FBti0019847		present	polymorphic		60	100.00(0/60)		32.87		24	24	60	100.00(0/60)		25.23	Helitron-N1_DEl	12	12
+SRR2033160	FBti0019627	absent	present	polymorphic	7	60	100.00(0/60)		24.26		14	14	60	100.00(0/60)		20.78		11	11
+SRR2033160	FBti0020406	present	present	present	0	60	100.00(0/60)		10.54		5	5	60	100.00(0/60)		27.77	REP-1_DTa	20	20
+SRR2033160	FBti0019844	present	present	present	0	60	100.00(0/60)		16.70		5	5	60	100.00(0/60)		11.29		4	4
+SRR2033160	FBti0059983	present	present	present	0	60	100.00(0/60)		14.47		6	6	60	100.00(0/60)		24.38		6	6
+SRR2033160	FBti0019313	absent	absent	absent	14	0	0(0/0)		5.96		0	0	-1	0(0/0)		6.33		0	0
+SRR2033160	FBti0019109	absent	present	polymorphic	3	60	100.00(0/60)		13.35		15	15	60	100.00(0/60)		15.74		10	10
+SRR2033160	FBti0061565	present	present	present	0	60	98.33(1/60)		31.87		23	23	60	96.67(2/60)		35.68		20	20
+SRR2033160	FBti0062632	present	present	present	0	60	100.00(0/60)		26.22		17	17	60	100.00(0/60)		24.77		18	18
+SRR2033160	FBti0020091	present	present	present	0	60	100.00(0/60)		12.47		5	5	60	100.00(0/60)		25.52		15	15
+SRR2033160	FBti0018978		present	polymorphic		60	100.00(0/60)		10.97	Gypsy-47_DEl-I	3	3	60	100.00(0/60)		14.13		7	7
+SRR2033160	FBti0019442	absent	absent	absent	3	-1	0(0/0)		5.72		0	0	7	100.00(0/8)		5.95		0	0
+SRR2033160	FBti0019614	absent	present	polymorphic	6	60	100.00(0/60)		14.07		3	3	60	100.00(0/60)		6.99		3	3
+SRR2033160	FBti0019305	absent	present	polymorphic	5	60	100.00(0/60)		8.18		3	3	60	100.00(0/60)		14.46		10	10
+SRR2033160	FBti0018873	absent	present	polymorphic	4	60	100.00(0/60)		12.92		6	6	60	100.00(0/60)		14.56		6	6
+SRR2033160	FBti0018968	absent	present	polymorphic	2	60	100.00(0/60)		6.14		1	1	60	100.00(0/60)		6.33		4	4
+SRR2033160	FBti0063779	present	present	present	0	60	100.00(0/60)		16.72		10	10	60	98.33(1/60)		16.29		9	9
+SRR2033160	FBti0062664	present	present	present	0	60	100.00(0/60)		14.11	(A)n	12	12	60	98.33(1/60)		19.51		11	11
+SRR2033160	FBti0061789	present	present	present	0	60	100.00(0/60)		36.95		14	14	60	100.00(0/60)		33.23		24	24
+SRR2033160	FBti0061857		present	polymorphic		60	100.00(0/60)		5.05		0	0	60	100.00(0/60)		9.62	DNAREP1_DYak	10	10
+SRR2033160	FBti0063747	present	present	present	0	60	100.00(0/60)		8.86		3	3	60	100.00(0/60)		10.12		6	6
+SRR2033160	FBti0060094	present	present	present	0	60	100.00(0/60)		40.35		17	17	60	100.00(0/60)		20.96		11	11
+SRR2033160	FBti0061549	present	present	present	0	60	100.00(0/60)		8.45		3	3	60	100.00(0/60)		15.18		10	10
+SRR2033160	FBti0060562	present	present	present	0	60	100.00(0/60)		30.53		22	22	60	100.00(0/60)		28.90		23	23
+SRR2033160	FBti0019028	absent	present	polymorphic	1	60	100.00(0/60)		7.18		5	5	60	100.00(0/60)		12.18		9	9
+SRR2033160	FBti0019448	absent	present	polymorphic	9	60	100.00(0/60)		11.41		5	5	26	100.00(0/33)	poly(A)5	8.18		0	0
+SRR2033160	FBti0019346	present	present	present	0	60	100.00(0/60)		19.88	(ATATAC)n	11	11	60	100.00(0/60)		21.48		12	12
+SRR2033160	FBti0063214	present	present	present	0	60	100.00(0/60)		22.54		14	14	60	100.00(0/60)		18.63		13	13
+SRR2033160	FBti0019480	present	present	present	0	60	100.00(0/60)		23.22		14	14	60	100.00(0/60)		10.22		9	9
+SRR2033160	FBti0019939		present	polymorphic		60	100.00(0/60)		20.79	Jockey-1_DK	12	12	60	100.00(0/60)		25.28	Jockey-1_DK	15	15
+SRR2033160	FBti0019884	present	present	present	0	60	100.00(0/60)		18.59		12	12	60	100.00(0/60)		27.36		16	16
+SRR2033160	FBti0059936	present	present	present	0	60	96.67(2/60)		17.21		13	13	60	100.00(0/60)		28.93		8	8
+SRR2033160	FBti0060173	present	present	present	0	60	100.00(0/60)		15.91	(ATATA)n	13	13	60	100.00(0/60)		21.94		17	17
+SRR2033160	FBti0062393		present	polymorphic		60	100.00(0/60)		30.56		18	18	60	100.00(0/60)		23.57	Gypsy-13_DRh-I	18	18
+SRR2033160	FBti0020021	absent	present	polymorphic	4	40	100.00(0/41)		3.92		0	0	60	100.00(0/60)		10.14		4	4
+SRR2033160	FBti0061174	present	present	present	0	60	100.00(0/60)		28.84		12	12	60	100.00(0/60)		28.29		15	15
+SRR2033160	FBti0020013		present	polymorphic		60	100.00(0/60)		5.51	DM412B_LTR	2	2	60	100.00(0/60)		14.19		3	3
+SRR2033160	FBti0063758	present	present	present	0	60	100.00(0/60)		31.75		29	29	60	100.00(0/60)		16.27		10	10
+SRR2033160	FBti0019259		present	polymorphic		60	100.00(0/60)		14.98	Gypsy-1_DRh-I	9	9	60	100.00(0/60)		13.23	Gypsy6A_LTR	8	8
+SRR2033160	FBti0018972	present	present	present	0	60	100.00(0/60)		10.33	(TTA)n	9	9	60	100.00(0/60)		13.43		2	2
+SRR2033160	FBti0062416		present	polymorphic		60	100.00(0/60)		17.98	Gypsy-1_DSim-I	12	12	60	100.00(0/60)		28.26	PROTOP_B	13	13
+SRR2033160	FBti0019396	present	present	present	0	60	100.00(0/60)		11.01		8	8	60	100.00(0/60)		13.59		7	7
+SRR2033160	FBti0059892		present	polymorphic		60	100.00(0/60)		31.28		18	18	60	100.00(0/60)		26.57	BEL-3_DEl-I	13	13
+SRR2033160	FBti0020010	absent	present	polymorphic	5	60	100.00(0/60)		24.99		12	12	60	100.00(0/60)		9.89		8	8
+SRR2033160	FBti0059666	present	present	present	0	60	100.00(0/60)		15.38		4	4	60	98.33(1/60)		25.07		13	13
+SRR2033160	FBti0062871		present	polymorphic		60	100.00(0/60)		20.21		5	5	60	100.00(0/60)		19.50	Gypsy-1_DSim-I	10	10
+SRR2033160	FBti0018971	present	present	present	0	60	100.00(0/60)		10.12		3	3	60	100.00(0/60)		16.42	Helitron-N1_DBi	7	7
+SRR2033160	FBti0060480		present	polymorphic		60	98.33(1/60)		24.95	DNAREP1_DSim	18	18	60	100.00(0/60)		27.20		15	15
+SRR2033160	FBti0020034	present	present	present	0	60	100.00(0/60)		7.22		2	2	60	100.00(0/60)		7.79		9	9
+SRR2033160	FBti0020131	absent	present	polymorphic	4	60	100.00(0/60)		14.51		6	6	60	100.00(0/60)		12.29		4	4
+SRR2033160	FBti0019721	present	present	present	0	59	100.00(0/59)		15.96		5	5	60	100.00(0/60)		14.36		12	12
+SRR2033160	FBti0020295	present	present	present	0	60	100.00(0/60)		29.77		8	8	60	100.00(0/60)		32.11		15	15
+SRR2033160	FBti0061107	present	present	present	0	60	100.00(0/60)		33.61		31	31	60	100.00(0/60)		27.01		14	14
+SRR2033160	FBti0019608	absent	present	polymorphic	4	60	100.00(0/60)		6.84		2	2	60	100.00(0/60)		9.61		3	3
+SRR2033160	FBti0020308	present	present	present	0	60	100.00(0/60)		13.12	(TTTA)n	7	7	60	100.00(0/60)		27.09		4	4
+SRR2033160	FBti0018962	present	present	present	0	60	100.00(0/60)		13.54		8	8	60	100.00(0/60)		14.01		10	10
+SRR2033160	FBti0060630		present	polymorphic		60	100.00(0/60)		7.47	DNAREP1_DM	4	4	60	100.00(0/60)		13.69		6	6
+SRR2033160	FBti0020064	absent	present	polymorphic	9	60	100.00(0/60)		8.61		8	8	60	100.00(0/60)		13.54		3	3
+SRR2033160	FBti0060472		present	polymorphic		60	100.00(0/60)		13.76		4	4	60	100.00(0/60)		16.38	DNAREP1_DM	3	3
+SRR2033160	FBti0019544	absent	present	polymorphic	13	60	100.00(0/60)		19.27		13	13	60	100.00(0/60)		25.68		18	18
+SRR2033160	FBti0061842		present	polymorphic		60	98.33(1/60)		21.48	Jockey-10_DRh	10	10	60	98.33(1/60)		18.59		9	9
+SRR2033160	FBti0059986	present	present	present	0	60	100.00(0/60)		16.36		17	17	60	100.00(0/60)	poly(A)4	20.79		12	12
+SRR2033160	FBti0061733		present	polymorphic		60	100.00(0/60)		30.93	hAT-2_DY	21	21	60	100.00(0/60)		25.96		20	20
+SRR2033160	FBti0061581	present	present	present	0	60	96.67(2/60)		14.28		7	7	60	95.00(3/60)		19.46		10	10
+SRR2033160	FBti0062660		present	polymorphic		60	100.00(0/60)		20.65	Gypsy-1_DSim-I	17	17	60	100.00(0/60)		13.13	Gypsy-1_DSim-I	5	5
+SRR2033160	FBti0019072		absent	no_data		-3	0(0/0)		3.56	(GCATTT)n	0	0	0	0(0/0)		2.53		0	0
+SRR2033160	FBti0020440	present	present	present	0	60	100.00(0/60)		14.09		8	8	60	100.00(0/60)		29.90		11	11
+SRR2033160	FBti0060979		present	polymorphic		60	100.00(0/60)		20.30	HOBO	9	9	60	100.00(0/60)		19.19	hAT-2_DY	12	12
+SRR2033160	FBti0019428	absent	present	polymorphic	9	25	100.00(0/25)	poly(A)8	4.59		0	0	60	100.00(0/60)		2.52	(A)n	3	3
+SRR2033160	FBti0020054	absent	absent	absent	11	0	0(0/0)		2.92		0	0	0	0(0/0)		3.91		0	0
+SRR2033160	FBti0020209	absent	present	polymorphic	10	60	100.00(0/60)		14.48		9	9	60	100.00(0/60)		13.82		5	5
+SRR2033160	FBti0019842		present	polymorphic		60	100.00(0/60)		15.49		9	9	60	100.00(0/60)		16.02	DNAREP1_DSim	9	9
+SRR2033160	FBti0019605	present	present	present	0	60	98.33(1/60)		12.44		4	4	60	96.67(2/60)		19.49		5	5
+SRR2033160	FBti0020095	absent	present	polymorphic	9	60	100.00(0/60)		12.94		4	4	60	100.00(0/60)		4.77		1	1
+SRR2033160	FBti0061137	present	present	present	0	60	100.00(0/60)		34.44		17	17	60	100.00(0/60)		19.31		20	20
+SRR2033160	FBti0062063		present	polymorphic		60	100.00(0/60)		30.30	Jockey-1_DSe	13	13	60	100.00(0/60)		29.13		17	17
+SRR2033160	FBti0064254		present	polymorphic		60	98.33(1/60)		25.20	Jockey-6_DEu	13	13	60	100.00(0/60)		16.38		10	10
+SRR2033160	FBti0063260		present	polymorphic		60	100.00(0/60)		16.41	Gypsy-2_DSe-I	10	10	60	100.00(0/60)		27.54	Gypsy-2_DSe-I	15	15
+SRR2033160	FBti0019213	present	present	present	0	60	100.00(0/60)		10.86		0	0	60	100.00(0/60)		11.61		5	5
+SRR2033160	FBti0019204	absent	present	polymorphic	3	60	100.00(0/60)		13.89		9	9	43	97.73(1/44)		5.31	(CCA)n	0	0
+SRR2033160	FBti0060836		present	polymorphic		60	100.00(0/60)		9.36	PROTOP_B	6	6	60	100.00(0/60)		6.21		2	2
+SRR2033160	FBti0018917	absent	present	polymorphic	7	60	100.00(0/60)		11.78		9	9	60	100.00(0/60)	poly(A)4	4.84		2	2
+SRR2033160	FBti0018908	present	present	present	0	60	98.33(1/60)		23.96		15	15	60	100.00(0/60)		99.71	Gypsy-2_DAn-I	40	40
+SRR2033160	FBti0061749	present	present	present	0	60	100.00(0/60)		41.58		32	32	60	100.00(0/60)		28.81		26	26
+SRR2033160	FBti0060238		present	polymorphic		60	100.00(0/60)		24.73	DNAREP2_DSim	13	13	60	100.00(0/60)		28.68		17	17
+SRR2033160	FBti0019425	absent	present	polymorphic	4	60	100.00(0/60)		22.66		6	6	60	100.00(0/60)		16.84		0	0
+SRR2033160	FBti0020161		present	polymorphic		60	96.67(2/60)		13.19		10	10	60	100.00(0/60)		27.31	Helitron-N1_DBi	19	19
+SRR2033160	FBti0018916	absent	present	polymorphic	3	60	100.00(0/60)		14.75		8	8	34	100.00(0/34)	poly(A)4	5.74		0	0
+SRR2033160	FBti0061547	present	present	present	0	60	95.00(3/60)		30.39		23	23	60	95.00(3/60)		34.37		15	15
+SRR2033160	FBti0019633	absent	present	polymorphic	5	31	100.00(0/31)		3.61		1	1	60	100.00(0/60)		10.88		5	5
+SRR2033160	FBti0019498	present	present	present	0	60	100.00(0/60)		11.92		3	3	60	98.33(1/60)		20.08		13	13
+SRR2033160	FBti0019755	present	present	present	0	60	95.00(3/60)		14.24		16	16	60	100.00(0/60)		7.79		8	8
+SRR2033160	FBti0064117		present	polymorphic		60	100.00(0/60)		16.29	Jockey-6_DVi	12	12	60	96.67(2/60)		24.76		18	18
+SRR2033160	FBti0020179	absent	present	polymorphic	2	60	100.00(0/60)		17.12		6	6	60	100.00(0/60)		9.54		3	3
+SRR2033160	FBti0019360	absent	present	polymorphic	5	60	100.00(0/60)		8.31		4	4	60	100.00(0/60)		14.18	(AATTCA)n	12	12
+SRR2033160	FBti0020191	present	present	present	0	60	100.00(0/60)		15.41		9	9	60	100.00(0/60)		9.76		2	2
+SRR2033160	FBti0019656	present	present	present	0	60	100.00(0/60)		23.15		13	13	60	100.00(0/60)		17.74		9	9
+SRR2033160	FBti0019412	absent	present	polymorphic	11	60	100.00(0/60)		11.57		7	7	60	100.00(0/60)		7.08		3	3
+SRR2033160	FBti0019530	present	present	present	0	60	100.00(0/60)		33.56		26	26	60	100.00(0/60)		39.39		8	8
+SRR2033160	FBti0019180	present	present	present	0	60	100.00(0/60)		14.28		7	7	60	100.00(0/60)		10.59		5	5
+SRR2033160	FBti0020282	present	present	present	0	60	100.00(0/60)		30.42		22	22	60	100.00(0/60)		35.07		24	24
+SRR2033160	FBti0060736	present	present	present	0	60	100.00(0/60)		33.12		17	17	60	100.00(0/60)		22.99	A-rich	16	16
+SRR2033160	FBti0020026	absent	present	polymorphic	3	37	100.00(0/37)		8.14		5	5	60	100.00(0/60)		4.82		2	2
+SRR2033160	FBti0063753	present	present	present	0	60	95.00(3/60)		20.67		11	11	60	95.00(3/60)		21.26		7	7
+SRR2033160	FBti0019053	present	present	present	0	-1	0(0/0)		1.98	(TA)n	0	0	38	100.00(0/38)		2.97		1	1
+SRR2033160	FBti0020173		present	polymorphic		60	100.00(0/60)		31.02	Jockey-1_DYa	23	23	60	100.00(0/60)		20.54	(TATA)n	11	11
+SRR2033160	FBti0061092		present	polymorphic		60	100.00(0/60)		45.70	BEL2-I_Dya	35	35	60	100.00(0/60)		42.11	BEL-5_DYa-I	27	27
+SRR2033160	FBti0061173		present	polymorphic		60	100.00(0/60)		12.38	Gypsy-1_DSim-I	9	9	60	100.00(0/60)		12.60	Gypsy-1_DSim-I	9	9
+SRR2033160	FBti0060097		present	polymorphic		49	100.00(0/60)		7.29	(TA)n	0	0	60	100.00(0/60)		30.27	Gypsy-8_DBi-I	15	15
+SRR2033160	FBti0020293		present	polymorphic		60	100.00(0/60)		9.69		8	8	60	98.33(1/60)		22.38	BEL-4_DFi-I	10	10
+SRR2033160	FBti0019113	absent	present	polymorphic	3	60	100.00(0/60)		15.78		3	3	60	100.00(0/60)		8.80		5	5
+SRR2033160	FBti0018891	present	present	present	0	60	100.00(0/60)		8.62		3	3	60	100.00(0/60)		13.71		8	8
+SRR2033160	FBti0061783	present	present	present	0	60	100.00(0/60)		28.59		22	22	60	100.00(0/60)		27.48		20	20
+SRR2033160	FBti0064232	present	present	present	0	60	100.00(0/60)		17.30		13	13	60	100.00(0/60)		18.57		13	13
+SRR2033160	FBti0019044	absent	present	polymorphic	8	60	100.00(0/60)		21.14		9	9	60	100.00(0/60)		16.06		9	9
+SRR2033160	FBti0060998		present	polymorphic		60	100.00(0/60)		23.39		17	17	60	100.00(0/60)		27.32	BEL-3_DVir-I	13	13
+SRR2033160	FBti0064157		present	polymorphic		60	100.00(0/60)		29.29		22	22	60	100.00(0/60)		31.50	Gypsy6-LTR_Dya	28	28
+SRR2033160	FBti0020436	present	present	present	0	60	100.00(0/60)		13.88		5	5	60	100.00(0/60)		16.56		8	8
+SRR2033160	FBti0019545	absent	present	polymorphic	7	60	100.00(0/60)		12.14		2	2	60	100.00(0/60)		12.70		9	9
+SRR2033160	FBti0060463	present	present	present	0	60	100.00(0/60)		23.11		22	22	60	100.00(0/60)		20.20		11	11
+SRR2033160	FBti0020062	absent	present	polymorphic	6	60	100.00(0/60)		10.00		5	5	60	100.00(0/60)		13.96		4	4
+SRR2033160	FBti0019619	absent	present	polymorphic	6	60	100.00(0/60)		17.05		9	9	60	100.00(0/60)		16.02		15	15
+SRR2033160	FBti0018926	present	present	present	0	60	100.00(0/60)		7.76		2	2	60	100.00(0/60)		7.82		5	5
+SRR2033160	FBti0019546	absent	present	polymorphic	1	60	100.00(0/60)		10.51		7	7	60	100.00(0/60)		15.32		10	10
+SRR2033160	FBti0019184	absent	present	polymorphic	2	60	100.00(0/60)		15.92		8	8	60	100.00(0/60)		11.36		7	7
+SRR2033160	FBti0062401	present	present	present	0	60	100.00(0/60)		25.04		21	21	60	100.00(0/60)		19.46		15	15
+SRR2033160	FBti0061490		present	polymorphic		60	100.00(0/60)		10.17	DNAREP1_DSim	2	2	60	100.00(0/60)		12.38		4	4
+SRR2033160	FBti0062647	present	present	present	0	60	100.00(0/60)		38.99		31	31	60	100.00(0/60)		39.07		33	33
+SRR2033160	FBti0019613		present	polymorphic		60	100.00(0/60)		12.14	SAR_DM	3	3	60	100.00(0/60)		10.54	SAR2_DM	5	5
+SRR2033160	FBti0019827		present	polymorphic		60	100.00(0/60)		18.32		5	5	60	100.00(0/60)		11.10	FB4_DM	10	10
+SRR2033160	FBti0061979		present	polymorphic		60	100.00(0/60)		14.41	Gypsy-17_DRh-I	12	12	60	100.00(0/60)		17.61	DMCR1A	10	10
+SRR2033160	FBti0060088	present	present	present	0	60	100.00(0/60)		27.39		23	23	60	100.00(0/60)		24.97		19	19
+SRR2033160	FBti0060311	present	present	present	0	60	100.00(0/60)		15.91		9	9	60	100.00(0/60)	poly(A)4	23.02		18	18
+SRR2033160	FBti0061664		present	polymorphic		60	100.00(0/60)		19.96		12	12	60	100.00(0/60)		20.00	DNAREP1_DSim	14	14
+SRR2033160	FBti0059918	present	present	present	0	60	100.00(0/60)		44.95		24	24	60	100.00(0/60)		30.07		20	20
+SRR2033160	FBti0061123		present	polymorphic		60	100.00(0/60)		23.12	Gypsy-26_DYa-LTR	9	9	60	100.00(0/60)		37.67		30	30
+SRR2033160	FBti0061159	present	present	present	0	60	100.00(0/60)		34.52		26	26	60	98.33(1/60)		25.68		8	8
+SRR2033160	FBti0019739		present	polymorphic		60	100.00(0/60)		28.32	DNAREP1_DSim	23	23	60	100.00(0/60)		44.22	DNAREP1_DM	31	31
+SRR2033160	FBti0061360	present	present	present	0	60	100.00(0/60)		35.29		13	13	60	100.00(0/60)		32.19		19	19
+SRR2033160	FBti0019076	absent	present	polymorphic	8	20	100.00(0/20)		5.88		1	1	60	100.00(0/60)		25.93	(TTAGCCT)n	11	11
+SRR2033160	FBti0019369	absent	present	polymorphic	2	60	100.00(0/60)		3.24		1	1	60	100.00(0/60)		14.50		11	11
+SRR2033160	FBti0063150		present	polymorphic		60	100.00(0/60)		24.54	Helitron-N1_DBi	10	10	60	100.00(0/60)		20.46		12	12
+SRR2033160	FBti0060070	present	present	present	0	60	100.00(0/60)		16.76		11	11	60	100.00(0/60)		26.99		19	19
+SRR2033160	FBti0018949		present	polymorphic		60	100.00(0/60)		14.96	DNAREP1_DSim	9	9	60	100.00(0/60)		4.04		2	2
+SRR2033160	FBti0019050	absent	present	polymorphic	2	60	100.00(0/60)		6.66	(T)n	3	3	60	100.00(0/60)		5.52		2	2
+SRR2033160	FBti0020385	absent	present	polymorphic	8	60	100.00(0/60)		11.97		10	10	60	100.00(0/60)		5.89		2	2
+SRR2033160	FBti0019105	absent	present	polymorphic	5	60	100.00(0/60)		7.47	(AACGAA)n	7	7	60	100.00(0/60)		11.53	A-rich	4	4
+SRR2033160	FBti0019068	present	present	present	0	60	100.00(0/60)		13.59		8	8	60	100.00(0/60)		7.67		6	6
+SRR2033160	FBti0019179	absent	present	polymorphic	4	60	100.00(0/60)		21.41		15	15	60	100.00(0/60)		10.88		7	7
+SRR2033160	FBti0062578	present	present	present	0	60	100.00(0/60)		17.68		10	10	60	100.00(0/60)		14.69		7	7
+SRR2033160	FBti0019189	absent	absent	absent	8	0	0(0/0)		4.42		0	0	-1	0(0/0)		2.85		0	0
+SRR2033160	FBti0020304		present	polymorphic		60	100.00(0/60)		18.94	Transib-8_DAn	11	11	60	100.00(0/60)		26.36	Bica_I	17	17
+SRR2033160	FBti0020264		present	polymorphic		60	98.33(1/60)		14.89	Gypsy2_I	11	11	15	100.00(0/45)		0.28	FW_DM	0	0
+SRR2033160	FBti0062344		present	polymorphic		60	100.00(0/60)		32.65		19	19	60	100.00(0/60)		32.07	BEL-2_DAn-I	16	16
+SRR2033160	FBti0060328	present	present	present	0	60	100.00(0/60)		23.65		17	17	60	100.00(0/60)		21.11	hAT-2_DSe	9	9
+SRR2033160	FBti0061506	present	present	present	0	60	100.00(0/60)		9.40		3	3	60	100.00(0/60)		8.63		2	2
+SRR2033160	FBti0019508		present	polymorphic		60	100.00(0/60)		28.95	DNAREP1_DSim	21	21	60	98.33(1/60)		11.68		8	8
+SRR2033160	FBti0019166	absent	present	polymorphic	11	60	100.00(0/60)		10.86		5	5	-17	0(0/0)		5.42		0	0
+SRR2033160	FBti0062134	present	present	present	0	60	100.00(0/60)		12.62		6	6	60	100.00(0/60)		11.47		11	11
+SRR2033160	FBti0060893	present	present	present	0	60	100.00(0/60)		13.39		13	13	60	100.00(0/60)		13.60		3	3
+SRR2033160	FBti0019756	absent	present	polymorphic	3	60	100.00(0/60)		19.71		7	7	37	100.00(0/37)		13.32	(ATATAT)n	2	2
+SRR2033160	FBti0059972		present	polymorphic		60	100.00(0/60)		21.34	Helena_Ds	11	11	60	100.00(0/60)		31.62	Helena_Ds	15	15
+SRR2033160	FBti0018963	present	present	present	0	60	100.00(0/60)		11.53		4	4	60	100.00(0/60)		3.73	(TA)n	1	1
+SRR2033160	FBti0020165	present	present	present	0	60	100.00(0/60)		23.93		17	17	60	100.00(0/60)		16.08		4	4
+SRR2033160	FBti0061761	present	present	present	0	60	98.33(1/60)		10.90		7	7	60	100.00(0/60)		11.12	(GAATA)n	3	3
+SRR2033160	FBti0064130	present	present	present	0	60	100.00(0/60)		20.24		10	10	60	100.00(0/60)		22.29		19	19
+SRR2033160	FBti0019372	absent	present	polymorphic	1	60	100.00(0/60)		16.74		3	3	35	100.00(0/35)		11.72		2	2
+SRR2033160	FBti0018985	absent	present	polymorphic	8	60	100.00(0/60)		19.33		8	8	56	100.00(0/57)		6.47		0	0
+SRR2033160	FBti0063712	present	present	present	0	60	100.00(0/60)		26.19		20	20	60	100.00(0/60)		19.57		8	8
+SRR2033160	FBti0061794		present	polymorphic		60	100.00(0/60)		23.41	Mariner-15_DK	16	16	60	100.00(0/60)		33.07	Mariner-15_DK	14	14
+SRR2033160	FBti0018986	absent	present	polymorphic	2	60	100.00(0/60)		4.53		2	2	60	100.00(0/60)		15.27		11	11
+SRR2033160	FBti0020031	absent	present	polymorphic	4	60	100.00(0/60)		15.61		3	3	60	100.00(0/60)		13.29		4	4
+SRR2033160	FBti0019161	absent	absent	absent	13	-2	0(0/0)		4.07		0	0	-4	0(0/0)		4.33		0	0
+SRR2033160	FBti0059868		present	polymorphic		60	100.00(0/60)		17.21	PROTOP	12	12	60	100.00(0/60)		4.30	PROTOP_B	2	2
+SRR2033160	FBti0062414	present	present	present	0	60	98.33(1/60)		22.09		15	15	60	100.00(0/60)		20.61		18	18
+SRR2033160	FBti0063556	present	present	present	0	60	100.00(0/60)		24.56	(TGTA)n	12	12	60	100.00(0/60)		23.34		13	13
+SRR2033160	FBti0019366	absent	present	polymorphic	8	60	100.00(0/60)		11.85		4	4	60	100.00(0/60)		15.91		9	9
+SRR2033160	FBti0019022	absent	present	polymorphic	10	60	100.00(0/60)		17.06		17	17	60	100.00(0/60)		13.02		9	9
+SRR2033160	FBti0020219	present	present	present	0	60	100.00(0/60)		18.89		4	4	60	100.00(0/60)		10.50		1	1
+SRR2033160	FBti0019462	absent	present	polymorphic	1	60	100.00(0/60)		12.81		3	3	60	100.00(0/60)		16.80		11	11
+SRR2033160	FBti0063265		present	polymorphic		60	100.00(0/60)		20.54		10	10	60	98.33(1/60)		15.70	Helitron-N2_DBi	8	8
+SRR2033160	FBti0061084	present	present	present	0	60	100.00(0/60)		19.97		19	19	60	100.00(0/60)		3.97		1	1
+SRR2033160	FBti0020132	absent	present	polymorphic	16	60	100.00(0/60)		10.71		6	6	60	100.00(0/60)		25.55		9	9
+SRR2033160	FBti0020019	absent	present	polymorphic	4	60	100.00(0/60)		17.11		8	8	60	100.00(0/60)		12.97		2	2
+SRR2033160	FBti0061690		present	polymorphic		60	100.00(0/60)		16.16	Gypsy-1_DSim-I	8	8	60	100.00(0/60)		25.61	I-7_DBi	15	15
+SRR2033160	FBti0064031	present	present	present	0	60	100.00(0/60)		27.29		15	15	60	100.00(0/60)		25.31		17	17
+SRR2033160	FBti0060980	present	present	present	0	60	100.00(0/60)		21.16		9	9	60	100.00(0/60)		13.51		7	7
+SRR2033160	FBti0060876		present	polymorphic		60	98.33(1/60)		18.83	DNAREP1_DSim	15	15	60	98.33(1/60)		15.86	DNAREP1_DYak	14	14
+SRR2033160	FBti0019336	absent	present	polymorphic	8	60	100.00(0/60)		8.01		6	6	60	100.00(0/60)		13.45		5	5
+SRR2033160	FBti0059820	present	present	present	0	60	100.00(0/60)		21.32		17	17	60	96.67(2/60)		25.96		24	24
+SRR2033160	FBti0019211	present	present	present	0	60	100.00(0/60)		17.89		9	9	60	100.00(0/60)		18.96		9	9
+SRR2033160	FBti0018958	absent	present	polymorphic	7	60	100.00(0/60)		18.23		7	7	60	100.00(0/60)		8.68		4	4
+SRR2033160	FBti0020283	present	present	present	0	60	100.00(0/60)		9.90		7	7	60	100.00(0/60)		16.62		7	7
+SRR2033160	FBti0019744	present	present	present	0	60	100.00(0/60)		16.66		12	12	60	100.00(0/60)		22.48		10	10
+SRR2033160	FBti0020290	present	present	present	0	60	100.00(0/60)		9.20		4	4	60	100.00(0/60)		11.04		6	6
+SRR2033160	FBti0019757	absent	present	polymorphic	4	60	100.00(0/60)		18.64		13	13	60	100.00(0/60)		8.16		5	5
+SRR2033160	FBti0060734		present	polymorphic		60	98.33(1/60)		21.81		14	14	60	98.33(1/60)		8.75	P-1_DY	8	8
+SRR2033160	FBti0019537		absent	no_data		-1	0(0/0)		3.93	(ATAT)n	0	0	-21	0(0/0)		6.45		0	0
+SRR2033160	FBti0059677	present	present	present	0	60	100.00(0/60)		25.86		19	19	60	100.00(0/60)		29.12		14	14
+SRR2033160	FBti0059998		present	polymorphic		60	100.00(0/60)		13.16	SAR2_DM	12	12	60	100.00(0/60)		18.33		14	14
+SRR2033160	FBti0061655	present	present	present	0	60	100.00(0/60)		29.96		17	17	60	100.00(0/60)		32.66		28	28
+SRR2033160	FBti0019586		present	polymorphic		60	100.00(0/60)		3.87	A-rich	1	1	60	100.00(0/60)		6.59	(TTTGTT)n	4	4
+SRR2033160	FBti0019594	present	present	present	0	60	100.00(0/60)		20.87		15	15	60	100.00(0/60)		18.38		8	8
+SRR2033160	FBti0060896	present	present	present	0	60	100.00(0/60)		34.04		21	21	60	96.67(2/60)		29.29	(CA)n	21	21
+SRR2033160	FBti0019141	absent	present	polymorphic	1	52	100.00(0/52)	poly(A)4	4.16		0	0	60	100.00(0/60)		13.99		2	2
+SRR2033160	FBti0018865	absent	present	polymorphic	5	60	100.00(0/60)		8.26		6	6	60	100.00(0/60)		14.68		9	9
+SRR2033160	FBti0019035	present	present	present	0	60	98.33(1/60)		13.56		7	7	60	100.00(0/60)		22.30		10	10
+SRR2033160	FBti0019485	present	present	present	0	60	100.00(0/60)		25.07	Harbinger1_DYa	6	6	60	100.00(0/60)		27.57		21	21
+SRR2033160	FBti0020071	absent	absent	absent	6	-1	0(0/0)		5.56		0	0	-11	0(0/0)		2.61		0	0
+SRR2033160	FBti0061970	present	present	present	0	60	100.00(0/60)		14.36	FB4_DM	12	12	60	100.00(0/60)		12.33	(TATA)n	5	5
+SRR2033160	FBti0019235	present	present	present	0	60	100.00(0/60)		24.90		16	16	60	98.33(1/60)		24.28		13	13
+SRR2033160	FBti0019903		present	polymorphic		60	98.33(1/60)		18.93	Gypsy-33_DEl-I	6	6	60	100.00(0/60)		4.73	Gypsy-1_DSim-LTR	0	0
+SRR2033160	FBti0020110	absent	present	polymorphic	6	60	100.00(0/60)		13.97		9	9	60	100.00(0/60)		13.56		6	6
+SRR2033160	FBti0019129	absent	absent	absent	9	-14	0(0/0)		3.24		0	0	-4	0(0/0)		4.08		0	0
+SRR2033160	FBti0019731	present	present	present	0	60	100.00(0/60)		9.38		2	2	60	100.00(0/60)		29.10	TRANSIB2	21	21
+SRR2033160	FBti0018874	absent	present	polymorphic	9	60	100.00(0/60)		20.70		22	22	60	100.00(0/60)		17.32		6	6
+SRR2033160	FBti0019164	absent	present	polymorphic	1	60	100.00(0/60)		14.68		11	11	60	100.00(0/60)		7.33		5	5
+SRR2033160	FBti0061551	present	present	present	0	60	100.00(0/60)		4.74		1	1	60	100.00(0/60)		5.96	(TTTG)n	3	3
+SRR2033160	FBti0063964		present	polymorphic		60	100.00(0/60)		40.34	Jockey	27	27	60	100.00(0/60)		17.77		16	16
+SRR2033160	FBti0019156	absent	present	polymorphic	9	60	100.00(0/60)		13.34		5	5	60	100.00(0/60)		10.09		3	3
+SRR2033160	FBti0020018	present	present	present	0	60	100.00(0/60)		16.09		7	7	60	100.00(0/60)		22.41		10	10
+SRR2033160	FBti0019188	absent	present	polymorphic	7	60	100.00(0/60)		11.47		3	3	60	100.00(0/60)		13.09		9	9
+SRR2033160	FBti0060292	present	present	present	0	60	100.00(0/60)		27.62		19	19	60	100.00(0/60)		28.23		19	19
+SRR2033160	FBti0061006	present	present	present	0	60	100.00(0/60)		20.61		12	12	60	100.00(0/60)		31.06		25	25
+SRR2033160	FBti0062964		present	polymorphic		60	100.00(0/60)		19.56	Transib-1_DRh	12	12	60	100.00(0/60)		18.49	I-1_DWi	7	7
+SRR2033160	FBti0062516		present	polymorphic		60	100.00(0/60)		34.83	hAT-2_DK	24	24	60	100.00(0/60)		29.47	Gypsy8_I	14	14
+SRR2033160	FBti0062443	present	present	present	0	60	100.00(0/60)		24.14	Transib-7_DRh	17	17	60	100.00(0/60)		39.31		28	28
+SRR2033160	FBti0019547	absent	present	polymorphic	4	60	100.00(0/60)		8.30	(AAACAG)n	5	5	60	100.00(0/60)		13.08		9	9
+SRR2033160	FBti0019112	present	present	present	0	60	100.00(0/60)		21.94		8	8	60	100.00(0/60)		23.43		10	10
+SRR2033160	FBti0019248	present	present	present	0	60	98.33(1/60)		31.08		23	23	60	100.00(0/60)		34.21	R1_DSe	22	22
+SRR2033160	FBti0060641		present	polymorphic		60	100.00(0/60)		24.00	Gypsy-2_DAn-I	16	16	60	100.00(0/60)		34.89	Gypsy-25_DEl-I	22	22
+SRR2033160	FBti0019453	absent	present	polymorphic	2	60	100.00(0/60)		7.46		3	3	60	100.00(0/60)		7.15		2	2
+SRR2033160	FBti0061875		present	polymorphic		60	100.00(0/60)		24.09		13	13	60	100.00(0/60)		15.57	(ATT)n	13	13
+SRR2033160	FBti0020060	absent	present	polymorphic	5	60	100.00(0/60)		14.46		9	9	3	100.00(0/3)		4.16		0	0
+SRR2033160	FBti0062423	present	present	present	0	60	100.00(0/60)		13.13		5	5	60	96.67(2/60)		21.43		7	7
+SRR2033160	FBti0062853	present	present	present	0	60	100.00(0/60)		14.32		11	11	60	100.00(0/60)		24.26		16	16
+SRR2033160	FBti0063885	present	present	present	0	60	100.00(0/60)		15.46		14	14	60	100.00(0/60)		16.98		6	6
+SRR2033160	FBti0020278	present	present	present	0	60	100.00(0/60)		25.57		17	17	60	100.00(0/60)		18.64		3	3
+SRR2033160	FBti0019465	absent	present	polymorphic	1	60	100.00(0/60)		20.09		12	12	60	100.00(0/60)		11.89		4	4
+SRR2033160	FBti0019395	absent	present	polymorphic	5	60	100.00(0/60)		10.39		4	4	60	100.00(0/60)		23.22		9	9
+SRR2033160	FBti0020101		present	polymorphic		60	100.00(0/60)		5.83	Jockey-1_DYa	4	4	60	100.00(0/60)	poly(A)17	7.37		0	0
+SRR2033160	FBti0061988	present	present	present	0	60	98.33(1/60)		31.98	Gypsy-26_DYa-I	29	29	60	100.00(0/60)		26.74		26	26
+SRR2033160	FBti0060392		present	polymorphic		60	100.00(0/60)		14.21	BEL-6_DRh-I	10	10	60	100.00(0/60)		7.86	I-6_DY	2	2
+SRR2033160	FBti0060149	present	present	present	0	60	100.00(0/60)		10.80		3	3	60	100.00(0/60)		21.11		15	15
+SRR2033160	FBti0019201	absent	present	polymorphic	5	60	100.00(0/60)		10.69		4	4	60	100.00(0/60)		19.82		9	9
+SRR2033160	FBti0019125	absent	present	polymorphic	5	9	100.00(0/9)		2.69		0	0	60	100.00(0/60)		14.41		5	5
+SRR2033160	FBti0019131	absent	present	polymorphic	11	60	100.00(0/60)		13.26		1	1	60	100.00(0/60)		22.99		16	16
+SRR2033160	FBti0061962	present	present	present	0	60	100.00(0/60)		34.51		10	10	60	100.00(0/60)		31.68		26	26
+SRR2033160	FBti0062011		present	polymorphic		60	100.00(0/60)		28.76		16	16	60	100.00(0/60)		34.38	CR1-3_DPer	21	21
+SRR2033160	FBti0019750	absent	present	polymorphic	4	60	100.00(0/60)		10.03	(GT)n	6	6	40	100.00(0/40)		6.88	(AT)n	1	1
+SRR2033160	FBti0064116	present	present	present	0	60	100.00(0/60)		5.23	(TATA)n	0	0	60	100.00(0/60)		17.11		9	9
+SRR2033160	FBti0060368	present	present	present	0	60	100.00(0/60)		14.90		12	12	60	100.00(0/60)		16.16		9	9
+SRR2033160	FBti0061094		present	polymorphic		60	98.33(1/60)		33.85		16	16	60	100.00(0/60)		25.38	DNAREP1_DSim	15	15
+SRR2033160	FBti0060031		present	polymorphic		60	100.00(0/60)		14.53	R1-3_DTa	8	8	60	100.00(0/60)		17.51	R1-5B_DK	13	13
+SRR2033160	FBti0019324	present	present	present	0	60	100.00(0/60)	poly(A)9	8.04		3	3	60	96.67(2/60)		21.06		10	10
+SRR2033160	FBti0019588	absent	absent	absent	3	0	0(0/0)		1.56		0	0	-1	0(0/0)		5.29		0	0
+SRR2033160	FBti0061772	present	present	present	0	60	100.00(0/60)		26.84		19	19	60	100.00(0/60)		23.27		15	15
+SRR2033160	FBti0063063	present	present	present	0	60	100.00(0/60)		37.51		32	32	60	100.00(0/60)		40.71		28	28
+SRR2033160	FBti0063818	present	present	present	0	60	100.00(0/60)		24.43		12	12	60	100.00(0/60)		21.44		18	18
+SRR2033160	FBti0019177	absent	present	polymorphic	5	60	100.00(0/60)		5.63		0	0	60	100.00(0/60)		7.80		5	5
+SRR2033160	FBti0019238	absent	present	polymorphic	7	60	100.00(0/60)		11.43		8	8	60	100.00(0/60)		19.31		6	6
+SRR2033160	FBti0020044	absent	present	polymorphic	9	60	100.00(0/60)		7.26		1	1	60	100.00(0/60)		18.24		6	6
+SRR2033160	FBti0020090	absent	present	polymorphic	3	60	100.00(0/60)		23.82		9	9	60	100.00(0/60)		14.04		4	4
+SRR2033160	FBti0019549	absent	present	polymorphic	3	60	100.00(0/60)		12.20		3	3	60	100.00(0/60)		13.43		4	4
+SRR2033160	FBti0019031		present	polymorphic		60	100.00(0/60)		11.26		4	4	60	100.00(0/60)		13.25	(CGATTC)n	6	6
+SRR2033160	FBti0020302	present	present	present	0	60	100.00(0/60)		21.81		12	12	60	100.00(0/60)		24.90		9	9
+SRR2033160	FBti0019111	absent	absent	absent	4	1	100.00(0/1)		2.88		0	0	-1	0(0/0)		9.69		0	0
+SRR2033160	FBti0063536	present	present	present	0	60	100.00(0/60)		13.78		11	11	60	100.00(0/60)		15.49		6	6
+SRR2033160	FBti0061807		present	polymorphic		60	100.00(0/60)		33.96	Gypsy-1_DSim-I	30	30	60	100.00(0/60)		32.70		12	12
+SRR2033160	FBti0019658	present	present	present	0	60	100.00(0/60)		7.57		3	3	60	100.00(0/60)		16.78		9	9
+SRR2033160	FBti0020117	present	present	present	0	60	100.00(0/60)		33.17		23	23	60	100.00(0/60)		16.31		16	16
+SRR2033160	FBti0059653	present	present	present	0	60	100.00(0/60)		17.68		9	9	60	98.33(1/60)		18.02		18	18
+SRR2033160	FBti0060059		present	polymorphic		60	100.00(0/60)		28.61	Gypsy-15_DEl-I	22	22	60	100.00(0/60)		12.40	A-rich	5	5
+SRR2033160	FBti0020230	present	present	present	0	60	100.00(0/60)		30.99		23	23	60	100.00(0/60)		32.77		26	26
+SRR2033160	FBti0061316		present	polymorphic		60	100.00(0/60)		13.41	DNAREP1_DM	4	4	60	100.00(0/60)		14.09		8	8
+SRR2033160	FBti0059863		present	polymorphic		60	96.67(2/60)		13.25		8	8	60	100.00(0/60)		11.45	Mariner-4_DRh	11	11
+SRR2033160	FBti0062391		present	polymorphic		60	100.00(0/60)		27.61	Outcast-1_DEl	15	15	60	100.00(0/60)		25.93	hAT-2_DY	14	14
+SRR2033160	FBti0062031	present	present	present	0	60	100.00(0/60)		16.18		9	9	60	100.00(0/60)		16.67	(TC)n	5	5
+SRR2033160	FBti0061743		present	polymorphic		60	96.67(2/60)		49.83	BEL-4_DFi-I	33	33	60	100.00(0/60)		18.84	PROTOP_B	9	9
+SRR2033160	FBti0019083	present	present	present	0	60	100.00(0/60)		7.67		6	6	60	100.00(0/60)		8.75		8	8
+SRR2033160	FBti0020198	present	present	present	0	60	100.00(0/60)		19.34		7	7	60	100.00(0/60)		26.29		16	16
+SRR2033160	FBti0019570	absent	present	polymorphic	7	60	100.00(0/60)		4.98		1	1	60	100.00(0/60)		11.60	(CA)n	5	5
+SRR2033160	FBti0060591		present	polymorphic		60	100.00(0/60)		2.27	(ATA)n	2	2	60	100.00(0/60)		8.64	Gypsy-1_DSim-LTR	4	4
+SRR2033160	FBti0061511		present	polymorphic		60	100.00(0/60)		24.96	DNAREP1_DSim	13	13	60	96.67(2/60)		19.84		9	9
+SRR2033160	FBti0020419		present	polymorphic		60	100.00(0/60)		9.24	DNAREP1_DSim	5	5	60	100.00(0/60)		18.04		12	12
+SRR2033160	FBti0061596	present	present	present	0	60	100.00(0/60)		21.38		14	14	60	100.00(0/60)		22.18		11	11
+SRR2033160	FBti0019578	absent	present	polymorphic	3	60	100.00(0/60)		13.25		4	4	60	100.00(0/60)		6.96		3	3
+SRR2033160	FBti0019223		present	polymorphic		60	100.00(0/60)		17.07	DNAREP1_DSim	16	16	60	100.00(0/60)		27.79	DNAREP1_DSim	24	24
+SRR2033160	FBti0063031	present	present	present	0	60	100.00(0/60)		16.94		10	10	60	100.00(0/60)		21.11		14	14
+SRR2033160	FBti0062093	present	present	present	0	60	100.00(0/60)		28.95		20	20	60	100.00(0/60)		15.06		9	9
+SRR2033160	FBti0064183		present	polymorphic		60	100.00(0/60)		29.01	BEL2-I_Dya	20	20	60	100.00(0/60)		22.68	Gypsy-8_DEl-I	16	16
+SRR2033160	FBti0063434		present	polymorphic		60	100.00(0/60)		22.00		15	15	60	100.00(0/60)		25.79	DNAREP1_DSim	24	24
+SRR2033160	FBti0019276	present	present	present	0	60	100.00(0/60)		14.01		8	8	60	100.00(0/60)		14.49	(TTTA)n	8	8
+SRR2033160	FBti0020218	absent	present	polymorphic	2	60	100.00(0/60)		14.59		6	6	60	100.00(0/60)		9.82		6	6
+SRR2033160	FBti0019585	absent	present	polymorphic	6	60	100.00(0/60)		16.31		5	5	60	100.00(0/60)		20.59		9	9
+SRR2033160	FBti0063308	present	present	present	0	60	100.00(0/60)		28.53		21	21	60	100.00(0/60)		25.98		20	20
+SRR2033160	FBti0059657	present	present	present	0	60	96.67(2/60)		19.21		12	12	60	100.00(0/60)		23.28	(ATTCT)n	10	10
+SRR2033160	FBti0019783		present	polymorphic		60	96.67(2/60)	poly(A)6	14.79	Mariner-6_DBi	8	8	60	100.00(0/60)		31.87		27	27
+SRR2033160	FBti0019738	present	present	present	0	60	100.00(0/60)		15.71		10	10	60	100.00(0/60)		23.41		12	12
+SRR2033160	FBti0061102	present	present	present	0	60	98.33(1/60)		37.84		26	26	60	98.33(1/60)		33.00		24	24
+SRR2033160	FBti0019330	present	present	present	0	60	100.00(0/60)		17.81		14	14	60	100.00(0/60)		22.49		17	17
+SRR2033160	FBti0063443	present	present	present	0	60	100.00(0/60)		13.61		3	3	60	100.00(0/60)		25.78		18	18
+SRR2033160	FBti0019084	absent	present	polymorphic	5	-7	0(0/0)	poly(A)9	2.67		0	0	60	100.00(0/60)		16.18		5	5
+SRR2033160	FBti0019007	present	present	present	0	60	100.00(0/60)		30.39		28	28	60	100.00(0/60)		25.73		24	24
+SRR2033160	FBti0019531	absent	absent	absent	22	-15	0(0/0)		4.16	(ATATAA)n	0	0	-1	0(0/0)		6.37		0	0
+SRR2033160	FBti0019539	absent	present	polymorphic	5	60	100.00(0/60)		19.32		8	8	60	100.00(0/60)		18.99	(GTATCC)n	6	6
+SRR2033160	FBti0019039		present	polymorphic		60	100.00(0/60)		21.52	Gypsy-24_DYa-I	8	8	60	100.00(0/60)		11.96		5	5
+SRR2033160	FBti0063087	present	present	present	0	60	100.00(0/60)		14.36		8	8	60	100.00(0/60)		24.64		15	15
+SRR2033160	FBti0019364	absent	present	polymorphic	10	60	100.00(0/60)		9.58		5	5	60	100.00(0/60)		7.78		4	4
+SRR2033160	FBti0019564		absent	no_data		10	100.00(0/10)		6.23		0	0	-30	0(0/0)		1.17	(TAT)n	0	0
+SRR2033160	FBti0020045	present	present	present	0	60	100.00(0/60)		5.99	(T)n	3	3	60	100.00(0/60)		10.57		7	7
+SRR2033160	FBti0018866	absent	present	polymorphic	4	60	100.00(0/60)		15.74		7	7	60	100.00(0/60)		11.19		5	5
+SRR2033160	FBti0063191	present	present	present	0	60	100.00(0/60)		18.12	Gypsy12A_LTR	10	10	60	100.00(0/60)		19.44		11	11
+SRR2033160	FBti0062309	present	present	present	0	60	98.33(1/60)		11.62		5	5	60	98.33(1/60)		18.59		14	14
+SRR2033160	FBti0063800		present	polymorphic		60	100.00(0/60)		15.74	Helitron-N1_DBi	10	10	60	100.00(0/60)		11.51		7	7
+SRR2033160	FBti0020203	absent	present	polymorphic	4	60	100.00(0/60)		19.51		6	6	60	100.00(0/60)		15.72		6	6
+SRR2033160	FBti0063675	present	present	present	0	60	100.00(0/60)		25.33		20	20	60	100.00(0/60)		21.90		11	11
+SRR2033160	FBti0019655	present	present	present	0	60	100.00(0/60)		23.91	DNAREP1_DSim	16	16	60	100.00(0/60)		25.14		16	16
+SRR2033160	FBti0019839		present	polymorphic		60	100.00(0/60)		27.99	Gypsy12A_LTR	26	26	60	100.00(0/60)		24.11	Gypsy12A_LTR	15	15
+SRR2033160	FBti0060027		present	polymorphic		60	100.00(0/60)		26.67	Gypsy16-I_Dya	21	21	60	100.00(0/60)		19.50	DNAREP1_DM	6	6
+SRR2033160	FBti0061129	present	present	present	0	60	100.00(0/60)		20.83		13	13	60	100.00(0/60)		12.74		6	6
+SRR2033160	FBti0060359		present	polymorphic		60	100.00(0/60)		20.05	Gypsy-4_DSe-I	12	12	60	100.00(0/60)		20.76	Gypsy-4_DSe-I	17	17
+SRR2033160	FBti0064083	present	present	present	0	60	100.00(0/60)		21.01		20	20	60	100.00(0/60)		20.54	(ATTTTAG)n	7	7
+SRR2033160	FBti0062994		present	polymorphic		60	100.00(0/60)		18.44	I-6_DY	7	7	60	100.00(0/60)		25.62		19	19
+SRR2033160	FBti0019098	absent	present	polymorphic	5	60	100.00(0/60)		14.76	(CCT)n	7	7	60	100.00(0/60)		12.24		5	5
+SRR2033160	FBti0063022	present	present	present	0	60	100.00(0/60)		22.10		21	21	60	100.00(0/60)		23.27		13	13
+SRR2033160	FBti0019167	absent	present	polymorphic	4	60	100.00(0/60)		12.01		2	2	58	100.00(0/58)		20.38		10	10
+SRR2033160	FBti0019303	present	present	present	0	60	100.00(0/60)		11.01		7	7	60	100.00(0/60)		18.07		5	5
+SRR2033160	FBti0061341	present	present	present	0	-30	0(0/0)		0.00		0	0	60	100.00(0/60)		11.19		7	7
+SRR2033160	FBti0019720	present	present	present	0	60	100.00(0/60)		19.76		7	7	60	100.00(0/60)		28.83		9	9
+SRR2033160	FBti0019173	absent	present	polymorphic	6	60	100.00(0/60)		14.75		8	8	60	100.00(0/60)		11.97		5	5
+SRR2033160	FBti0020063	present	present	present	0	60	100.00(0/60)		12.54		10	10	60	100.00(0/60)		9.50		6	6
+SRR2033160	FBti0062248		present	polymorphic		60	100.00(0/60)		17.10		4	4	60	100.00(0/60)		16.74	DNAREP1_DSim	7	7
+SRR2033160	FBti0020305	present	present	present	0	60	100.00(0/60)		30.63		18	18	60	100.00(0/60)		23.84		15	15
+SRR2033160	FBti0059865		present	polymorphic		60	100.00(0/60)		23.85	Copia-1_DFi-I	15	15	60	100.00(0/60)		17.17	PROTOP	5	5
+SRR2033160	FBti0019122	absent	present	polymorphic	3	60	100.00(0/60)		11.27		9	9	60	100.00(0/60)		10.53		4	4
+SRR2033160	FBti0019365	absent	present	polymorphic	8	60	100.00(0/60)		17.60		10	10	60	100.00(0/60)		5.83		2	2
+SRR2033160	FBti0020433	present	present	present	0	60	100.00(0/60)		16.16		18	18	60	100.00(0/60)		12.91		7	7
+SRR2033160	FBti0020314		present	polymorphic		60	100.00(0/60)		13.36	Helena_Ds	15	15	60	98.33(1/60)		33.49		18	18
+SRR2033160	FBti0061968		present	polymorphic		60	98.33(1/60)		37.03	R1-1_DSi	21	21	60	100.00(0/60)		25.43		18	18
+SRR2033160	FBti0062350		present	polymorphic		60	96.67(2/60)		19.04	DM297_LTR	12	12	60	100.00(0/60)		21.65	DNAREP1_DM	13	13
+SRR2033160	FBti0060909		present	polymorphic		60	100.00(0/60)		34.56	BEL2-I_Dya	18	18	60	98.33(1/60)		30.35	BEL2-I_Dya	20	20
+SRR2033160	FBti0060556		present	polymorphic		60	100.00(0/60)		33.28	DNAREP1_DSim	15	15	60	100.00(0/60)		17.34		12	12
+SRR2033160	FBti0020126	absent	present	polymorphic	4	60	100.00(0/60)		11.24		7	7	60	100.00(0/60)		12.32		7	7
+SRR2033160	FBti0019298	absent	present	polymorphic	3	60	100.00(0/60)		12.11		2	2	60	100.00(0/60)		17.02		12	12
+SRR2033160	FBti0019440	absent	present	polymorphic	6	60	100.00(0/60)		19.98		6	6	60	100.00(0/60)		14.15		4	4
+SRR2033160	FBti0059907	present	present	present	0	60	100.00(0/60)		27.46		20	20	60	100.00(0/60)		22.73		11	11
+SRR2033160	FBti0020213		present	polymorphic		60	100.00(0/60)		15.42	DNAREP1_DYak	11	11	60	100.00(0/60)		29.07		13	13
+SRR2033160	FBti0019341	present	present	present	0	60	100.00(0/60)		17.61	Gypsy-10_DVir-LTR	5	5	60	100.00(0/60)		6.45		8	8
+SRR2033160	FBti0062478		present	polymorphic		60	98.33(1/60)		30.14	Helitron-1_DEu	11	11	60	100.00(0/60)		36.38	DNAREP1_DSim	20	20
+SRR2033160	FBti0019371		present	polymorphic		60	100.00(0/60)		21.94	(TACA)n	10	10	60	100.00(0/60)		14.49	(TTTG)n	2	2
+SRR2033160	FBti0019408	present	present	present	0	60	100.00(0/60)		10.49		7	7	60	100.00(0/60)		6.79		4	4
+SRR2033160	FBti0061179		present	polymorphic		60	100.00(0/60)		11.07	Jockey-10_DRh	9	9	60	100.00(0/60)		17.22	DNAREP1_DYak	12	12
+SRR2033160	FBti0060988		present	polymorphic		60	100.00(0/60)		26.45	Gypsy-4_DGri-I	17	17	60	100.00(0/60)		24.03		14	14
+SRR2033160	FBti0020099	absent	present	polymorphic	6	60	100.00(0/60)		12.41		4	4	60	100.00(0/60)		16.97		9	9
+SRR2033160	FBti0063471	present	present	present	0	60	100.00(0/60)		11.71		9	9	60	100.00(0/60)		6.81		3	3
+SRR2033160	FBti0020009	absent	present	polymorphic	2	60	100.00(0/60)		9.08		7	7	60	100.00(0/60)		18.27		11	11
+SRR2033160	FBti0020082	absent	present	polymorphic	5	60	100.00(0/60)		10.60		5	5	60	100.00(0/60)		15.23		7	7
+SRR2033160	FBti0062033		present	polymorphic		60	98.33(1/60)		27.39	(CACA)n	17	17	60	100.00(0/60)		15.60	DNAREP1_DSim	12	12
+SRR2033160	FBti0060552		present	polymorphic		60	100.00(0/60)		38.90	Jockey-1_DF	34	34	59	100.00(0/59)		3.87	DNAREP1_DSim	3	3
+SRR2033160	FBti0063256	present	present	present	0	60	100.00(0/60)		8.97		3	3	60	100.00(0/60)		13.12	(A)n	4	4
+SRR2033160	FBti0019212	present	present	present	0	-27	0(0/0)		4.78	(AT)n	0	0	60	100.00(0/60)		3.52		4	4
+SRR2033160	FBti0019379	present	present	present	0	60	100.00(0/60)		21.23		12	12	60	100.00(0/60)		21.06		15	15
+SRR2033160	FBti0063259	present	present	present	0	60	100.00(0/60)		24.32	DNAREP1_DSim	17	17	60	100.00(0/60)		18.52		12	12
+SRR2033160	FBti0019231	absent	present	polymorphic	6	60	100.00(0/60)		14.17		10	10	60	100.00(0/60)		10.76		6	6
+SRR2033160	FBti0019565	absent	present	polymorphic	5	60	100.00(0/60)		14.39		2	2	60	100.00(0/60)		16.68		5	5
+SRR2033160	FBti0060011		present	polymorphic		60	100.00(0/60)		25.41	Gypsy-13_DSim-I	15	15	60	100.00(0/60)		26.21	Transib-N1_DM	12	12
+SRR2033160	FBti0019271	present	present	present	0	60	100.00(0/60)		7.54		3	3	47	100.00(0/60)		3.38	(TAA)n	0	0
+SRR2033160	FBti0019196	absent	present	polymorphic	5	60	100.00(0/60)		15.69		7	7	60	100.00(0/60)		18.89		6	6
+SRR2033160	FBti0019929		present	polymorphic		-30	0(0/0)		0.00	BEL-14_DP-I	0	0	60	100.00(0/60)		11.74	Gypsy12A_LTR	5	5
+SRR2033160	FBti0061720		present	polymorphic		60	100.00(0/60)		30.96	Jockey-9_DF	24	24	60	100.00(0/60)		18.76		16	16
+SRR2033160	FBti0060241		present	polymorphic		60	100.00(0/60)		19.13	DNAREP1_DM	9	9	60	100.00(0/60)		27.11		7	7
+SRR2033160	FBti0019017	absent	present	polymorphic	6	60	100.00(0/60)		15.04		6	6	60	100.00(0/60)		13.48	(TACCCAGC)n	9	9
+SRR2033160	FBti0020078	absent	present	polymorphic	4	60	100.00(0/60)		11.09	(TAA)n	5	5	60	100.00(0/60)		11.01		8	8
+SRR2033160	FBti0019679	absent	present	polymorphic	5	60	100.00(0/60)		21.99		10	10	60	100.00(0/60)		12.92		4	4
+SRR2033160	FBti0019754	absent	present	polymorphic	1	60	100.00(0/60)		12.19		7	7	60	100.00(0/60)		4.93		2	2
+SRR2033160	FBti0059973		present	polymorphic		60	98.33(1/60)		24.33	Gypsy12A_LTR	16	16	60	100.00(0/60)		11.39		11	11
+SRR2033160	FBti0020189		absent	no_data		6	100.00(0/22)		3.35		0	0	-2	0(0/0)		3.97	Helitron-1_DEu	0	0
+SRR2033160	FBti0019513		present	polymorphic		60	100.00(0/60)		18.17	DNAREP1_DSim	15	15	60	100.00(0/60)		36.26	Helitron-N2_DEl	19	19
+SRR2033160	FBti0062097	present	present	present	0	60	100.00(0/60)		19.78		10	10	60	100.00(0/60)		14.13		12	12
+SRR2033160	FBti0061105	present	present	present	0	60	100.00(0/60)		17.57		13	13	60	100.00(0/60)		14.78		10	10
+SRR2033160	FBti0063500	present	present	present	0	60	100.00(0/60)		16.49		9	9	60	100.00(0/60)		13.71		8	8
+SRR2033160	FBti0062645	present	present	present	0	60	100.00(0/60)		23.62		12	12	60	100.00(0/60)		27.32		12	12
+SRR2033160	FBti0060327	present	present	present	0	60	100.00(0/60)		25.41		18	18	60	100.00(0/60)		21.95		8	8
+SRR2033160	FBti0019178	absent	present	polymorphic	4	-3	0(0/0)		7.99	(TA)n	0	0	60	100.00(0/60)		13.64		4	4
+SRR2033160	FBti0019170	present	present	present	0	60	100.00(0/60)		2.69	(A)n	0	0	60	100.00(0/60)	poly(A)7	5.89		1	1
+SRR2033160	FBti0020216		present	polymorphic		60	100.00(0/60)		27.92	Helitron-N1_DBi	15	15	60	100.00(0/60)		7.57		5	5
+SRR2033160	FBti0019019	absent	present	polymorphic	9	60	100.00(0/60)		10.76		7	7	60	100.00(0/60)		13.58		9	9
+SRR2033160	FBti0018867		absent	no_data		0	0(0/0)		2.88	(TA)n	0	0	0	0(0/0)		5.49	(AT)n	0	0
+SRR2033160	FBti0061320	present	present	present	0	60	100.00(0/60)		7.54		3	3	60	100.00(0/60)		9.14		5	5
+SRR2033160	FBti0061631		present	polymorphic		60	100.00(0/60)		31.57		25	25	60	100.00(0/60)		27.74	DNAREP1_DSim	20	20
+SRR2033160	FBti0019154	absent	present	polymorphic	7	60	100.00(0/60)		7.22		5	5	60	100.00(0/60)		12.12		11	11
+SRR2033160	FBti0064097		present	polymorphic		60	98.33(1/60)		20.69	Gypsy-3_DSe-I	12	12	60	100.00(0/60)		33.84	BEL-1_DRh-I	24	24
+SRR2033160	FBti0061505	present	present	present	0	60	100.00(0/60)		37.81		22	22	60	100.00(0/60)		30.41		23	23
+SRR2033160	FBti0018999	present	present	present	0	60	100.00(0/60)		24.49		22	22	60	100.00(0/60)		19.83		9	9
+SRR2033160	FBti0020307	present	present	present	0	60	100.00(0/60)		26.38		6	6	60	100.00(0/60)		16.96		4	4
+SRR2033160	FBti0060365		present	polymorphic		60	100.00(0/60)		25.21	TRANSIB1	21	21	60	100.00(0/60)		35.31	Gypsy-34_DEl-I	24	24
+SRR2033160	FBti0061016		present	polymorphic		60	100.00(0/60)		10.03		5	5	60	98.33(1/60)		22.67	Gypsy-13_DSim-LTR	14	14
+SRR2033160	FBti0020390	absent	present	polymorphic	6	60	100.00(0/60)		18.27		3	3	60	100.00(0/60)		6.67		3	3
+SRR2033160	FBti0020112	absent	present	polymorphic	4	60	100.00(0/60)		11.61		5	5	60	100.00(0/60)		12.18	(TAAT)n	7	7
+SRR2033160	FBti0062100		present	polymorphic		60	98.33(1/60)		14.56		7	7	60	100.00(0/60)		20.23	Gypsy-4_DBi-LTR	5	5
+SRR2033160	FBti0061020		present	polymorphic		60	100.00(0/60)		38.83	Gypsy-13_DSim-I	26	26	60	100.00(0/60)		25.34	Gypsy-13_DSim-I	14	14
+SRR2033160	FBti0020038	present	present	present	0	60	100.00(0/60)		9.93		3	3	60	100.00(0/60)		5.94		6	6
+SRR2033160	FBti0019135	absent	absent	absent	6	2	100.00(0/2)		10.31		0	0	0	0(0/0)		2.79		0	0
+SRR2033160	FBti0063678	present	present	present	0	60	100.00(0/60)		19.10		8	8	60	96.67(2/60)		13.59		2	2
+SRR2033160	FBti0060521		present	polymorphic		60	98.33(1/60)		3.83	PROTOP_B	2	2	60	100.00(0/60)		17.81	Gypsy-13_DVir-I	10	10
+SRR2033160	FBti0019375	present	present	present	0	-4	0(0/0)		2.09	(TA)n	0	0	60	100.00(0/60)		18.54		10	10
+SRR2033160	FBti0061843	present	present	present	0	60	100.00(0/60)		29.44		21	21	60	100.00(0/60)		40.42		25	25
+SRR2033160	FBti0019439	absent	present	polymorphic	12	60	100.00(0/60)		15.11		9	9	60	100.00(0/60)		21.02		15	15
+SRR2033160	FBti0061010		present	polymorphic		60	100.00(0/60)		19.46	Transib-1_DRh	13	13	60	100.00(0/60)		14.56	Gypsy16-I_Dya	7	7
+SRR2033160	FBti0020039	absent	present	polymorphic	2	60	100.00(0/60)		10.64		6	6	0	0(0/0)		2.83		0	0
+SRR2033160	FBti0019059	absent	present	polymorphic	6	60	100.00(0/60)		12.56		4	4	60	100.00(0/60)		14.06		6	6
+SRR2033160	FBti0019309	absent	present	polymorphic	3	60	100.00(0/60)		17.88		9	9	60	100.00(0/60)		21.99		13	13
+SRR2033160	FBti0018905	absent	absent	absent	11	4	100.00(0/4)		4.67		0	0	-7	0(0/0)		2.41	(TGAATA)n	0	0
+SRR2033160	FBti0019132	absent	present	polymorphic	1	60	100.00(0/60)		11.96		9	9	60	100.00(0/60)		6.93	(TA)n	2	2
+SRR2033160	FBti0019091	absent	present	polymorphic	6	60	100.00(0/60)		21.07		5	5	60	100.00(0/60)		11.07		5	5
+SRR2033160	FBti0019976	absent	present	polymorphic	3	60	100.00(0/60)		7.48		2	2	60	100.00(0/60)		2.22		3	3
+SRR2033160	FBti0062388	present	present	present	0	60	100.00(0/60)		12.36		8	8	60	100.00(0/60)		28.29		17	17
+SRR2033160	FBti0019525	absent	present	polymorphic	3	60	100.00(0/60)		19.73		7	7	60	100.00(0/60)		11.69		1	1
+SRR2033160	FBti0060479	present	present	present	0	60	100.00(0/60)		18.05		14	14	60	100.00(0/60)		16.09		7	7
+SRR2033160	FBti0019210	absent	present	polymorphic	9	60	100.00(0/60)		12.76		13	13	60	100.00(0/60)		13.03		12	12
+SRR2033160	FBti0020086	present	present	present	0	60	100.00(0/60)		23.94	(AACGA)n	15	15	60	100.00(0/60)		23.55		13	13
+SRR2033160	FBti0019494		present	polymorphic		60	100.00(0/60)		21.01	Helitron-N2_DT	11	11	60	100.00(0/60)		25.68		20	20
+SRR2033160	FBti0061003	present	present	present	0	60	100.00(0/60)		32.44		29	29	60	100.00(0/60)		34.32		24	24
+SRR2033160	FBti0059894		present	polymorphic		60	100.00(0/60)		15.77	DNAREP1_DM	14	14	60	98.33(1/60)		17.62	DNAREP1_DM	13	13
+SRR2033160	FBti0061485	present	present	present	0	60	100.00(0/60)		29.61		6	6	60	100.00(0/60)		12.28		4	4
+SRR2033160	FBti0020162	absent	present	polymorphic	35	60	100.00(0/60)		20.96		14	14	60	100.00(0/60)		25.82		10	10
+SRR2033160	FBti0019194	absent	present	polymorphic	5	60	100.00(0/60)		12.01		2	2	60	100.00(0/60)		11.15		1	1
+SRR2033160	FBti0020119	present	present	present	0	60	100.00(0/60)		9.45		4	4	60	100.00(0/60)		14.00		10	10
+SRR2033160	FBti0019234	present	present	present	0	60	100.00(0/60)		21.33	Tetris_Dvir	6	6	60	100.00(0/60)		14.76		10	10
+SRR2033160	FBti0063216	present	present	present	0	60	100.00(0/60)		30.26	R1-5_DYa	21	21	60	100.00(0/60)		31.84		18	18
+SRR2033160	FBti0059739		present	polymorphic		60	100.00(0/60)		5.33	Helitron-N1_DBi	1	1	60	100.00(0/60)		15.06		5	5
+SRR2033160	FBti0064030		present	polymorphic		60	98.33(1/60)		18.40		10	10	60	100.00(0/60)		35.95	Gypsy-3_DSe-I	29	29
+SRR2033160	FBti0020150	absent	present	polymorphic	9	60	100.00(0/60)		10.85		6	6	60	100.00(0/60)		11.53		6	6
+SRR2033160	FBti0063534	present	present	present	0	60	100.00(0/60)		16.94	P-1_DY	8	8	60	100.00(0/60)		26.26		8	8
+SRR2033160	FBti0020053	absent	present	polymorphic	2	60	100.00(0/60)		3.42		2	2	60	100.00(0/60)		16.01		14	14
+SRR2033160	FBti0019130	absent	present	polymorphic	1	59	100.00(0/60)		10.04	(TA)n	3	3	60	100.00(0/60)		16.17		11	11
+SRR2033160	FBti0020309	present	present	present	0	60	100.00(0/60)		17.61		11	11	60	100.00(0/60)		20.77		22	22
+SRR2033160	FBti0019657	absent	present	polymorphic	7	47	100.00(0/47)		3.74		1	1	60	100.00(0/60)		10.24		4	4
+SRR2033160	FBti0020122	absent	present	polymorphic	5	23	100.00(0/23)		3.74		1	1	60	100.00(0/60)		10.75		6	6
+SRR2033160	FBti0019940		present	polymorphic		60	100.00(0/60)		24.52		14	14	60	100.00(0/60)		19.27	(TTTATT)n	13	13
+SRR2033160	FBti0060995		present	polymorphic		60	100.00(0/60)		35.95		20	20	60	100.00(0/60)		28.22	DNA3-1_DF	11	11
+SRR2033160	FBti0062300		present	polymorphic		60	100.00(0/60)		24.29	I_DM	15	15	60	98.33(1/60)		21.30		8	8
+SRR2033160	FBti0019621	absent	present	polymorphic	5	60	100.00(0/60)		6.74		0	0	60	100.00(0/60)		8.97		3	3
+SRR2033160	FBti0059852	present	present	present	0	60	98.33(1/60)		33.45		21	21	60	98.33(1/60)		28.52		15	15
+SRR2033160	FBti0063315		present	polymorphic		60	100.00(0/60)		12.64	Gypsy-15_DWil-I	7	7	60	100.00(0/60)		29.77		20	20
+SRR2033160	FBti0063538	present	present	present	0	60	100.00(0/60)		30.89		19	19	60	100.00(0/60)		11.38		9	9
+SRR2033160	FBti0062210	present	present	present	0	60	100.00(0/60)		20.38		13	13	60	100.00(0/60)		21.58		5	5
+SRR2033160	FBti0062863	present	no_data	no_data	0	-30	0(0/0)		2.55	A-rich	0	0	-28	0(0/0)		3.88		0	0
+SRR2033160	FBti0019001	absent	present	polymorphic	3	60	100.00(0/60)		6.76		3	3	60	100.00(0/60)		9.84		5	5
+SRR2033160	FBti0019171	present	present	present	0	8	100.00(0/8)	poly(A)4	3.85		0	0	60	100.00(0/60)		14.76		11	11
+SRR2033160	FBti0061844	present	present	present	0	60	98.33(1/60)		34.44		11	11	60	96.67(2/60)		21.33		10	10
+SRR2033160	FBti0060614		present	polymorphic		60	100.00(0/60)		26.79		16	16	60	100.00(0/60)		19.14	DNAREP1_DM	11	11
+SRR2033160	FBti0019459	absent	absent	absent	16	-7	0(0/0)		4.99		0	0	-1	0(0/0)		5.97		0	0
+SRR2033160	FBti0062728		present	polymorphic		60	100.00(0/60)		21.02	Gypsy8-I_Dya	7	7	60	100.00(0/60)		32.62	DNAREP1_DSim	22	22
+SRR2033160	FBti0060886		present	polymorphic		33	98.33(1/60)		1.29	PROTOP_B	0	0	60	100.00(0/60)		25.56		18	18
+SRR2033160	FBti0062874	present	present	present	0	60	98.33(1/60)		27.42		26	26	60	96.67(2/60)		27.26		10	10
+SRR2033160	FBti0061428		present	polymorphic		60	100.00(0/60)		22.91	Gypsy-27_DYa-LTR	9	9	60	96.67(2/60)		23.41	Gypsy-27_DYa-LTR	19	19
+SRR2033160	FBti0059664		present	polymorphic		60	98.33(1/60)		24.26	BEL-4_DBi-I	16	16	60	100.00(0/60)		10.72	(GAATA)n	3	3
+SRR2033160	FBti0060363		present	polymorphic		60	100.00(0/60)		20.49	Gypsy-6_DSe-I	21	21	60	98.33(1/60)		28.14	Gypsy-6_DSe-I	16	16
+SRR2033160	FBti0019282	present	present	present	0	60	100.00(0/60)		1.91	(AT)n	1	1	60	100.00(0/60)		15.65	(TATATG)n	8	8
+SRR2033160	FBti0020329	present	present	present	0	60	100.00(0/60)		18.02		8	8	60	100.00(0/60)		24.89		16	16
+SRR2033160	FBti0019602	absent	present	polymorphic	10	60	100.00(0/60)		14.56		4	4	60	100.00(0/60)		17.18		9	9
+SRR2033160	FBti0063263	present	present	present	0	60	100.00(0/60)		11.43		9	9	60	100.00(0/60)		15.07		14	14
+SRR2033160	FBti0020029	absent	absent	absent	17	-3	0(0/0)		8.82		0	0	0	0(0/0)		7.51		0	0
+SRR2033160	FBti0060319		present	polymorphic		60	100.00(0/60)		24.98		19	19	60	100.00(0/60)		34.14	DMCR1A	17	17
+SRR2033160	FBti0019405	absent	present	polymorphic	8	60	100.00(0/60)	poly(A)5	7.26		2	2	60	100.00(0/60)		11.64		5	5
+SRR2033160	FBti0019606	absent	present	polymorphic	6	60	100.00(0/60)		13.58		6	6	60	100.00(0/60)		14.69		0	0
+SRR2033160	FBti0019622	absent	present	polymorphic	10	60	100.00(0/60)		17.89	(TCCTGC)n	10	10	60	100.00(0/60)		10.53		5	5
+SRR2033160	FBti0020392	absent	present	polymorphic	7	60	100.00(0/60)		8.41		2	2	60	98.33(1/60)		9.58		1	1
+SRR2033160	FBti0059793		present	polymorphic		60	100.00(0/60)		14.78	(TG)n	9	9	60	100.00(0/60)		8.37		2	2
+SRR2033160	FBti0019393	absent	present	polymorphic	1	60	100.00(0/60)		12.56		8	8	60	100.00(0/60)		10.66		4	4
+SRR2033160	FBti0019522	absent	present	polymorphic	7	60	100.00(0/60)		14.21		4	4	60	100.00(0/60)		14.77		6	6
+SRR2033160	FBti0018944	present	present	present	0	60	100.00(0/60)		20.21		12	12	60	98.33(1/60)		12.28		8	8
+SRR2033160	FBti0062030	present	present	present	0	60	100.00(0/60)		14.12		8	8	60	100.00(0/60)		25.07		13	13
+SRR2033160	FBti0020020	absent	present	polymorphic	5	60	100.00(0/60)		12.13		6	6	60	100.00(0/60)		19.90		6	6
+SRR2033160	FBti0061313		present	polymorphic		60	98.33(1/60)		35.94	DNAREP1_DM	30	30	60	98.33(1/60)		45.15		21	21
+SRR2033160	FBti0019205	absent	present	polymorphic	8	60	100.00(0/60)		15.64		9	9	60	100.00(0/60)		15.03		9	9
+SRR2033160	FBti0019659	absent	absent	absent	19	-8	0(0/0)		5.58		0	0	-16	0(0/0)		2.03	(GT)n	0	0
+SRR2033160	FBti0019103	present	present	present	0	60	100.00(0/60)		8.97		6	6	60	100.00(0/60)		10.38		7	7
+SRR2033160	FBti0019610	absent	present	polymorphic	3	60	100.00(0/60)		16.20		5	5	60	100.00(0/60)		18.70		9	9
+SRR2033160	FBti0059932	present	present	present	0	60	98.33(1/60)		9.26		9	9	59	100.00(0/59)		20.44		13	13
+SRR2033160	FBti0019301	absent	present	polymorphic	12	60	100.00(0/60)		18.19		8	8	60	100.00(0/60)		15.81		5	5
+SRR2033160	FBti0020043	absent	present	polymorphic	8	60	100.00(0/60)		8.71		3	3	60	100.00(0/60)		13.51		7	7
+SRR2033160	FBti0019145	absent	present	polymorphic	6	60	100.00(0/60)		19.21		7	7	60	100.00(0/60)		13.81		15	15
+SRR2033160	FBti0064151	present	present	present	0	60	100.00(0/60)		36.37		12	12	60	100.00(0/60)		31.30		21	21
+SRR2033160	FBti0019600	absent	present	polymorphic	6	21	100.00(0/25)		4.08		0	0	60	100.00(0/60)		8.89	(TCTGGA)n	4	4
+SRR2033160	FBti0062114		present	polymorphic		60	100.00(0/60)		31.89	Jockey-5_DYa	24	24	60	100.00(0/60)		31.50	Jockey-5_DYa	26	26
+SRR2033160	FBti0019088	present	present	present	0	10	100.00(0/10)		4.44	(TA)n	0	0	60	100.00(0/60)		8.10		4	4
+SRR2033160	FBti0062283	present	present	present	0	60	100.00(0/60)		5.94	(ATATATA)n	6	6	60	100.00(0/60)		17.36		7	7
+SRR2033160	FBti0019514		present	polymorphic		60	100.00(0/60)		14.78	Gypsy-1_DSim-I	7	7	60	100.00(0/60)		10.19	Gypsy-1_DSim-LTR	5	5
+SRR2033160	FBti0019737		present	polymorphic		60	100.00(0/60)		24.74		13	13	60	100.00(0/60)		15.47	Helitron-N1_DBi	11	11
+SRR2033160	FBti0063502	present	present	present	0	60	100.00(0/60)		31.99		15	15	60	100.00(0/60)		34.95	(AC)n	23	23
+SRR2033160	FBti0020087	absent	present	polymorphic	5	60	100.00(0/60)		6.34		2	2	60	100.00(0/60)		16.19		12	12
+SRR2033160	FBti0019010	present	present	present	0	60	100.00(0/60)		6.58	(ATATACA)n	3	3	60	100.00(0/60)		6.56		4	4
+SRR2033160	FBti0019551	present	present	present	0	60	100.00(0/60)		13.08		4	4	60	100.00(0/60)		10.92		9	9
+SRR2033160	FBti0019471	absent	present	polymorphic	8	60	100.00(0/60)		26.44		13	13	60	100.00(0/60)		10.76		10	10
+SRR2033160	FBti0019096	absent	present	polymorphic	3	60	100.00(0/60)		11.10		5	5	60	100.00(0/60)		12.01		5	5
+SRR2033160	FBti0061303	absent	present	polymorphic	9	60	100.00(0/60)		17.74		11	11	60	100.00(0/60)		14.10		5	5
+SRR2033160	FBti0019973	present	present	present	0	60	100.00(0/60)		27.01		8	8	60	100.00(0/60)		10.77		3	3
+SRR2033160	FBti0062610		present	polymorphic		60	100.00(0/60)		29.91	DNAREP1_DSim	23	23	60	100.00(0/60)		28.40	Helitron-1_DEu	21	21
+SRR2033160	FBti0020027	absent	present	polymorphic	4	60	100.00(0/60)		14.47	(TA)n	6	6	60	100.00(0/60)		17.84		5	5
+SRR2033160	FBti0018868	present	present	present	0	60	100.00(0/60)		14.41		8	8	60	100.00(0/60)		11.07		6	6
+SRR2033160	FBti0020085	absent	present	polymorphic	4	60	100.00(0/60)		14.79		3	3	60	100.00(0/60)		7.64		5	5
+SRR2033160	FBti0062838	present	present	present	0	60	100.00(0/60)		19.68		15	15	60	100.00(0/60)		19.68		8	8
+SRR2033160	FBti0061747	present	present	present	0	60	100.00(0/60)		20.23		15	15	60	100.00(0/60)		21.69		11	11
+SRR2033160	FBti0018961	absent	present	polymorphic	7	60	100.00(0/60)		12.24		4	4	60	100.00(0/60)		14.72		6	6
+SRR2033160	FBti0020109	present	present	present	0	60	100.00(0/60)		7.71		4	4	60	100.00(0/60)		5.09		2	2
+SRR2033160	FBti0019415	present	present	present	0	60	100.00(0/60)		12.57		7	7	60	100.00(0/60)		18.78		11	11
+SRR2033160	FBti0019118	absent	present	polymorphic	4	60	100.00(0/60)		11.66		10	10	60	100.00(0/60)		11.43		6	6
+SRR2033160	FBti0061821	present	present	present	0	60	100.00(0/60)		20.38	Mariner-20_DAn	13	13	60	100.00(0/60)		17.87		14	14
+SRR2033160	FBti0061656		present	polymorphic		60	100.00(0/60)		17.19		13	13	60	100.00(0/60)		32.96	DNAREP1_DSim	33	33
+SRR2033160	FBti0064056		present	polymorphic		60	100.00(0/60)		27.43	Gypsy-8_DEl-I	19	19	60	100.00(0/60)		18.23	DNAREP1_DSim	13	13
+SRR2033160	FBti0063125		present	polymorphic		60	100.00(0/60)		17.34	Gypsy-17_DTa-I	3	3	60	100.00(0/60)		7.91	Gypsy-17_DTa-I	5	5
+SRR2033160	FBti0063362	present	present	present	0	60	100.00(0/60)		34.36		25	25	60	100.00(0/60)		36.54		23	23
+SRR2033160	FBti0018880	present	present	present	0	60	100.00(0/60)		16.16	(TTAA)n	7	7	60	100.00(0/60)		10.80	A-rich	4	4
+SRR2033160	FBti0019667		present	polymorphic		60	100.00(0/60)		24.34	DNAREP1_DSim	13	13	60	100.00(0/60)		12.03	Polinton-1_DY	0	0
+SRR2033160	FBti0063720	absent	present	polymorphic	2	60	100.00(0/60)		15.38		2	2	60	100.00(0/60)		19.15		14	14
+SRR2033160	FBti0019025	absent	present	polymorphic	6	60	100.00(0/60)		14.36		9	9	60	100.00(0/60)		14.19		4	4
+SRR2033160	FBti0062876	present	present	present	0	60	98.33(1/60)		14.68		9	9	60	100.00(0/60)		27.31		14	14
+SRR2033160	FBti0060156		present	polymorphic		60	100.00(0/60)		34.03	Gypsy-13_DSim-I	17	17	60	100.00(0/60)		25.01	Gypsy-13_DSim-I	17	17
+SRR2033160	FBti0060907		present	polymorphic		60	100.00(0/60)		5.01	(TTATA)n	5	5	60	100.00(0/60)		29.56		22	22
+SRR2033160	FBti0063030	present	present	present	0	60	96.67(2/60)		23.38		16	16	60	96.67(2/60)		21.29	(TCAGTT)n	10	10
+SRR2033160	FBti0020235		present	polymorphic		60	100.00(0/60)		12.39	LSU-rRNA_Dme	9	9	60	100.00(0/60)		7.62	A-rich	5	5
+SRR2033160	FBti0062174		present	polymorphic		60	100.00(0/60)		27.19		20	20	60	100.00(0/60)		8.54	PROTOP	3	3
+SRR2033160	FBti0019258	present	present	present	0	60	100.00(0/60)		23.54		12	12	60	100.00(0/60)		28.89		11	11
+SRR2033160	FBti0061311		present	polymorphic		60	100.00(0/60)		22.01	Gypsy-8_DTa-I	7	7	60	100.00(0/60)		39.12	Gypsy-8_DTa-I	22	22
+SRR2033160	FBti0019624	absent	present	polymorphic	9	60	100.00(0/60)		8.24		1	1	60	100.00(0/60)		15.97		10	10
+SRR2033160	FBti0019402	absent	present	polymorphic	3	60	100.00(0/60)		10.21		11	11	60	100.00(0/60)		10.72		4	4
+SRR2033160	FBti0063807		present	polymorphic		60	100.00(0/60)		28.82	Copia-2_DBp-I	20	20	60	100.00(0/60)		24.89		15	15
+SRR2033160	FBti0020393	absent	present	polymorphic	2	60	100.00(0/60)		18.13		9	9	60	100.00(0/60)		9.54		7	7
+SRR2033160	FBti0019568	absent	present	polymorphic	2	60	100.00(0/60)		18.35		11	11	60	100.00(0/60)		6.06	(TTA)n	4	4
+SRR2033160	FBti0019623	present	present	present	0	60	100.00(0/60)		8.04		5	5	-22	0(0/0)		2.46	(AT)n	0	0
+SRR2033160	FBti0020217		present	polymorphic		60	100.00(0/60)		9.28	DNAREP1_DSim	7	7	60	100.00(0/60)		18.70	DNAREP1_DSim	8	8
+SRR2033160	FBti0019214		present	polymorphic		60	100.00(0/60)		16.60		6	6	60	100.00(0/60)		20.93	Helitron-N1_DBi	12	12
+SRR2033160	FBti0063519		present	polymorphic		60	100.00(0/60)		14.87	Gypsy12A_LTR	14	14	60	100.00(0/60)		10.82		7	7
+SRR2033160	FBti0061121		present	polymorphic		60	100.00(0/60)		33.98	Gypsy4-I_Dya	28	28	60	100.00(0/60)		33.68		23	23
+SRR2033160	FBti0018877	absent	present	polymorphic	6	60	100.00(0/60)		20.04		14	14	60	100.00(0/60)		14.28		6	6
+SRR2033160	FBti0019968	present	present	present	0	60	100.00(0/60)		15.43		13	13	60	100.00(0/60)		9.19		3	3
+SRR2033160	FBti0019207	absent	present	polymorphic	2	60	100.00(0/60)		10.28		3	3	60	100.00(0/60)		12.43		4	4
+SRR2033160	FBti0060276	present	present	present	0	60	100.00(0/60)		14.03	Mariner-9_DAn	11	11	60	100.00(0/60)		15.79		15	15
+SRR2033160	FBti0063188	present	present	present	0	60	100.00(0/60)		34.01		25	25	60	100.00(0/60)		30.46		20	20
+SRR2033160	FBti0060131	present	present	present	0	60	100.00(0/60)		16.53		9	9	60	98.33(1/60)		23.73		10	10
+SRR2033160	FBti0019472		present	polymorphic		60	100.00(0/60)		19.98	DNAREP1_DSim	19	19	60	100.00(0/60)		21.76	DNAREP1_DYak	20	20
+SRR2033160	FBti0019005	present	present	present	0	60	100.00(0/60)		24.61		6	6	60	100.00(0/60)		28.06		18	18
+SRR2033160	FBti0019187	present	present	present	0	60	100.00(0/60)		13.21	(TATA)n	6	6	60	100.00(0/60)		13.58		7	7
+SRR2033160	FBti0019070	absent	present	polymorphic	1	60	100.00(0/60)		10.35		6	6	60	100.00(0/60)		13.49		6	6
+SRR2033160	FBti0063290		present	polymorphic		60	100.00(0/60)		27.26	BEL2-I_Dya	15	15	60	100.00(0/60)		28.23	BEL2-I_Dya	17	17
+SRR2033160	FBti0019423	absent	present	polymorphic	13	54	100.00(0/58)		15.09		0	0	60	100.00(0/60)		24.33		10	10
+SRR2033160	FBti0019329	present	present	present	0	60	100.00(0/60)		20.94		13	13	60	100.00(0/60)		28.38		17	17
+SRR2033160	FBti0063783	present	present	present	0	60	100.00(0/60)		23.03	Helitron-N1_DBi	20	20	60	98.33(1/60)		22.39		15	15
+SRR2033160	FBti0059875	present	present	present	0	60	100.00(0/60)		46.57		42	42	60	100.00(0/60)		41.61		28	28
+SRR2033160	FBti0019251	present	present	present	0	60	100.00(0/60)		29.51		26	26	60	100.00(0/60)		21.09		13	13
+SRR2033160	FBti0019469	absent	present	polymorphic	8	60	100.00(0/60)		8.53		5	5	60	100.00(0/60)		8.91		3	3
+SRR2033160	FBti0019452	present	present	present	0	60	100.00(0/60)		16.73		12	12	60	100.00(0/60)		16.30		6	6
+SRR2033160	FBti0060262		present	polymorphic		60	98.33(1/60)		21.86	DNAREP1_DM	13	13	60	100.00(0/60)		22.62		10	10
+SRR2033160	FBti0019596	absent	present	polymorphic	9	60	100.00(0/60)		17.11		12	12	60	100.00(0/60)		11.36		4	4
+SRR2033160	FBti0060083		present	polymorphic		60	98.33(1/60)		7.72		4	4	60	100.00(0/60)		9.55	MuDR-1_DK	4	4
+SRR2033160	FBti0018997	absent	present	polymorphic	7	60	100.00(0/60)		23.27		9	9	60	100.00(0/60)		12.12		6	6
+SRR2033160	FBti0019639	present	present	present	0	60	100.00(0/60)		20.02		16	16	60	96.67(2/60)		22.33		14	14
+SRR2033160	FBti0060944		present	polymorphic		60	100.00(0/60)		23.51		15	15	60	100.00(0/60)		15.45	Gypsy-24_DYa-I	12	12
+SRR2033160	FBti0063754		present	polymorphic		60	100.00(0/60)		19.81		16	16	60	100.00(0/60)		21.21	DNAREP1_DM	16	16
+SRR2033160	FBti0020118	absent	present	polymorphic	1	60	100.00(0/60)		9.23		6	6	60	100.00(0/60)		5.34		3	3
+SRR2033160	FBti0060663	present	present	present	0	60	100.00(0/60)		17.54		8	8	60	100.00(0/60)		11.36		6	6
+SRR2033160	FBti0019526	absent	present	polymorphic	6	60	100.00(0/60)		17.93		11	11	60	100.00(0/60)		10.50		4	4
+SRR2033160	FBti0019702		present	polymorphic		60	100.00(0/60)		28.36	Gypsy-4_DSim-I	13	13	60	100.00(0/60)		20.57	DNAREP1_DSim	11	11
+SRR2033160	FBti0062929		present	polymorphic		60	100.00(0/60)		21.93	Gypsy12A_LTR	15	15	60	98.33(1/60)		16.76	Gypsy12A_LTR	13	13
+SRR2033160	FBti0018871	absent	present	polymorphic	10	60	100.00(0/60)		23.96		22	22	60	100.00(0/60)		17.35		6	6
+SRR2033160	FBti0063743	present	present	present	0	60	100.00(0/60)		20.24		12	12	60	100.00(0/60)	poly(A)4	18.44		13	13
+SRR2033160	FBti0060069	present	present	present	0	60	100.00(0/60)		15.01		8	8	60	100.00(0/60)		17.66		11	11
+SRR2033160	FBti0019333	absent	present	polymorphic	3	60	100.00(0/60)		21.30		12	12	60	100.00(0/60)		22.98	(TACA)n	5	5
+SRR2033160	FBti0063333		present	polymorphic		60	100.00(0/60)		17.44		10	10	60	100.00(0/60)		21.56	Jockey-1_DYa	8	8
+SRR2033160	FBti0060911	present	present	present	0	60	100.00(0/60)		19.21		15	15	60	100.00(0/60)		14.31		10	10
+SRR2033160	FBti0063239		present	polymorphic		60	100.00(0/60)		36.48		30	30	60	100.00(0/60)		27.51	Jockey-4_DBp	12	12
+SRR2033160	FBti0018991	absent	present	polymorphic	7	60	100.00(0/60)		13.04	(AGCAGT)n	4	4	60	100.00(0/60)		16.38		10	10
+SRR2033160	FBti0019026	absent	present	polymorphic	3	60	100.00(0/60)		10.84		4	4	60	100.00(0/60)		10.42		2	2
+SRR2033160	FBti0019411	absent	present	polymorphic	1	60	100.00(0/60)		8.46		3	3	60	100.00(0/60)		8.61		4	4
+SRR2033160	FBti0019424	absent	absent	absent	13	1	100.00(0/1)		10.43		0	0	-1	0(0/0)		7.50		0	0
+SRR2033160	FBti0019637	absent	present	polymorphic	7	60	100.00(0/60)		15.21		10	10	60	100.00(0/60)		15.29		7	7
+SRR2033160	FBti0063317		present	polymorphic		60	100.00(0/60)		12.75	Gypsy-10_DMoj-I	5	5	60	100.00(0/60)		13.81	DNAREP1_DYak	9	9
+SRR2033160	FBti0059896		present	polymorphic		60	98.33(1/60)		15.71		8	8	60	100.00(0/60)		17.99	DNAREP1_DSim	9	9
+SRR2033160	FBti0019294	present	present	present	0	60	100.00(0/60)		9.26		4	4	60	100.00(0/60)		20.18		7	7
+SRR2033160	FBti0060575	present	present	present	0	60	100.00(0/60)		24.43		10	10	60	100.00(0/60)		10.86		4	4
+SRR2033160	FBti0019334	absent	present	polymorphic	3	60	100.00(0/60)		19.93		12	12	60	100.00(0/60)		10.93		6	6
+SRR2033160	FBti0063057	present	present	present	0	60	100.00(0/60)		21.96		17	17	60	100.00(0/60)		23.26		17	17
+SRR2033160	FBti0020157	present	present	present	0	60	100.00(0/60)		11.66		4	4	60	100.00(0/60)		21.76		21	21
+SRR2033160	FBti0062028	present	present	present	0	60	100.00(0/60)		10.47		9	9	60	100.00(0/60)		9.51		7	7
+SRR2033160	FBti0020084	absent	present	polymorphic	1	60	100.00(0/60)		9.35		2	2	60	100.00(0/60)		21.60		4	4
+SRR2033160	FBti0061126		present	polymorphic		60	98.33(1/60)		32.01		11	11	60	100.00(0/60)		22.03	Gypsy-2_DTa-I	18	18
+SRR2033160	FBti0019542	present	present	present	0	50	100.00(0/50)		2.20	A-rich	1	1	48	100.00(0/60)		3.56	(T)n	0	0
+SRR2033160	FBti0018882	absent	present	polymorphic	5	60	100.00(0/60)		15.89		6	6	60	100.00(0/60)		11.03		5	5
+SRR2033160	FBti0019206	absent	present	polymorphic	11	60	100.00(0/60)		15.56		10	10	60	100.00(0/60)		17.44		7	7
+SRR2033160	FBti0059882		present	polymorphic		60	100.00(0/60)		13.19	Harbinger1_DYa	2	2	60	100.00(0/60)		14.39	Harbinger1_DYa	8	8
+SRR2033160	FBti0061728		present	polymorphic		60	100.00(0/60)		22.73		11	11	60	100.00(0/60)		32.59	hAT-2_DY	16	16
+SRR2033160	FBti0062498		present	polymorphic		60	98.33(1/60)		33.75	Gypsy-13_DSim-LTR	21	21	60	98.33(1/60)		36.33		19	19
+SRR2033160	FBti0063801	present	present	present	0	60	100.00(0/60)		32.08		28	28	60	100.00(0/60)		33.81		24	24
+SRR2033160	FBti0019374	absent	present	polymorphic	13	60	100.00(0/60)		17.14		13	13	60	100.00(0/60)		10.81		5	5
+SRR2033160	FBti0020012	absent	present	polymorphic	5	60	100.00(0/60)		15.74		14	14	60	100.00(0/60)		11.93		9	9
+SRR2033160	FBti0063535	present	present	present	0	60	100.00(0/60)		23.21		15	15	60	100.00(0/60)		19.21	Mariner-6_DBi	9	9
+SRR2033160	FBti0062873		present	polymorphic		60	100.00(0/60)		43.24	DNAREP1_DSim	34	34	60	100.00(0/60)		27.01		14	14
+SRR2033160	FBti0019429	absent	present	polymorphic	4	60	100.00(0/60)		7.16		3	3	60	100.00(0/60)		12.01		6	6
+SRR2033160	FBti0061719		present	polymorphic		60	100.00(0/60)		19.99		7	7	60	100.00(0/60)		22.16	HOBO	10	10
+SRR2033160	FBti0064231		present	polymorphic		60	100.00(0/60)		16.83		18	18	60	100.00(0/60)		18.57	DNAREP1_DSim	13	13
+SRR2033160	FBti0062445	present	present	present	0	60	98.33(1/60)		25.81		17	17	60	100.00(0/60)		36.61		22	22
+SRR2033160	FBti0018967		present	polymorphic		60	100.00(0/60)		2.79		1	1	60	100.00(0/60)		6.08	DNAREP1_DYak	1	1
+SRR2033160	FBti0064037	present	present	present	0	60	100.00(0/60)		23.39	(TATA)n	10	10	60	100.00(0/60)		18.91		18	18
+SRR2033160	FBti0064310	present	present	present	0	60	100.00(0/60)		33.89		29	29	60	100.00(0/60)		29.99		19	19
+SRR2033160	FBti0060459	present	present	present	0	60	100.00(0/60)		15.80	(T)n	12	12	60	100.00(0/60)		18.96	(CAAC)n	15	15
+SRR2033160	FBti0019770	absent	present	polymorphic	9	60	100.00(0/60)		20.17	(TCGGT)n	13	13	60	100.00(0/60)		13.08		6	6
+SRR2033160	FBti0020200	present	present	present	0	60	100.00(0/60)		15.03		7	7	60	100.00(0/60)		20.71		11	11
+SRR2033160	FBti0020156	absent	present	polymorphic	8	60	100.00(0/60)		11.95		7	7	60	100.00(0/60)		16.84		2	2
+SRR2033160	FBti0063086		present	polymorphic		60	100.00(0/60)		35.93	CR1-2_DRh	20	20	60	100.00(0/60)		28.51	DNAREP1_DSim	21	21
+SRR2033160	FBti0019121	absent	present	polymorphic	1	60	100.00(0/60)		14.21		14	14	60	100.00(0/60)		12.77		4	4
+SRR2033160	FBti0062833	present	present	present	0	60	100.00(0/60)		33.53		20	20	60	100.00(0/60)		32.15		15	15
+SRR2033160	FBti0061578		present	polymorphic		60	100.00(0/60)		27.14	LOA-3_DPer	18	18	60	100.00(0/60)		23.11		13	13
+SRR2033160	FBti0019286	absent	present	polymorphic	11	60	100.00(0/60)		8.74		3	3	60	100.00(0/60)		13.24		7	7
+SRR2033160	FBti0018879	absent	present	polymorphic	4	60	100.00(0/60)		11.71		6	6	60	100.00(0/60)		8.54		3	3
+SRR2033160	FBti0020381	absent	present	polymorphic	4	60	100.00(0/60)		8.79		4	4	60	100.00(0/60)		11.99	(GT)n	5	5
+SRR2033160	FBti0019281	absent	present	polymorphic	3	60	100.00(0/60)		19.26		8	8	60	100.00(0/60)		9.51		7	7
+SRR2033160	FBti0020438	present	present	present	0	60	100.00(0/60)		25.61		22	22	60	98.33(1/60)		18.50		12	12
+SRR2033160	FBti0060295	present	present	present	0	60	100.00(0/60)		16.16		12	12	60	100.00(0/60)		15.24		7	7
+SRR2033160	FBti0063146	present	present	present	0	60	100.00(0/60)		16.43		13	13	60	100.00(0/60)		13.94		5	5
+SRR2033160	FBti0062410	present	present	present	0	60	100.00(0/60)		14.77		10	10	60	100.00(0/60)		46.85		39	39
+SRR2033160	FBti0019300	absent	absent	absent	2	0	0(0/0)		11.19		0	0	-1	0(0/0)		1.74		0	0
+SRR2033160	FBti0063757		present	polymorphic		60	100.00(0/60)		28.00	DNAREP1_DM	19	19	60	100.00(0/60)		25.77		22	22
+SRR2033160	FBti0061005	present	present	present	0	60	98.33(1/60)		18.51		8	8	60	98.33(1/60)		18.54		7	7
+SRR2033160	FBti0063247		present	polymorphic		60	100.00(0/60)		26.67		20	20	60	100.00(0/60)		30.34	DNAREP1_DM	14	14
+SRR2033160	FBti0020108	absent	present	polymorphic	7	60	100.00(0/60)		8.38		5	5	60	100.00(0/60)		8.18		2	2
+SRR2033160	FBti0063740		present	polymorphic		60	98.33(1/60)		10.36	DNAREP1_DYak	12	12	60	98.33(1/60)		24.09		23	23
+SRR2033160	FBti0020205	absent	present	polymorphic	12	60	100.00(0/60)		17.12		13	13	60	100.00(0/60)		14.79		4	4
+SRR2033160	FBti0062259	present	present	present	0	60	100.00(0/60)		34.61		24	24	60	100.00(0/60)		43.05	(TG)n	15	15
+SRR2033160	FBti0060598	present	present	present	0	60	100.00(0/60)		28.20		20	20	60	100.00(0/60)		31.47		21	21
+SRR2033160	FBti0061327		present	polymorphic		60	100.00(0/60)		14.13		5	5	60	100.00(0/60)		9.21	DNAREP1_DSim	6	6
+SRR2033160	FBti0062237		present	polymorphic		60	100.00(0/60)		16.94	DNAREP1_DSim	11	11	60	100.00(0/60)		17.42	DNAREP1_DYak	14	14
+SRR2033160	FBti0019074	present	present	present	0	60	98.33(1/60)		22.04		17	17	60	100.00(0/60)		27.79		14	14
+SRR2033160	FBti0019239		present	polymorphic		60	100.00(0/60)		15.86	Helitron-N2_DT	6	6	60	100.00(0/60)		32.61		22	22
+SRR2033160	FBti0062342		present	polymorphic		60	100.00(0/60)		30.29	BEL-2_DAn-I	11	11	60	100.00(0/60)		32.55	BEL-19_DAn-I	18	18
+SRR2033160	FBti0018995	absent	present	polymorphic	6	60	100.00(0/60)		12.65		9	9	60	100.00(0/60)		12.43	(CCAAGA)n	3	3
+SRR2033160	FBti0064067		present	polymorphic		60	100.00(0/60)		26.56	Mariner-15_DK	26	26	60	100.00(0/60)		20.31	Mariner-20_DAn	11	11
+SRR2033160	FBti0019553	absent	present	polymorphic	1	60	100.00(0/60)		8.50	(AT)n	3	3	60	100.00(0/60)		6.39		4	4
+SRR2033160	FBti0060103	present	present	present	0	60	100.00(0/60)		31.32		27	27	60	100.00(0/60)		27.71		7	7
+SRR2033160	FBti0019677	present	present	present	0	60	100.00(0/60)		21.99		7	7	60	100.00(0/60)		27.35		7	7
+SRR2033160	FBti0019296	absent	present	polymorphic	3	60	100.00(0/60)		11.47		4	4	60	100.00(0/60)		8.62		0	0
+SRR2033160	FBti0020426	present	present	present	0	60	100.00(0/60)		8.44		3	3	60	100.00(0/60)		17.98	(AAGAACA)n	8	8
+SRR2033160	FBti0019665	absent	present	polymorphic	1	60	100.00(0/60)		8.89		5	5	60	100.00(0/60)		8.81		6	6
+SRR2033160	FBti0063751		present	polymorphic		60	98.33(1/60)		16.50	FB4_DM	12	12	60	98.33(1/60)		25.07	Helitron-1_DT	15	15
+SRR2033160	FBti0060345		present	polymorphic		60	100.00(0/60)		21.56	Gypsy-4_DSe-I	9	9	60	100.00(0/60)		27.31	Gypsy-9_DSim-LTR	12	12
+SRR2033160	FBti0062676	present	present	present	0	60	100.00(0/60)		34.48		31	31	60	100.00(0/60)		23.55		11	11
+SRR2033160	FBti0019473	absent	present	polymorphic	1	60	100.00(0/60)		18.62		12	12	60	100.00(0/60)		4.74		3	3
+SRR2033160	FBti0019468	absent	present	polymorphic	3	60	100.00(0/60)		12.82	(GTCTGG)n	5	5	60	100.00(0/60)		13.09		9	9
+SRR2033160	FBti0019628	absent	absent	absent	13	0	0(0/0)		6.60		0	0	-1	0(0/0)		8.74		0	0
+SRR2033160	FBti0020312	present	present	present	0	60	100.00(0/60)		11.67		4	4	60	100.00(0/60)		15.49		13	13
+SRR2033160	FBti0061325		present	polymorphic		60	100.00(0/60)		19.99		14	14	60	100.00(0/60)		24.48	Gypsy7_LTR	10	10
+SRR2033160	FBti0064312		present	polymorphic		60	98.33(1/60)		11.28	DNAREP1_DSim	4	4	60	100.00(0/60)		10.97		7	7
+SRR2033160	FBti0060442	present	present	present	0	60	100.00(0/60)		25.74		19	19	60	100.00(0/60)		13.37		5	5
+SRR2033160	FBti0061871	present	present	present	0	60	100.00(0/60)		18.92	Hoyak2	8	8	60	100.00(0/60)		30.17		12	12
+SRR2033160	FBti0060464	present	present	present	0	60	98.33(1/60)		34.31		27	27	60	98.33(1/60)		30.94		20	20
+SRR2033160	FBti0018994	absent	present	polymorphic	5	60	100.00(0/60)		10.46		1	1	60	100.00(0/60)		15.02		6	6
+SRR2033160	FBti0062383	absent	present	polymorphic	3	60	100.00(0/60)		9.47		3	3	60	100.00(0/60)		10.46		4	4
+SRR2033160	FBti0019734	present	present	present	0	60	100.00(0/60)		19.28		14	14	60	100.00(0/60)		17.35		12	12
+SRR2033160	FBti0020154	absent	present	polymorphic	3	60	100.00(0/60)		17.81		4	4	60	100.00(0/60)		10.88		5	5
+SRR2033160	FBti0020011	absent	present	polymorphic	2	60	100.00(0/60)		6.49		2	2	60	100.00(0/60)		7.34		2	2
+SRR2033160	FBti0019315	absent	present	polymorphic	9	60	100.00(0/60)		20.18		13	13	60	100.00(0/60)		9.54		4	4
+SRR2033160	FBti0060330	present	present	present	0	60	100.00(0/60)		9.99		6	6	60	100.00(0/60)		19.84		7	7
+SRR2033160	FBti0062473		present	polymorphic		60	100.00(0/60)		22.12		14	14	60	100.00(0/60)		19.27	BEL-3_DYa-LTR	16	16
+SRR2033160	FBti0019181	present	absent	no_data	0	-8	0(0/0)		3.77		0	0	0	0(0/0)		3.27		0	0
+SRR2033160	FBti0062488		present	polymorphic		60	98.33(1/60)		20.66	BEL-2_DSe-LTR	19	19	60	98.33(1/60)		23.68	(TTATCA)n	14	14
+SRR2033160	FBti0019314	absent	present	polymorphic	2	60	100.00(0/60)		10.97		6	6	60	100.00(0/60)		8.69		3	3
+SRR2033160	FBti0062945	present	present	present	0	60	100.00(0/60)		35.39		25	25	60	100.00(0/60)		40.46		27	27
+SRR2033160	FBti0061376	present	present	present	0	60	100.00(0/60)		18.01		4	4	60	100.00(0/60)		19.48	Helitron-N1_DBi	13	13
+SRR2033160	FBti0020169	present	present	present	0	60	100.00(0/60)		37.69		36	36	60	100.00(0/60)		15.17		8	8
+SRR2033160	FBti0020425	present	present	present	0	60	100.00(0/60)		11.97		7	7	60	100.00(0/60)		11.10		6	6
+SRR2033160	FBti0064217		present	polymorphic		60	100.00(0/60)		25.30	Gypsy-1_DSim-I	12	12	60	100.00(0/60)		30.21	Gypsy-13_DSim-I	19	19
+SRR2033160	FBti0061738		present	polymorphic		60	100.00(0/60)		29.80	I-7_DBi	19	19	60	100.00(0/60)		25.56		20	20
+SRR2033160	FBti0059975		present	polymorphic		60	100.00(0/60)		13.29	Gypsy-22_DY-LTR	10	10	60	100.00(0/60)		14.61	DNAREP1_DYak	9	9
+SRR2033160	FBti0019218	absent	present	polymorphic	6	60	100.00(0/60)		4.28		0	0	60	100.00(0/60)		15.49		10	10
+SRR2033160	FBti0020120	absent	present	polymorphic	6	60	100.00(0/60)		6.57		4	4	60	100.00(0/60)		4.24		1	1
+SRR2033160	FBti0018936	absent	present	polymorphic	2	60	100.00(0/60)		25.71		14	14	60	100.00(0/60)		19.18	(GT)n	13	13
+SRR2033160	FBti0019456	absent	no_data	no_data	10	-17	0(0/0)		3.56		0	0	-16	0(0/0)		1.98		0	0
+SRR2033160	FBti0019046	absent	present	polymorphic	2	60	100.00(0/60)		12.44		6	6	60	100.00(0/60)		6.83		0	0
+SRR2033160	FBti0019061	present	present	present	0	60	100.00(0/60)		14.89	(AT)n	10	10	60	100.00(0/60)		12.44	(AT)n	4	4
+SRR2033160	FBti0020178	present	present	present	0	60	100.00(0/60)		20.39		14	14	60	100.00(0/60)		27.14		18	18
+SRR2033160	FBti0019280		present	polymorphic		-30	0(0/0)		0.00	FW_DM	0	0	60	100.00(0/60)		11.46		2	2
+SRR2033160	FBti0019245	present	present	present	0	60	100.00(0/60)		8.77		3	3	60	100.00(0/60)		12.14		8	8
+SRR2033160	FBti0059861	present	present	present	0	60	100.00(0/60)		22.66		23	23	60	100.00(0/60)		24.24		20	20
+SRR2033160	FBti0019791	absent	present	polymorphic	1	60	100.00(0/60)		11.41		5	5	-30	0(0/0)		0.00		0	0
+SRR2033160	FBti0061115	present	present	present	0	60	100.00(0/60)		9.79		8	8	60	100.00(0/60)		11.39		8	8
+SRR2033160	FBti0060068	present	present	present	0	60	100.00(0/60)		14.31	(AAGAACA)n	8	8	60	100.00(0/60)		16.92	(TA)n	15	15
+SRR2033160	FBti0059878	present	present	present	0	60	100.00(0/60)		10.16	(TA)n	4	4	58	100.00(0/60)		5.20	(TA)n	2	2
+SRR2033160	FBti0019376	absent	present	polymorphic	5	60	100.00(0/60)		11.09		9	9	60	100.00(0/60)		8.09		2	2
+SRR2033160	FBti0019413	absent	absent	absent	18	-1	0(0/0)		5.74		0	0	60	100.00(0/60)		9.01		0	0
+SRR2033160	FBti0062284		present	polymorphic		60	98.33(1/60)		31.23	Jockey-1_DSi	22	22	60	100.00(0/60)		29.07		14	14
+SRR2033160	FBti0063994	present	present	present	0	60	100.00(0/60)		19.46		16	16	60	95.00(3/60)		12.18		7	7
+SRR2033160	FBti0019713		present	polymorphic		37	100.00(0/45)		0.86	Gypsy-12_DFi-I	0	0	60	100.00(0/60)		30.68	Gypsy-11_DAn-I	31	31
+SRR2033160	FBti0019071	present	present	present	0	60	100.00(0/60)		5.54		3	3	60	100.00(0/60)		9.53		3	3
+SRR2033160	FBti0019409	absent	present	polymorphic	1	60	100.00(0/60)		12.64		10	10	60	100.00(0/60)		9.94		6	6
+SRR2033160	FBti0019406	absent	present	polymorphic	6	60	100.00(0/60)		11.66		6	6	60	100.00(0/60)		13.14		8	8
+SRR2033160	FBti0019185	absent	present	polymorphic	3	60	100.00(0/60)		10.33		6	6	60	100.00(0/60)		9.09		4	4
+SRR2033160	FBti0019047	absent	present	polymorphic	3	60	100.00(0/60)		20.41		15	15	60	100.00(0/60)		11.14		12	12
+SRR2033160	FBti0018925	absent	absent	absent	8	-11	0(0/0)		1.72		0	0	-5	0(0/0)		4.86		0	0
+SRR2033160	FBti0020153	present	present	present	0	60	100.00(0/60)		13.50		10	10	60	100.00(0/60)		8.41		3	3
+SRR2033160	FBti0063352	absent	present	polymorphic	15	60	100.00(0/60)		17.17		13	13	60	100.00(0/60)		7.09		4	4
+SRR2033160	FBti0019326	present	absent	no_data	0	-1	0(0/0)		8.73	DNAREP1_DSim	0	0	1	100.00(0/1)		3.12		0	0
+SRR2033160	FBti0020151	present	present	present	0	60	96.67(2/60)	poly(A)8	14.23		5	5	60	100.00(0/60)		29.84		24	24
+SRR2033160	FBti0060067	present	present	present	0	60	100.00(0/60)		10.64		6	6	60	100.00(0/60)		5.99		4	4
+SRR2033160	FBti0019138	absent	present	polymorphic	1	60	100.00(0/60)		15.99		9	9	60	100.00(0/60)		8.77		4	4
+SRR2033160	FBti0019841		present	polymorphic		60	100.00(0/60)		8.47	PROTOP_A	1	1	60	100.00(0/60)		15.89		6	6
+SRR2033160	FBti0019159	absent	present	polymorphic	3	60	100.00(0/60)		8.87		3	3	60	100.00(0/60)		19.98		11	11
+SRR2033160	FBti0018959	absent	present	polymorphic	7	60	100.00(0/60)		16.99		10	10	60	100.00(0/60)		9.03		3	3
+SRR2033160	FBti0019394	absent	present	polymorphic	5	60	100.00(0/60)		17.87		9	9	60	100.00(0/60)		10.69	(AAAATGCC)n	4	4
+SRR2033160	FBti0019224	absent	present	polymorphic	6	60	100.00(0/60)		17.94		12	12	60	100.00(0/60)		12.35	(TA)n	9	9
+SRR2033160	FBti0020148	absent	present	polymorphic	5	60	100.00(0/60)		14.02		12	12	-30	0(0/0)		0.38		0	0
+SRR2033160	FBti0020017	absent	present	polymorphic	7	60	100.00(0/60)		19.68		7	7	60	100.00(0/60)		14.39	(CA)n	8	8
+SRR2033160	FBti0060433	present	present	present	0	60	100.00(0/60)		26.55		16	16	60	96.67(2/60)		31.36		18	18
+SRR2033160	FBti0019147	absent	present	polymorphic	4	60	100.00(0/60)		10.06		4	4	60	100.00(0/60)		21.98		7	7
+SRR2033160	FBti0061163	present	present	present	0	60	100.00(0/60)		18.97	(GTT)n	20	20	60	100.00(0/60)		11.89		6	6
+SRR2033160	FBti0060340		present	polymorphic		60	100.00(0/60)		8.78	(TTATA)n	7	7	60	100.00(0/60)		17.14	Mariner-17_DK	11	11
+SRR2033160	FBti0063113		present	polymorphic		60	100.00(0/60)		33.70		16	16	60	100.00(0/60)		27.44	PROTOP_B	10	10
+SRR2033160	FBti0059873		present	polymorphic		60	98.33(1/60)		29.13		22	22	60	100.00(0/60)		6.64	(TA)n	3	3
+SRR2033160	FBti0063257	present	present	present	0	60	96.67(2/60)		18.78		12	12	60	98.33(1/60)		17.06		8	8
+SRR2033160	FBti0062347	absent	present	polymorphic	11	60	100.00(0/60)		18.40		11	11	60	100.00(0/60)		16.21		8	8
+SRR2033160	FBti0062387	present	present	present	0	60	100.00(0/60)		15.84		11	11	60	100.00(0/60)		24.54		7	7
+SRR2033160	FBti0019536	present	present	present	0	60	100.00(0/60)		33.29		25	25	60	100.00(0/60)		34.68		28	28
+SRR2033160	FBti0019593	present	present	present	0	60	100.00(0/60)		6.59		2	2	60	100.00(0/60)		10.28		5	5
+SRR2033160	FBti0019825	absent	present	polymorphic	6	59	100.00(0/60)		15.79		6	6	60	100.00(0/60)		13.57		6	6
+SRR2033160	FBti0019012	absent	present	polymorphic	2	60	100.00(0/60)		6.78		2	2	60	100.00(0/60)		8.89		7	7
+SRR2033160	FBti0059946	present	present	present	0	60	100.00(0/60)		11.78		9	9	60	100.00(0/60)		9.32		5	5
+SRR2033160	FBti0019649	present	present	present	0	60	96.67(2/60)		21.64	(TACA)n	5	5	60	100.00(0/60)		30.27		15	15
+SRR2033160	FBti0018993	absent	present	polymorphic	7	60	100.00(0/60)		12.08		5	5	60	98.33(1/60)		4.66		1	1
+SRR2033160	FBti0019032	present	present	present	0	60	100.00(0/60)		9.16		4	4	60	100.00(0/60)		18.79		11	11
+SRR2033160	FBti0061017		present	polymorphic		60	100.00(0/60)		22.66	Gypsy-13_DSim-I	7	7	60	100.00(0/60)		27.63	Gypsy-13_DSim-I	6	6
+SRR2033160	FBti0019589	absent	present	polymorphic	4	60	100.00(0/60)		19.44		10	10	60	100.00(0/60)	poly(A)6	4.59		0	0
+SRR2033160	FBti0019176	absent	present	polymorphic	12	60	100.00(0/60)		11.34		7	7	60	100.00(0/60)		18.18		8	8
+SRR2033160	FBti0020410	present	present	present	0	60	100.00(0/60)		17.35		6	6	60	100.00(0/60)		19.71		11	11
+SRR2033160	FBti0019460	absent	present	polymorphic	3	60	100.00(0/60)		15.90		7	7	60	100.00(0/60)		6.89		4	4
+SRR2033160	FBti0019278	absent	present	polymorphic	7	60	100.00(0/60)		17.03	(CGCTT)n	10	10	60	100.00(0/60)		11.86		10	10
+SRR2033160	FBti0019163	absent	present	polymorphic	7	60	100.00(0/60)		16.81		6	6	60	100.00(0/60)		13.39		10	10
+SRR2033160	FBti0062877	present	present	present	0	60	100.00(0/60)		18.49		18	18	60	96.67(2/60)		21.62		12	12
+SRR2033160	FBti0063311		present	polymorphic		60	100.00(0/60)		27.07	BEL-1_DRh-I	25	25	60	100.00(0/60)		26.99		15	15
+SRR2033160	FBti0062607		present	polymorphic		60	98.33(1/60)		28.01	DNAREP1_DSim	12	12	60	100.00(0/60)		21.28	DNAREP1_DYak	11	11
+SRR2033160	FBti0062243	present	present	present	0	60	100.00(0/60)		13.39		11	11	60	100.00(0/60)		13.16		10	10
+SRR2033160	FBti0019073	absent	present	polymorphic	3	60	100.00(0/60)		8.98		7	7	60	100.00(0/60)		10.70		5	5
+SRR2033160	FBti0020133	absent	present	polymorphic	3	60	100.00(0/60)		5.20	(TAAT)n	4	4	60	100.00(0/60)		8.79		1	1
+SRR2033160	FBti0060145	present	present	present	0	60	100.00(0/60)		17.51		11	11	60	98.33(1/60)		20.08		16	16
+SRR2033160	FBti0019344	present	present	present	0	60	100.00(0/60)		6.86		2	2	60	100.00(0/60)		36.52		25	25
+SRR2033160	FBti0061337	present	present	present	0	60	100.00(0/60)		24.38		13	13	60	100.00(0/60)		18.74		10	10
+SRR2033160	FBti0062971	present	present	present	0	60	100.00(0/60)		30.63		18	18	60	100.00(0/60)		28.96		25	25
+SRR2033160	FBti0019009	absent	present	polymorphic	12	60	100.00(0/60)		17.23		4	4	60	100.00(0/60)		15.11		11	11
+SRR2033160	FBti0019579	absent	present	polymorphic	6	60	100.00(0/60)		10.33		0	0	60	100.00(0/60)		13.71		10	10
+SRR2033160	FBti0060093	present	present	present	0	60	100.00(0/60)		33.69		21	21	60	98.33(1/60)		21.72		13	13
+SRR2033160	FBti0019543	absent	absent	absent	6	0	0(0/0)		7.17		0	0	-14	0(0/0)		7.53	(AC)n	0	0
+SRR2033160	FBti0019085	present	present	present	0	60	100.00(0/60)		25.01		15	15	60	100.00(0/60)		25.21		16	16
+SRR2033160	FBti0019198	absent	present	polymorphic	2	60	100.00(0/60)		11.34		5	5	60	100.00(0/60)	poly(A)5	3.88		0	0
+SRR2033160	FBti0019220	absent	present	polymorphic	14	60	100.00(0/60)		16.93		10	10	60	100.00(0/60)		7.38		2	2
+SRR2033160	FBti0019063	present	absent	no_data	0	-10	0(0/0)		1.09	(TA)n	0	0	-6	0(0/0)		5.40		0	0
+SRR2033160	FBti0062349	present	present	present	0	60	100.00(0/60)		16.62	Gypsy-4_DBi-LTR	11	11	60	100.00(0/60)		22.74		20	20
+SRR2033160	FBti0062669	present	present	present	0	60	100.00(0/60)		6.22	(TA)n	3	3	60	100.00(0/60)		22.72		13	13
+SRR2033160	FBti0019569	absent	present	polymorphic	6	25	100.00(0/25)		7.38		0	0	60	100.00(0/60)		9.89		5	5
+SRR2033160	FBti0020030	absent	present	polymorphic	9	60	100.00(0/60)		19.16		12	12	53	100.00(0/60)		10.71	(TGT)n	0	0
+SRR2033160	FBti0062779	present	present	present	0	60	100.00(0/60)		23.09		19	19	60	100.00(0/60)		14.59		6	6
+SRR2033160	FBti0020434	present	present	present	0	60	100.00(0/60)		17.29		16	16	60	100.00(0/60)		14.84		8	8
+SRR2033160	FBti0019609	absent	present	polymorphic	6	60	100.00(0/60)		11.20		5	5	60	100.00(0/60)		5.88		1	1
+SRR2033160	FBti0019580	absent	present	polymorphic	1	60	100.00(0/60)		17.27	(TG)n	9	9	60	100.00(0/60)		9.30	(TG)n	6	6
+SRR2033160	FBti0019353	present	present	present	0	60	100.00(0/60)		13.51		4	4	-30	0(0/0)		0.82	(AT)n	0	0
+SRR2033160	FBti0019101	absent	present	polymorphic	1	60	100.00(0/60)		18.31		13	13	60	100.00(0/60)		7.06		5	5
+SRR2033160	FBti0019722	present	present	present	0	60	100.00(0/60)		4.54	(ATA)n	3	3	60	100.00(0/60)		16.22		8	8
+SRR2033160	FBti0020207		present	polymorphic		60	100.00(0/60)		19.20	DNAREP1_DSim	11	11	60	100.00(0/60)		21.06		7	7
+SRR2033160	FBti0020114	present	present	present	0	60	100.00(0/60)		14.19		5	5	60	98.33(1/60)		26.54		13	13
+SRR2033160	FBti0020204	absent	absent	absent	10	-1	0(0/0)		8.65		0	0	-3	0(0/0)	poly(A)6	3.95		0	0
+SRR2033160	FBti0018862	present	present	present	0	60	100.00(0/60)		19.23		9	9	60	100.00(0/60)		31.18		17	17
+SRR2033160	FBti0019389	absent	present	polymorphic	5	60	100.00(0/60)		6.85		3	3	60	100.00(0/60)		25.85		8	8
+SRR2033160	FBti0062603		present	polymorphic		60	100.00(0/60)		16.24	DNAREP1_DSim	8	8	60	100.00(0/60)		16.23		8	8
+SRR2033160	FBti0020127	absent	present	polymorphic	2	60	100.00(0/60)		2.34		1	1	56	100.00(0/56)		5.45		0	0
+SRR2033160	FBti0019099	absent	present	polymorphic	8	60	100.00(0/60)		13.64		4	4	60	100.00(0/60)		10.99		4	4
+SRR2033160	FBti0062812	present	present	present	0	60	100.00(0/60)		8.46		9	9	60	100.00(0/60)		16.57	DNAREP1_DSim	2	2
+SRR2033160	FBti0060030	present	present	present	0	60	100.00(0/60)		28.79	PROTOP_B	21	21	60	100.00(0/60)		26.14		30	30
+SRR2033160	FBti0019392	absent	present	polymorphic	8	60	100.00(0/60)		26.46		11	11	60	100.00(0/60)		8.26		1	1
+SRR2033160	FBti0063548		present	polymorphic		60	100.00(0/60)		29.06	DNAREP1_DSim	19	19	60	100.00(0/60)		29.69	FW3_DM	24	24
+SRR2033160	FBti0059931		present	polymorphic		60	100.00(0/60)		24.96		17	17	60	100.00(0/60)		18.48	BEL_I	7	7
+SRR2033160	FBti0019338	absent	present	polymorphic	4	60	100.00(0/60)		13.88		6	6	60	100.00(0/60)		8.61		5	5
+SRR2033160	FBti0063442	present	present	present	0	60	100.00(0/60)		24.18		8	8	60	100.00(0/60)		26.73		26	26
+SRR2033160	FBti0063061	absent	present	polymorphic	4	60	100.00(0/60)		9.91		5	5	60	100.00(0/60)		13.25	Helitron-N3_DT	5	5
+SRR2033160	FBti0019168	absent	present	polymorphic	8	60	100.00(0/60)		12.24		10	10	60	100.00(0/60)		17.01		9	9
+SRR2033160	FBti0019123	absent	present	polymorphic	3	60	100.00(0/60)		14.90		5	5	60	100.00(0/60)		4.82	A-rich	1	1
+SRR2033160	FBti0060073	present	present	present	0	60	98.33(1/60)		14.01		5	5	60	100.00(0/60)		27.04		17	17
+SRR2033160	FBti0019463	absent	present	polymorphic	7	60	100.00(0/60)		14.97		7	7	60	100.00(0/60)		15.36		9	9
+SRR2033160	FBti0019107	absent	present	polymorphic	12	60	100.00(0/60)		23.86		14	14	60	100.00(0/60)		18.65	(GGA)n	9	9
+SRR2033160	FBti0062978	present	present	present	0	60	100.00(0/60)		8.91	(TTAAA)n	3	3	60	100.00(0/60)		16.46		15	15
+SRR2033160	FBti0019104	absent	present	polymorphic	7	60	100.00(0/60)		8.81		4	4	60	100.00(0/60)		3.92		1	1
+SRR2033160	FBti0018989	absent	present	polymorphic	4	13	100.00(0/13)		6.15		0	0	60	100.00(0/60)		12.93		2	2
+SRR2033160	FBti0019603	present	present	present	0	60	100.00(0/60)		5.09		5	5	60	100.00(0/60)		9.78		7	7
+SRR2033160	FBti0062554	present	present	present	0	60	100.00(0/60)		7.78		3	3	60	100.00(0/60)		8.26		4	4
+SRR2033160	FBti0019079	absent	present	polymorphic	7	60	100.00(0/60)		14.74		7	7	60	100.00(0/60)		16.86		4	4
+SRR2033160	FBti0020184	absent	absent	absent	10	-4	0(0/0)		3.84		0	0	-30	0(0/0)		3.33		0	0
+SRR2033160	FBti0060307	present	present	present	0	60	93.33(4/60)		13.78		3	3	60	100.00(0/60)		11.71		5	5
+SRR2033160	FBti0060058		present	polymorphic		60	100.00(0/60)		37.95	Gypsy-13_DSim-I	30	30	60	98.33(1/60)		26.66	Mariner-9_DRh	9	9
+SRR2033160	FBti0019483	present	present	present	0	60	100.00(0/60)		3.59		3	3	60	100.00(0/60)		27.69		22	22
+SRR2033160	FBti0019202	present	present	present	0	60	100.00(0/60)		14.74		14	14	60	100.00(0/60)		14.38		13	13
+SRR2033160	FBti0062895	present	present	present	0	60	100.00(0/60)		18.66		19	19	60	100.00(0/60)		20.73		12	12
+SRR2033160	FBti0063451	present	present	present	0	60	100.00(0/60)		21.59		14	14	60	100.00(0/60)		16.29		10	10
+SRR2033160	FBti0059934		present	polymorphic		60	98.33(1/60)		31.17	ZAM_LTR	16	16	60	100.00(0/60)		29.07		22	22
+SRR2033160	FBti0060664		present	polymorphic		60	100.00(0/60)		12.24	BARI1	11	11	60	98.33(1/60)		9.82		5	5
+SRR2033160	FBti0019398	absent	present	polymorphic	5	60	100.00(0/60)	poly(A)4	5.06		0	0	60	100.00(0/60)		8.93		6	6
+SRR2033160	FBti0060715	absent	present	polymorphic	3	60	98.33(1/60)		10.60		5	5	60	100.00(0/60)		7.04		2	2
+SRR2033160	FBti0063957		present	polymorphic		60	100.00(0/60)		21.93		15	15	60	100.00(0/60)		25.13	hAT-2_DY	10	10
+SRR2033160	FBti0019634	present	present	present	0	60	98.33(1/60)		17.22		12	12	60	100.00(0/60)		20.81		16	16
+SRR2033160	FBti0063689	present	present	present	0	60	100.00(0/60)		15.01		8	8	60	100.00(0/60)		22.89		19	19
+SRR2033160	FBti0018996	absent	present	polymorphic	2	60	100.00(0/60)		5.29		0	0	60	100.00(0/60)		12.46		6	6
+SRR2033160	FBti0020014	absent	absent	absent	5	2	100.00(0/2)		3.64		0	0	0	0(0/0)		4.22		0	0
+SRR2033160	FBti0019636		present	polymorphic		60	98.33(1/60)		14.70		4	4	60	100.00(0/60)		22.66	DNAREP1_DSim	14	14
+SRR2033160	FBti0059799		present	polymorphic		12	100.00(0/12)		1.30	BEL-1_DRh-I	0	0	60	100.00(0/60)		2.26		1	1
+SRR2033160	FBti0019054	absent	present	polymorphic	1	43	100.00(0/43)		1.69		0	0	60	100.00(0/60)		6.07		3	3
+SRR2033160	FBti0019626	absent	present	polymorphic	1	60	100.00(0/60)		23.03	(AT)n	6	6	60	100.00(0/60)		15.37		9	9
+SRR2033160	FBti0019648		present	polymorphic		60	100.00(0/60)		12.30	(TA)n	4	4	60	100.00(0/60)		10.89		9	9
+SRR2033160	FBti0019246	present	present	present	0	60	100.00(0/60)		16.89		11	11	60	100.00(0/60)		17.99		12	12
+SRR2033160	FBti0019002	absent	present	polymorphic	11	60	100.00(0/60)		8.86		3	3	60	100.00(0/60)		26.06		7	7
+SRR2033160	FBti0062032	present	present	present	0	60	98.33(1/60)		19.44		13	13	60	98.33(1/60)		21.15		10	10
+SRR2033160	FBti0018984		present	polymorphic		60	100.00(0/60)		6.62	(TAAAA)n	2	2	60	100.00(0/60)		20.43	BEL-1_DRh-I	12	12
+SRR2033160	FBti0061935		present	polymorphic		60	100.00(0/60)		33.36	Gypsy-13_DSim-LTR	17	17	60	100.00(0/60)		38.26	DNAREP1_DSim	29	29
+SRR2033160	FBti0018970	absent	present	polymorphic	7	60	100.00(0/60)		7.52		4	4	60	100.00(0/60)		14.30		4	4
+SRR2033160	FBti0018893		present	polymorphic		60	100.00(0/60)		29.20	BEL-4_DFi-I	19	19	60	100.00(0/60)		14.46	BEL-4_DFi-I	8	8
+SRR2033160	FBti0060580		present	polymorphic		60	100.00(0/60)		14.69		7	7	60	100.00(0/60)		15.64	DNAREP1_DSim	11	11
+SRR2033160	FBti0060220		present	polymorphic		60	100.00(0/60)		8.31	Gypsy-4_DSim-I	6	6	60	100.00(0/60)		15.88	Gypsy-19_DEl-I	10	10
+SRR2033160	FBti0020023	absent	present	polymorphic	3	60	100.00(0/60)		11.25		9	9	15	100.00(0/15)	poly(A)6	2.89		0	0
+SRR2033160	FBti0059769	absent	present	polymorphic	3	60	100.00(0/60)		12.46		10	10	60	100.00(0/60)		10.44		4	4
+SRR2033160	FBti0019434	present	present	present	0	60	100.00(0/60)		11.06		6	6	-8	0(0/0)		2.24	(AT)n	0	0
+SRR2033160	FBti0020107	absent	present	polymorphic	3	60	100.00(0/60)		7.58		1	1	60	100.00(0/60)		10.64		4	4
+SRR2033160	FBti0020224		present	polymorphic		60	100.00(0/60)		39.36	BEL-2_DSe-I	11	11	60	96.67(2/60)		24.60	BEL-2_DSe-LTR	12	12
+SRR2033160	FBti0019116	absent	present	polymorphic	3	60	100.00(0/60)		6.81		4	4	60	100.00(0/60)		11.50		3	3
+SRR2033160	FBti0019293	present	present	present	0	60	98.33(1/60)		13.05	Transib5	13	13	60	100.00(0/60)		21.08		15	15
+SRR2033160	FBti0019587	absent	present	polymorphic	4	60	100.00(0/60)		13.93		5	5	60	100.00(0/60)		15.46		7	7
+SRR2033160	FBti0062271		present	polymorphic		60	100.00(0/60)		32.44	Jockey-9_DY	25	25	60	100.00(0/60)		30.64	Jockey-9_DY	20	20
+SRR2033160	FBti0019093	present	present	present	0	60	100.00(0/60)		28.24		21	21	60	100.00(0/60)	poly(A)4	10.42	(TA)n	8	8
+SRR2033160	FBti0060970	present	present	present	0	60	100.00(0/60)		18.70		13	13	60	98.33(1/60)		20.89		14	14
+SRR2033160	FBti0019153	present	present	present	0	60	100.00(0/60)		8.18		3	3	48	100.00(0/48)	poly(A)10	3.77		0	0
+SRR2033160	FBti0064285	present	present	present	0	60	100.00(0/60)		26.48		11	11	60	100.00(0/60)		20.52		14	14
+SRR2033160	FBti0020125		present	polymorphic		60	100.00(0/60)		6.59	(T)n	2	2	60	100.00(0/60)	poly(A)4	10.86	(CA)n	3	3
+SRR2033160	FBti0019158	absent	present	polymorphic	2	60	100.00(0/60)		12.53	(AG)n	8	8	20	100.00(0/22)		3.59		0	0
+SRR2033160	FBti0059927	present	present	present	0	60	100.00(0/60)		29.07		17	17	60	100.00(0/60)		24.49		13	13
+SRR2033160	FBti0063889	present	present	present	0	60	100.00(0/60)		21.59		18	18	60	100.00(0/60)		27.27		23	23
+SRR2033160	FBti0064246	present	present	present	0	60	100.00(0/60)		18.68		15	15	60	100.00(0/60)		15.59		7	7
+SRR2033160	FBti0061771	present	present	present	0	60	100.00(0/60)		14.71		8	8	60	100.00(0/60)		19.21		14	14
+SRR2033160	FBti0019495	absent	absent	absent	16	0	0(0/0)		6.44		0	0	11	90.91(1/11)		13.88		0	0
+SRR2033160	FBti0020070	absent	present	polymorphic	5	60	100.00(0/60)		18.41		9	9	60	100.00(0/60)		18.70		10	10
+SRR2033160	FBti0019541	absent	present	polymorphic	5	60	100.00(0/60)		19.41		8	8	60	100.00(0/60)		16.43		8	8
+SRR2033160	FBti0063744		present	polymorphic		60	100.00(0/60)		6.95	FB4_DM	3	3	60	100.00(0/60)		9.36		4	4
+SRR2033160	FBti0019182	absent	absent	absent	16	0	0(0/0)		4.94		0	0	2	100.00(0/2)		3.95		0	0
+SRR2033160	FBti0019407	absent	present	polymorphic	1	-24	0(0/0)	poly(A)8	1.23		0	0	60	100.00(0/60)		8.16		7	7
+SRR2033160	FBti0060028	present	present	present	0	60	100.00(0/60)		26.19		18	18	60	100.00(0/60)		27.85		19	19
+SRR2033160	FBti0020422	present	present	present	0	60	100.00(0/60)		7.84		5	5	49	100.00(0/60)		3.18		0	0
+SRR2033160	FBti0059795	present	present	present	0	60	100.00(0/60)		14.62		9	9	60	95.00(3/60)		15.21		9	9
+SRR2033160	FBti0019443	present	present	present	0	60	100.00(0/60)		18.85	(CA)n	8	8	60	100.00(0/60)		20.83	(CA)n	5	5
+SRR2033160	FBti0062808		present	polymorphic		60	98.33(1/60)		23.16	DNAREP1_DSim	16	16	60	100.00(0/60)		24.09	(AATATAT)n	21	21
+SRR2033160	FBti0019474	present	present	present	0	60	100.00(0/60)		18.16		9	9	60	100.00(0/60)		25.71	Helitron-1_DEu	11	11
+SRR2033160	FBti0064286		present	polymorphic		60	93.33(4/60)		23.24	CR1-2_DRh	15	15	60	98.33(1/60)		25.73	hAT-N1_DF	20	20
+SRR2033160	FBti0020006		present	polymorphic		60	100.00(0/60)		7.91		5	5	60	100.00(0/60)		10.61	DNAREP1_DSim	6	6
+SRR2033160	FBti0063941	present	present	present	0	60	100.00(0/60)		30.61		15	15	60	100.00(0/60)		19.33		3	3
+SRR2033160	FBti0019455	present	present	present	0	60	100.00(0/60)		10.91		1	1	60	100.00(0/60)		15.18		7	7
+SRR2033160	FBti0059663	present	present	present	0	60	98.33(1/60)		14.69	(ATTGTT)n	9	9	60	100.00(0/60)		14.43		4	4
+SRR2033160	FBti0019445	absent	present	polymorphic	5	60	100.00(0/60)		17.18		5	5	60	100.00(0/60)		20.41		6	6
+SRR2033160	FBti0019279	absent	present	polymorphic	7	60	100.00(0/60)		15.19		11	11	60	100.00(0/60)		10.28		8	8
+SRR2033160	FBti0061533	present	present	present	0	60	98.33(1/60)		17.73		14	14	60	98.33(1/60)		7.91	DNAREP1_DSim	5	5
+SRR2033160	FBti0061774	present	present	present	0	60	100.00(0/60)		21.07		10	10	60	100.00(0/60)		29.99		24	24
+SRR2033160	FBti0019433	absent	present	polymorphic	1	60	100.00(0/60)		11.53		7	7	60	100.00(0/60)		6.08	A-rich	4	4
+SRR2033160	FBti0061736		present	polymorphic		60	100.00(0/60)		30.69	BEL-12_DEl-I	21	21	60	100.00(0/60)		30.93	BEL-12_DEl-I	27	27
+SRR2033160	FBti0062374		present	polymorphic		60	100.00(0/60)		37.70	MINIME_DN	22	22	60	100.00(0/60)		34.86		27	27
+SRR2033160	FBti0062442		present	polymorphic		60	100.00(0/60)		6.40	DNAREP1_DSim	3	3	60	100.00(0/60)		30.16	hAT-1_DSi	10	10
+SRR2033160	FBti0062249		present	polymorphic		60	100.00(0/60)		24.99		27	27	60	100.00(0/60)		22.84	Gypsy-20_DAn-I	9	9
+SRR2033160	FBti0019018	absent	present	polymorphic	5	60	100.00(0/60)		18.64		8	8	60	100.00(0/60)		9.63		8	8
+SRR2033160	FBti0020129	absent	present	polymorphic	12	60	100.00(0/60)		16.05		9	9	60	100.00(0/60)		13.16		13	13
+SRR2033160	FBti0020167	absent	present	polymorphic	10	60	100.00(0/60)		10.56		7	7	60	100.00(0/60)		4.35		4	4
+SRR2033160	FBti0019283		present	polymorphic		60	100.00(0/60)		13.91	DNAREP1_DSim	9	9	60	100.00(0/60)		17.38	DNAREP1_DSim	13	13
+SRR2033160	FBti0063300	present	present	present	0	60	100.00(0/60)	poly(A)6	5.06	(AT)n	1	1	60	100.00(0/60)		22.34		15	15
+SRR2033160	FBti0020158	absent	present	polymorphic	5	60	100.00(0/60)		12.49		3	3	60	100.00(0/60)		9.02		1	1
+SRR2033160	FBti0019133	present	present	present	0	60	100.00(0/60)		4.33		0	0	60	100.00(0/60)		4.19		2	2
+SRR2033160	FBti0060095		present	polymorphic		60	100.00(0/60)		22.14	(ATAG)n	17	17	60	100.00(0/60)		26.29	Gypsy-7_DSe-I	17	17
+SRR2033160	FBti0020123	absent	present	polymorphic	10	60	100.00(0/60)		9.15		3	3	24	100.00(0/24)		5.22		0	0
+SRR2033160	FBti0063697	present	present	present	0	60	98.33(1/60)		13.35		9	9	60	98.33(1/60)		16.55		8	8
+SRR2033160	FBti0062252		present	polymorphic		60	100.00(0/60)		14.55		12	12	60	100.00(0/60)		25.41	Mariner-20_DAn	16	16
+SRR2033160	FBti0019400	present	present	present	0	60	100.00(0/60)		42.10		25	25	60	100.00(0/60)		29.32		16	16
+SRR2033160	FBti0020206	present	present	present	0	60	98.33(1/60)		19.32		8	8	60	100.00(0/60)		19.14		8	8
+SRR2033160	FBti0060516		present	polymorphic		60	100.00(0/60)		31.43		23	23	60	100.00(0/60)		30.62	DNAREP1_DSim	17	17
+SRR2033160	FBti0019144	absent	present	polymorphic	2	60	100.00(0/60)		11.36		3	3	60	100.00(0/60)		18.84	(GT)n	11	11
+SRR2033160	FBti0061874	present	present	present	0	60	100.00(0/60)		63.12		43	43	60	100.00(0/60)		18.84	A-rich	13	13
+SRR2033160	FBti0018904	absent	absent	absent	19	-2	0(0/0)	poly(A)5	9.24		0	0	-1	0(0/0)		6.42		0	0
+SRR2033160	FBti0018973	present	present	present	0	60	100.00(0/60)		12.24		6	6	60	100.00(0/60)		13.46		11	11
+SRR2033160	FBti0061801		present	polymorphic		60	100.00(0/60)		27.32	Gypsy-23_DEl-I	20	20	60	100.00(0/60)		19.08		8	8
+SRR2033160	FBti0019470	absent	absent	absent	16	0	0(0/0)		5.48		0	0	1	100.00(0/1)		4.55		0	0
+SRR2033160	FBti0019781	present	present	present	0	60	100.00(0/60)		9.76		7	7	60	100.00(0/60)		12.91		6	6
+SRR2033160	FBti0019497	present	present	present	0	60	100.00(0/60)		11.93		3	3	60	100.00(0/60)		17.31		12	12
+SRR2033160	FBti0019056		present	polymorphic		60	100.00(0/60)		12.18	Gypsy-22_DWil-I	8	8	60	100.00(0/60)		10.12		7	7
+SRR2033160	FBti0018937	absent	present	polymorphic	3	60	100.00(0/60)		9.72		9	9	60	100.00(0/60)		5.17		2	2
+SRR2033160	FBti0060121	present	present	present	0	60	100.00(0/60)		23.93	(ATTTATA)n	10	10	60	100.00(0/60)		18.98		14	14
+SRR2033160	FBti0060620	present	present	present	0	60	100.00(0/60)		30.81		33	33	60	100.00(0/60)		19.07		19	19
+SRR2033160	FBti0063050		present	polymorphic		60	100.00(0/60)		7.05	Gypsy12A_LTR	4	4	60	100.00(0/60)		4.61		1	1
+SRR2033160	FBti0064081		present	polymorphic		60	100.00(0/60)		19.26	DNAREP1_DM	7	7	60	98.33(1/60)		23.02	DNAREP1_DM	19	19
+SRR2033160	FBti0019386	absent	present	polymorphic	8	60	100.00(0/60)		29.79		13	13	60	100.00(0/60)		16.62		14	14
+SRR2033160	FBti0061839	present	present	present	0	60	96.67(2/60)		24.79		15	15	60	96.67(2/60)		18.25		10	10
+SRR2033160	FBti0019632	absent	present	polymorphic	7	60	100.00(0/60)		7.01		4	4	60	100.00(0/60)		12.07	(TT)n	8	8
+SRR2033160	FBti0019162	absent	absent	absent	9	1	100.00(0/1)		6.12		0	0	-1	0(0/0)		6.97		0	0
+SRR2033160	FBti0019157	absent	present	polymorphic	10	60	100.00(0/60)		8.97		1	1	60	100.00(0/60)		16.93		8	8
+SRR2033160	FBti0020059	absent	present	polymorphic	4	60	100.00(0/60)		20.24		8	8	60	100.00(0/60)		20.04		7	7
+SRR2033160	FBti0018998		present	polymorphic		60	100.00(0/60)		14.76	DNAREP1_DSim	6	6	60	100.00(0/60)		22.23	DNAREP1_DSim	10	10
+SRR2033160	FBti0019077	absent	present	polymorphic	5	60	100.00(0/60)		10.49		5	5	60	100.00(0/60)		7.05		2	2
+SRR2033160	FBti0019319	present	present	present	0	60	100.00(0/60)		14.60		8	8	60	100.00(0/60)		12.85		12	12
+SRR2033160	FBti0063126	present	present	present	0	60	100.00(0/60)		24.48		15	15	60	100.00(0/60)		33.39		22	22
+SRR2033160	FBti0020098		present	polymorphic		60	100.00(0/60)	poly(A)4	19.81		1	1	60	100.00(0/60)		5.89	Jockey-1_DYa	7	7
+SRR2033160	FBti0019052	absent	present	polymorphic	3	60	100.00(0/60)		6.27		4	4	60	100.00(0/60)		9.24	(TAT)n	3	3
+SRR2033160	FBti0019436	present	present	present	0	60	100.00(0/60)		6.12		4	4	60	100.00(0/60)		9.06		5	5
+SRR2033160	FBti0019387	absent	absent	absent	16	-1	0(0/0)		7.88		0	0	-16	0(0/0)		3.12		0	0
+SRR2033160	FBti0060795	present	present	present	0	60	100.00(0/60)		40.31		20	20	60	100.00(0/60)		30.66		14	14
+SRR2033160	FBti0019191	present	absent	no_data	0	-10	0(0/0)		5.46		0	0	-9	0(0/0)	poly(A)12	4.23		0	0
+SRR2033160	FBti0063589	present	present	present	0	60	100.00(0/60)		25.20		14	14	60	100.00(0/60)		27.46	Gypsy21-I_Dpse	12	12
+SRR2033160	FBti0020037	absent	present	polymorphic	4	60	100.00(0/60)		15.34		7	7	60	100.00(0/60)		14.76		11	11
+SRR2033160	FBti0020166	absent	present	polymorphic	4	60	100.00(0/60)		10.13		2	2	60	100.00(0/60)		15.21		11	11
+SRR2033160	FBti0063452		present	polymorphic		60	100.00(0/60)		20.93	DNAREP1_DSim	16	16	60	100.00(0/60)		17.36	BEL-2_DEl-I	8	8
+SRR2033160	FBti0019287	present	present	present	0	60	100.00(0/60)		17.27		12	12	60	100.00(0/60)		18.79		14	14
+SRR2033160	FBti0018988	absent	present	polymorphic	1	14	100.00(0/31)		5.03		0	0	60	100.00(0/60)		11.04		4	4
+SRR2033160	FBti0019316	present	present	present	0	60	100.00(0/60)		17.31		8	8	60	100.00(0/60)		11.79		6	6
+SRR2033160	FBti0019086	absent	present	polymorphic	3	60	100.00(0/60)		10.19		4	4	60	100.00(0/60)	poly(A)4	19.64		15	15
+SRR2033160	FBti0060255		present	polymorphic		60	98.33(1/60)		3.38		1	1	60	98.33(1/60)		21.08	HOBO	13	13
+SRR2033160	FBti0059782	absent	present	polymorphic	4	60	100.00(0/60)		10.57	(TA)n	4	4	60	100.00(0/60)		16.34		3	3
+SRR2033160	FBti0061162		present	polymorphic		60	100.00(0/60)		37.80	Copia-3_DEu-I	16	16	60	98.33(1/60)		40.51	Copia-3_DEu-I	26	26
+SRR2033160	FBti0020313		present	polymorphic		60	100.00(0/60)		27.47		11	11	60	98.33(1/60)		20.14	DMRP1	7	7
+SRR2033160	FBti0019274	present	present	present	0	60	100.00(0/60)		13.12		4	4	60	100.00(0/60)		17.82		5	5
+SRR2033160	FBti0020159	absent	present	polymorphic	10	9	100.00(0/9)		4.37		0	0	60	100.00(0/60)		12.45		9	9
+SRR2033160	FBti0064132		present	polymorphic		60	100.00(0/60)		21.38	DNAREP1_DSim	18	18	60	100.00(0/60)		18.79	PROTOP_B	8	8
+SRR2033160	FBti0019416	present	present	present	0	60	100.00(0/60)		18.57		8	8	60	100.00(0/60)		10.22		4	4
+SRR2033160	FBti0062910	present	present	present	0	60	100.00(0/60)		22.99		15	15	60	100.00(0/60)		23.99		11	11
+SRR2033160	FBti0020113	present	present	present	0	60	100.00(0/60)		11.41		10	10	60	100.00(0/60)		13.22		8	8
+SRR2033160	FBti0020227	present	present	present	0	60	100.00(0/60)		18.41		9	9	60	100.00(0/60)		32.00		15	15
+SRR2033160	FBti0062238		present	polymorphic		60	98.33(1/60)		28.07		15	15	60	100.00(0/60)		17.52	PROTOP_B	8	8
+SRR2033160	FBti0019345	present	present	present	0	60	100.00(0/60)		23.63		18	18	60	100.00(0/60)		12.09		4	4
+SRR2033160	FBti0019747	absent	present	polymorphic	7	60	100.00(0/60)		8.38		5	5	60	100.00(0/60)		7.93		2	2
+SRR2033160	FBti0062428		present	polymorphic		60	100.00(0/60)		13.45		11	11	60	100.00(0/60)		21.86	DNAREP1_DSim	13	13
+SRR2033160	FBti0019771	present	present	present	0	60	100.00(0/60)		10.94		7	7	60	100.00(0/60)		19.10		16	16
+SRR2033160	FBti0061805		present	polymorphic		60	100.00(0/60)		32.08		20	20	60	100.00(0/60)		39.18	BEL-12_DEl-I	21	21
+SRR2033160	FBti0063530		present	polymorphic		60	100.00(0/60)		23.58		15	15	60	100.00(0/60)		27.11	Gypsy-26_DYa-LTR	19	19
+SRR2033160	FBti0019152	absent	present	polymorphic	4	60	100.00(0/60)		9.57		5	5	60	100.00(0/60)		9.97		5	5
+SRR2033160	FBti0064133		present	polymorphic		60	100.00(0/60)		21.04		15	15	60	100.00(0/60)		32.29	DNAREP1_DSim	27	27
+SRR2033160	FBti0020415	present	present	present	0	60	98.33(1/60)		22.67		13	13	60	100.00(0/60)		21.40		12	12
+SRR2033160	FBti0019317		present	polymorphic		60	100.00(0/60)		13.26		6	6	60	100.00(0/60)		18.38	DNAREP1_DM	10	10
+SRR2033160	FBti0019262		present	polymorphic		60	100.00(0/60)		18.44	BEL-3_DYa-I	10	10	60	100.00(0/60)		28.57	BEL-3_DYa-I	17	17
+SRR2033160	FBti0018955		present	polymorphic		60	100.00(0/60)		34.12	Gypsy-26_DYa-I	22	22	60	100.00(0/60)		29.18		21	21
+SRR2033160	FBti0019733		present	polymorphic		60	100.00(0/60)		12.36	Transib5	10	10	60	100.00(0/60)	poly(A)15	9.44	BARI1	1	1
+SRR2033160	FBti0019762	absent	present	polymorphic	3	60	100.00(0/60)		14.16		5	5	60	100.00(0/60)		6.04		2	2
+SRR2033160	FBti0019574	absent	present	polymorphic	8	60	100.00(0/60)		17.01		14	14	60	100.00(0/60)		13.52		8	8
+SRR2033160	FBti0020111	absent	present	polymorphic	3	60	100.00(0/60)		1.20		1	1	-1	0(0/0)		4.90		0	0
+SRR2033160	FBti0062384	present	present	present	0	60	100.00(0/60)		38.96	Jockey-6_DF	36	36	60	98.33(1/60)		38.14		34	34
+SRR2033160	FBti0018990	absent	present	polymorphic	5	60	100.00(0/60)	poly(A)8	3.47		1	1	60	100.00(0/60)		14.36		5	5
+SRR2033160	FBti0061792	present	present	present	0	60	100.00(0/60)		11.26	(T)n	8	8	60	100.00(0/60)		15.85		17	17
+SRR2033160	FBti0061582	present	present	present	0	60	96.67(2/60)		25.24		17	17	60	100.00(0/60)		33.89		28	28
+SRR2033160	FBti0062657	present	present	present	0	60	100.00(0/60)		32.26		22	22	60	100.00(0/60)		30.74		19	19
+SRR2033160	FBti0063223	present	present	present	0	60	100.00(0/60)		9.82		4	4	60	100.00(0/60)		14.14		5	5
+SRR2033160	FBti0019030	present	present	present	0	60	100.00(0/60)		13.26		6	6	60	100.00(0/60)		17.95		8	8
+SRR2033160	FBti0020072	absent	present	polymorphic	9	60	100.00(0/60)		26.16		13	13	60	100.00(0/60)		19.89		15	15
+SRR2033160	FBti0019612		present	polymorphic		60	100.00(0/60)		5.34	Gypsy-22_DY-LTR	4	4	-20	0(0/0)		3.49	(AT)n	0	0
+SRR2033160	FBti0020321	absent	present	polymorphic	3	60	100.00(0/60)		11.17		8	8	60	100.00(0/60)	poly(A)4	14.23		7	7
+SRR2033160	FBti0062474	present	present	present	0	60	100.00(0/60)		31.63	(ACGCCC)n	22	22	60	100.00(0/60)		12.88		6	6
+SRR2033160	FBti0019451	absent	present	polymorphic	3	60	100.00(0/60)		13.63		4	4	-2	0(0/0)		4.58		0	0
+SRR2033160	FBti0019102	absent	present	polymorphic	6	60	100.00(0/60)		21.76		16	16	60	100.00(0/60)		13.47		6	6
+SRR2033160	FBti0019367	absent	present	polymorphic	10	60	100.00(0/60)		3.30		0	0	60	100.00(0/60)		10.13		7	7
+SRR2033160	FBti0019615	absent	present	polymorphic	1	60	100.00(0/60)		4.74	A-rich	3	3	60	100.00(0/60)		3.97		3	3
+SRR2033160	FBti0018918	absent	present	polymorphic	11	60	100.00(0/60)		13.07		10	10	60	100.00(0/60)		11.71		3	3
+SRR2033160	FBti0060239	present	present	present	0	60	100.00(0/60)		12.54		7	7	60	100.00(0/60)		23.76		12	12
+SRR2033160	FBti0020149	present	present	present	0	60	100.00(0/60)		20.03		14	14	60	100.00(0/60)		15.12		13	13
+SRR2033160	FBti0020081	absent	absent	absent	5	2	100.00(0/2)		3.35		0	0	-3	0(0/0)		3.44		0	0
+SRR2033160	FBti0020259		present	polymorphic		60	100.00(0/60)		19.89	PROTOP_B	12	12	60	100.00(0/60)		39.36	BEL-13_DWil-I	28	28
+SRR2033160	FBti0019625	absent	present	polymorphic	8	60	100.00(0/60)		9.93		7	7	60	100.00(0/60)		17.89		7	7
+SRR2033160	FBti0059864		present	polymorphic		60	100.00(0/60)		19.90		16	16	60	100.00(0/60)		13.31	Mariner-4_DRh	8	8
+SRR2033160	FBti0019020	absent	present	polymorphic	9	60	100.00(0/60)		21.44	(CAG)n	9	9	60	100.00(0/60)		18.26		10	10
+SRR2033160	FBti0020140	absent	no_data	no_data	16	-30	0(0/0)		0.89	(TAAT)n	0	0	-30	0(0/0)		5.20		0	0
+SRR2033160	FBti0020076	absent	present	polymorphic	4	60	100.00(0/60)		5.58		4	4	60	100.00(0/60)		10.17		6	6
+SRR2033160	FBti0061692	present	present	present	0	60	100.00(0/60)		27.23		11	11	60	100.00(0/60)		25.24		20	20
+SRR2033160	FBti0019142	absent	present	polymorphic	7	60	100.00(0/60)	poly(A)4	18.04		11	11	60	100.00(0/60)		14.91		10	10
+SRR2033160	FBti0020056	absent	present	polymorphic	2	60	100.00(0/60)		6.60		4	4	60	100.00(0/60)		16.85		13	13
+SRR2033160	FBti0019486		present	polymorphic		60	100.00(0/60)		18.25		9	9	60	100.00(0/60)		16.21	DNAREP1_DM	7	7
+SRR2033160	FBti0020046	absent	present	polymorphic	10	60	100.00(0/60)		3.84		3	3	60	100.00(0/60)		13.12		15	15
+SRR2033160	FBti0020025	present	present	present	0	48	100.00(0/48)		3.43	A-rich	2	2	60	100.00(0/60)		7.40		1	1
+SRR2033160	FBti0062914	present	present	present	0	60	100.00(0/60)		16.91		9	9	60	100.00(0/60)		15.94		10	10
+SRR2033160	FBti0018861	absent	present	polymorphic	6	60	100.00(0/60)		11.80		3	3	60	100.00(0/60)		10.95		6	6
+SRR2033160	FBti0062133	present	present	present	0	60	100.00(0/60)		31.14		24	24	60	100.00(0/60)		27.31		16	16
+SRR2033160	FBti0063739	present	present	present	0	60	100.00(0/60)		10.74		5	5	60	100.00(0/60)		30.49		14	14
+SRR2033160	FBti0060587	present	present	present	0	60	100.00(0/60)		34.39		20	20	60	100.00(0/60)		36.17		17	17
+SRR2033160	FBti0063767		present	polymorphic		60	100.00(0/60)		25.24		12	12	60	95.00(3/60)		26.74	BEL-4_DFi-I	21	21
+SRR2033160	FBti0061108		present	polymorphic		60	100.00(0/60)		28.06	BEL-4_DFi-I	17	17	60	98.33(1/60)		24.23	BEL-4_DFi-I	12	12
+SRR2033160	FBti0019307	absent	present	polymorphic	6	60	100.00(0/60)		5.72		3	3	60	100.00(0/60)		14.06		9	9
+SRR2033160	FBti0019849	present	present	present	0	60	100.00(0/60)		23.76		15	15	60	98.33(1/60)		12.95		10	10
+SRR2033160	FBti0019404	present	present	present	0	60	100.00(0/60)		31.29	(AC)n	19	19	60	100.00(0/60)		13.95		2	2
+SRR2033160	FBti0064149	present	present	present	0	60	91.67(5/60)		24.74	DNAREP1_DSim	12	12	60	98.33(1/60)		13.62		9	9
+SRR2033160	FBti0019045	absent	present	polymorphic	3	60	100.00(0/60)		12.06		8	8	34	100.00(0/34)		6.34		0	0
+SRR2033160	FBti0020028	absent	present	polymorphic	9	60	100.00(0/60)		8.87		2	2	60	100.00(0/60)		15.57		6	6
+SRR2033160	FBti0060619		present	polymorphic		60	100.00(0/60)		13.76	CR1-2_DF	7	7	60	100.00(0/60)		20.49		12	12
+SRR2033160	FBti0059788		present	polymorphic		60	100.00(0/60)		13.66		7	7	60	100.00(0/60)		15.03	Gypsy-14_DAn-I	13	13
+SRR2033160	FBti0063234	present	present	present	0	60	100.00(0/60)		28.67		32	32	60	98.33(1/60)		27.87		19	19
+SRR2033160	FBti0060434		present	polymorphic		60	100.00(0/60)		16.06		14	14	60	100.00(0/60)	poly(A)5	23.04	DNAREP1_DSim	13	13
+SRR2033160	FBti0019383	absent	present	polymorphic	10	60	100.00(0/60)		19.04		10	10	60	100.00(0/60)		17.27		3	3
+SRR2033160	FBti0019824		present	polymorphic		60	98.33(1/60)		26.73	DNAREP1_DSim	22	22	60	100.00(0/60)		20.36		8	8
+SRR2033160	FBti0019299		present	polymorphic		25	100.00(0/25)		4.11	(TTTAGATA)n	1	1	-30	0(0/0)		0.74	A-rich	0	0
+SRR2033160	FBti0063969	present	present	present	0	60	100.00(0/60)		24.73	DMCR1A	21	21	60	100.00(0/60)		11.34		8	8
+SRR2033160	FBti0060588	present	present	present	0	60	100.00(0/60)		12.46		8	8	60	100.00(0/60)		12.26		11	11
+SRR2033160	FBti0063229		present	polymorphic		60	98.33(1/60)		39.27		19	19	60	100.00(0/60)		24.05	Gypsy-13_DSim-LTR	16	16
+SRR2033160	FBti0019528	present	present	present	0	60	100.00(0/60)		22.35		13	13	60	100.00(0/60)		18.88		10	10
+SRR2033160	FBti0019082	present	present	present	0	60	100.00(0/60)		27.43		12	12	60	98.33(1/60)		36.52		25	25
+SRR2033160	FBti0060565	present	no_data	no_data	0	-30	0(0/0)		0.00		0	0	-30	0(0/0)		0.00		0	0
+SRR2033160	FBti0019310	absent	present	polymorphic	4	60	100.00(0/60)		15.34		7	7	60	100.00(0/60)		10.36		5	5
+SRR2033160	FBti0019199	present	present	present	0	60	100.00(0/60)		18.42		19	19	60	100.00(0/60)	poly(A)4	4.54		3	3
+SRR2033160	FBti0062695		present	polymorphic		60	100.00(0/60)		32.12	Jockey-1_DEr	24	24	60	100.00(0/60)		31.04	Jockey-1_DEr	26	26
+SRR2033160	FBti0020003		present	polymorphic		45	100.00(0/60)		2.78	DNAREP1_DSim	0	0	60	100.00(0/60)		22.06		15	15
+SRR2033160	FBti0020414	present	present	present	0	60	98.33(1/60)		13.68		9	9	60	100.00(0/60)		36.40		34	34
+SRR2033160	FBti0061577	present	present	present	0	60	100.00(0/60)		12.16		9	9	60	100.00(0/60)		13.64		7	7
+SRR2033160	FBti0020073	absent	present	polymorphic	19	60	100.00(0/60)		15.38		10	10	60	100.00(0/60)		11.63		3	3
+SRR2033160	FBti0019095	present	present	present	0	60	100.00(0/60)		9.86		7	7	60	100.00(0/60)		7.68		5	5
+SRR2033160	FBti0018878	absent	present	polymorphic	5	60	100.00(0/60)		18.06		4	4	60	100.00(0/60)		19.84		4	4
+SRR2033160	FBti0063064	present	present	present	0	60	100.00(0/60)		41.96		26	26	60	100.00(0/60)		37.51		17	17
+SRR2033160	FBti0060012		present	polymorphic		60	100.00(0/60)		24.27	DNAREP1_DSim	20	20	60	100.00(0/60)		30.19	Gypsy16-I_Dya	17	17
+SRR2033160	FBti0020008	absent	present	polymorphic	10	60	100.00(0/60)		16.37		9	9	60	100.00(0/60)		25.91		12	12
+SRR2033160	FBti0019115	absent	present	polymorphic	5	60	100.00(0/60)		11.63	(TA)n	4	4	60	100.00(0/60)		15.14		8	8
+SRR2033160	FBti0019060	absent	present	polymorphic	1	60	100.00(0/60)		11.62		5	5	60	100.00(0/60)		11.68		4	4
+SRR2033160	FBti0060517		present	polymorphic		60	100.00(0/60)		28.39		21	21	60	100.00(0/60)		27.62	Jockey-3_DGri	14	14
+SRR2033160	FBti0019043	absent	present	polymorphic	1	60	100.00(0/60)		11.38		9	9	60	100.00(0/60)		16.73		6	6
+SRR2033160	FBti0019080	absent	present	polymorphic	5	60	100.00(0/60)		15.03		8	8	60	100.00(0/60)		12.53		3	3
+SRR2033160	FBti0063780	present	present	present	0	60	100.00(0/60)		46.67		25	25	60	100.00(0/60)		39.52		26	26
+SRR2033160	FBti0019042	present	present	present	0	60	100.00(0/60)		17.06		11	11	60	100.00(0/60)		11.24		5	5
+SRR2033160	FBti0019598	absent	present	polymorphic	3	52	100.00(0/60)		5.67		0	0	60	100.00(0/60)		10.88	A-rich	3	3
+SRR2033160	FBti0063829	present	present	present	0	60	100.00(0/60)		10.61		5	5	60	100.00(0/60)		13.29		11	11
+SRR2033160	FBti0060023		present	polymorphic		60	98.33(1/60)		13.06		2	2	60	96.67(2/60)		21.88	(ATAC)n	16	16
+SRR2033160	FBti0020057	present	present	present	0	60	100.00(0/60)		3.73		4	4	60	100.00(0/60)		7.54		3	3
+SRR2033160	FBti0020183	present	present	present	0	60	100.00(0/60)		22.44		16	16	60	100.00(0/60)		6.03		2	2
+SRR2033160	FBti0061417	present	present	present	0	60	93.33(4/60)		23.71		20	20	60	95.00(3/60)		25.34		9	9
+SRR2033160	FBti0063052		present	polymorphic		60	100.00(0/60)		30.49	Gypsy-13_DSim-LTR	13	13	60	100.00(0/60)		27.57	Gypsy12_I	21	21
+SRR2033160	FBti0062881		present	polymorphic		60	100.00(0/60)		34.11	I-2_DBp	27	27	60	100.00(0/60)		36.33		18	18
+SRR2033160	FBti0060621		present	polymorphic		60	98.33(1/60)		38.77		30	30	60	100.00(0/60)		28.76	BEL-9_DWil-I	21	21
+SRR2033160	FBti0063729		present	polymorphic		60	100.00(0/60)		17.84		16	16	60	100.00(0/60)		7.88	Gypsy12A_LTR	4	4
+SRR2033160	FBti0061837	present	present	present	0	60	100.00(0/60)		33.08		28	28	60	100.00(0/60)		30.74		22	22
+SRR2033160	FBti0019432	absent	present	polymorphic	12	60	100.00(0/60)		17.58		14	14	60	100.00(0/60)		23.13		7	7
+SRR2033160	FBti0019512	present	present	present	0	60	100.00(0/60)		14.67		11	11	60	100.00(0/60)		16.37		8	8
+SRR2033160	FBti0019419	absent	present	polymorphic	8	60	100.00(0/60)		6.84		6	6	60	100.00(0/60)		13.41		7	7
+SRR2033160	FBti0062631	present	present	present	0	60	100.00(0/60)		24.94		15	15	60	100.00(0/60)		22.62		17	17
+SRR2033160	FBti0060051	present	present	present	0	60	96.67(2/60)		23.12		17	17	60	98.33(1/60)		29.46		19	19
+SRR2033160	FBti0018887		present	polymorphic		60	100.00(0/60)		26.66		12	12	60	100.00(0/60)		26.26	DNAREP1_DSim	17	17
+SRR2033160	FBti0061041	present	present	present	0	60	100.00(0/60)	poly(A)7	18.69		11	11	60	98.33(1/60)		30.09		14	14
+SRR2033160	FBti0061684	present	present	present	0	60	100.00(0/60)		16.98		14	14	60	100.00(0/60)		14.29		7	7
+SRR2033160	FBti0019055	present	present	present	0	60	100.00(0/60)		10.86		4	4	-1	0(0/0)		6.64	(TA)n	0	0
+SRR2033160	FBti0019517		present	polymorphic		60	100.00(0/60)		23.78	Dneoca1cons	16	16	60	100.00(0/60)		38.39	Mariner-3_DRh	27	27
+SRR2033160	FBti0019100	absent	present	polymorphic	3	60	100.00(0/60)		16.11		9	9	60	100.00(0/60)		23.88		6	6
+SRR2033160	FBti0019430	present	present	present	0	60	100.00(0/60)		15.97		2	2	60	100.00(0/60)		24.73		23	23
+SRR2033160	FBti0019828		present	polymorphic		60	98.33(1/60)		11.42	PROTOP_B	5	5	60	100.00(0/60)		30.84	Copia-29_DP-I	22	22
+SRR2033160	FBti0020041	present	present	present	0	60	100.00(0/60)		9.50		1	1	60	100.00(0/60)		6.86		4	4
+SRR2033160	FBti0019830		present	polymorphic		60	100.00(0/60)		32.09	Mariner-15_DK	22	22	60	100.00(0/60)		25.46	Mariner-20_DAn	14	14
+SRR2033160	FBti0019192	absent	absent	absent	10	-1	0(0/0)		4.29		0	0	-7	0(0/0)		9.53	(CA)n	0	0
+SRR2033160	FBti0019826	absent	present	polymorphic	4	60	100.00(0/60)		4.53		3	3	60	100.00(0/60)		8.88		3	3
+SRR2033160	FBti0018902	absent	absent	absent	15	-5	0(0/0)		4.58		0	0	-5	0(0/0)		5.86		0	0
+SRR2033160	FBti0061299	present	present	present	0	60	100.00(0/60)		12.11		6	6	60	100.00(0/60)		6.73		4	4
+SRR2033160	FBti0063295		present	polymorphic		60	98.33(1/60)		22.86	BEL2-I_Dya	9	9	60	100.00(0/60)		19.31		12	12
+SRR2033160	FBti0019464	absent	present	polymorphic	8	60	100.00(0/60)		10.09		2	2	60	100.00(0/60)		16.24		7	7
+SRR2033160	FBti0020152	absent	present	polymorphic	4	60	100.00(0/60)		20.28		16	16	57	100.00(0/57)	poly(A)6	2.23		1	1
+SRR2033160	FBti0059662		present	polymorphic		60	100.00(0/60)		36.46		16	16	60	100.00(0/60)		27.42	Helitron-N2_DEl	20	20
+SRR2033160	FBti0063996	present	present	present	0	60	100.00(0/60)		21.54		12	12	60	100.00(0/60)		28.10		19	19
+SRR2033160	FBti0019232		present	polymorphic		60	100.00(0/60)		31.27	DNAREP1_DSim	15	15	60	98.33(1/60)		22.96	BEL-2_DSe-I	19	19
+SRR2033160	FBti0064140		present	polymorphic		60	100.00(0/60)		10.08	(AATA)n	7	7	60	100.00(0/60)		23.88		15	15
+SRR2033160	FBti0019418	present	present	present	0	60	100.00(0/60)		18.61		9	9	60	100.00(0/60)		8.33		5	5
+SRR2033160	FBti0020202	present	present	present	0	60	100.00(0/60)	poly(A)10	18.66		15	15	60	100.00(0/60)		18.10		13	13
+SRR2033160	FBti0019021	absent	present	polymorphic	6	60	100.00(0/60)		9.84		8	8	60	100.00(0/60)		10.59		3	3
+SRR2033160	FBti0063728	present	present	present	0	60	100.00(0/60)		21.48		11	11	60	100.00(0/60)		23.37		19	19
+SRR2033160	FBti0019584	absent	present	polymorphic	7	60	100.00(0/60)		14.31		5	5	60	100.00(0/60)		16.27		9	9
+SRR2033160	FBti0019646	absent	present	polymorphic	1	60	100.00(0/60)		22.16	(TGTG)n	11	11	60	100.00(0/60)		24.27		10	10
+SRR2033160	FBti0062649		present	polymorphic		60	98.33(1/60)		42.43	Jockey-3_DVi	28	28	60	100.00(0/60)		36.21	Jockey-3_DSim	26	26
+SRR2033160	FBti0062386	present	present	present	0	60	100.00(0/60)		25.86		16	16	60	100.00(0/60)		29.21		18	18
+SRR2033160	FBti0060908		present	polymorphic		60	100.00(0/60)		19.18	Helitron-2_DRh	12	12	60	100.00(0/60)		14.64	Helitron-1_DYak	9	9
+SRR2033160	FBti0019554	absent	present	polymorphic	3	60	100.00(0/60)		7.76		4	4	60	100.00(0/60)		9.18		1	1
+SRR2033160	FBti0061527	present	present	present	0	60	100.00(0/60)		10.60	(TG)n	1	1	60	100.00(0/60)		11.54		3	3
+SRR2033160	FBti0020296		present	polymorphic		60	100.00(0/60)		23.64	Helitron-2_DVir	5	5	60	100.00(0/60)		30.00	(TAT)n	16	16
+SRR2033160	FBti0061219		present	polymorphic		60	100.00(0/60)		20.35		16	16	60	98.33(1/60)		20.77	Gypsy-14_DBi-I	15	15
+SRR2033160	FBti0020168		present	polymorphic		60	100.00(0/60)		20.14	BEL-11_DEl-I	16	16	60	100.00(0/60)		31.31		18	18
+SRR2033160	FBti0062043		present	polymorphic		60	93.33(4/60)		17.27		14	14	60	95.00(3/60)		15.88	Helitron-N1_DBi	19	19
+SRR2033160	FBti0019219	absent	present	polymorphic	1	60	100.00(0/60)		16.56		11	11	60	100.00(0/60)		8.79		1	1
+SRR2033160	FBti0018875	absent	present	polymorphic	14	60	100.00(0/60)		10.94		3	3	60	100.00(0/60)		10.46		2	2
+SRR2033160	FBti0060760	present	present	present	0	60	98.33(1/60)		16.07	HOBO	12	12	60	96.67(2/60)		23.06		17	17
+SRR2033160	FBti0020195		present	polymorphic		60	100.00(0/60)		8.50		0	0	60	100.00(0/60)		9.05	DMRP1	3	3
+SRR2033160	FBti0062934	present	present	present	0	60	100.00(0/60)		34.55		22	22	60	100.00(0/60)		34.67		27	27
+SRR2033160	FBti0061958		present	polymorphic		60	98.33(1/60)		17.32	DNAREP1_DSim	9	9	60	100.00(0/60)		15.60	Gypsy-13_DSim-I	11	11
+SRR2033160	FBti0061462		present	polymorphic		60	100.00(0/60)		24.14	Jockey-9_DY	12	12	60	98.33(1/60)		25.79	Jockey-9_DY	15	15
+SRR2033160	FBti0061803		present	polymorphic		60	100.00(0/60)		5.34	(ATTAA)n	6	6	60	100.00(0/60)		11.31	Gypsy6A_LTR	7	7
+SRR2033160	FBti0019357	absent	present	polymorphic	5	60	100.00(0/60)		8.66		1	1	60	100.00(0/60)		21.33	(CACACA)n	10	10
+SRR2033160	FBti0020083	absent	present	polymorphic	3	48	100.00(0/48)		6.50		0	0	60	100.00(0/60)		7.55		2	2
+SRR2033160	FBti0020016	absent	present	polymorphic	4	60	100.00(0/60)		19.30	(CA)n	5	5	60	100.00(0/60)		8.66		0	0
+SRR2033160	FBti0062517	present	present	present	0	60	100.00(0/60)		30.03		21	21	60	100.00(0/60)		23.85	Gypsy-26_DYa-LTR	10	10
+SRR2033160	FBti0020428	present	present	present	0	60	100.00(0/60)		26.76		15	15	60	100.00(0/60)		12.32	DNAREP1_DSim	9	9
+SRR2033160	FBti0062946	present	present	present	0	60	100.00(0/60)		34.42		20	20	60	98.33(1/60)		21.80		16	16
+SRR2033160	FBti0061765	present	present	present	0	60	100.00(0/60)		17.62		14	14	60	100.00(0/60)		26.81		13	13
+SRR2033160	FBti0019532	absent	present	polymorphic	4	60	100.00(0/60)		13.66	(TTAT)n	2	2	60	100.00(0/60)		16.61		6	6
+SRR2033160	FBti0061751		present	polymorphic		60	98.33(1/60)		27.67		17	17	60	100.00(0/60)		24.57	Transib-N1_DM	13	13
+SRR2033160	FBti0060373		present	polymorphic		60	100.00(0/60)		36.23		25	25	60	100.00(0/60)		18.07	DNAREP1_DSim	10	10
+SRR2033160	FBti0019089	absent	present	polymorphic	3	60	100.00(0/60)		8.43		9	9	60	100.00(0/60)		16.24		10	10
+SRR2033160	FBti0064153	present	present	present	0	60	100.00(0/60)		16.82	Helitron-1_DEu	10	10	60	100.00(0/60)		18.79		10	10
+SRR2033160	FBti0020163	absent	present	polymorphic	5	60	100.00(0/60)		10.53		1	1	-30	0(0/0)		0.00		0	0
+SRR2033160	FBti0020155	present	present	present	0	60	100.00(0/60)		33.77		30	30	60	100.00(0/60)		35.02		25	25
+SRR2033160	FBti0019527	absent	present	polymorphic	11	60	100.00(0/60)		12.46		6	6	60	100.00(0/60)		8.72		5	5
+SRR2033160	FBti0020069	absent	absent	absent	11	-4	0(0/0)		6.84		0	0	-1	0(0/0)		1.96		0	0
+SRR2033160	FBti0020271		present	polymorphic		60	98.33(1/60)		35.01	BEL2-I_Dya	25	25	60	100.00(0/60)		29.77	BEL2-I_Dya	17	17
+SRR2033160	FBti0061018	present	present	present	0	60	100.00(0/60)		24.24		3	3	60	100.00(0/60)		24.26		22	22
+SRR2033160	FBti0019484		present	polymorphic		60	100.00(0/60)		13.92	Gypsy-1_DSim-I	10	10	60	100.00(0/60)		21.30	Gypsy-1_DSim-I	11	11
+SRR2033160	FBti0018883	absent	present	polymorphic	7	60	100.00(0/60)		23.81		15	15	60	100.00(0/60)		10.61		8	8
+SRR2033160	FBti0061753		present	polymorphic		60	100.00(0/60)		14.03	Gypsy-14_DBi-I	13	13	60	100.00(0/60)		23.45	Gypsy-14_DBi-I	13	13
+SRR2033160	FBti0019175	absent	present	polymorphic	4	60	100.00(0/60)		15.54		6	6	60	100.00(0/60)		12.39		6	6
+SRR2033160	FBti0019200	absent	present	polymorphic	2	60	100.00(0/60)		3.83	(T)n	1	1	60	100.00(0/60)		9.71		6	6
+SRR2033160	FBti0019501	present	present	present	0	60	100.00(0/60)		18.23		11	11	60	98.33(1/60)		35.12		23	23
+SRR2033160	FBti0019420	absent	present	polymorphic	6	60	100.00(0/60)		19.59		10	10	60	100.00(0/60)		19.38		10	10
+SRR2033160	FBti0060872		present	polymorphic		60	100.00(0/60)		7.04	Gypsy12A_LTR	1	1	60	100.00(0/60)		13.76		7	7
+SRR2033160	FBti0061358	present	present	present	0	60	98.33(1/60)		17.92		9	9	60	100.00(0/60)		24.29		11	11
+SRR2033160	FBti0019616	absent	present	polymorphic	2	60	100.00(0/60)		9.62		3	3	60	100.00(0/60)		7.02		4	4
+SRR2033160	FBti0063301	present	present	present	0	60	100.00(0/60)		28.59		12	12	60	100.00(0/60)		35.07	(AGAT)n	19	19
+SRR2033160	FBti0019183	absent	present	polymorphic	3	60	100.00(0/60)		13.94		8	8	60	100.00(0/60)	poly(A)5	6.46		2	2
+SRR2033160	FBti0061024	present	present	present	0	60	100.00(0/60)		13.07		12	12	60	100.00(0/60)		11.43		4	4
+SRR2033160	FBti0064136		present	polymorphic		60	100.00(0/60)		33.67	G_DM	15	15	60	98.33(1/60)		40.88		30	30
+SRR2033160	FBti0019139	absent	absent	absent	19	-4	0(0/0)		4.84		0	0	-3	0(0/0)		5.72		0	0
+SRR2033160	FBti0062010	present	present	present	0	60	100.00(0/60)		35.11		17	17	60	100.00(0/60)		25.99	Mariner-15_DF	9	9
+SRR2033160	FBti0062998		present	polymorphic		60	100.00(0/60)		28.06	Helena_Ds	20	20	60	100.00(0/60)		27.73		12	12
+SRR2033160	FBti0060106		present	polymorphic		60	100.00(0/60)		16.43	DNAREP1_DSim	11	11	60	100.00(0/60)		19.79	DNAREP1_DM	11	11
+SRR2033160	FBti0019320	absent	present	polymorphic	5	60	100.00(0/60)		8.36		6	6	60	100.00(0/60)		6.79		3	3
+SRR2033160	FBti0063516	present	present	present	0	60	100.00(0/60)		19.09		11	11	60	100.00(0/60)		19.83		13	13
+SRR2033160	FBti0019552	present	present	present	0	60	100.00(0/60)		13.82		6	6	60	100.00(0/60)		5.75	(TA)n	2	2
+SRR2033160	FBti0063924		present	polymorphic		60	100.00(0/60)		18.68	DNAREP1_DYak	12	12	60	100.00(0/60)		26.19	DNAREP1_DSim	16	16
+SRR2033160	FBti0020323	present	present	present	0	60	100.00(0/60)		15.99		13	13	60	100.00(0/60)		21.76		16	16
+SRR2033160	FBti0019548	absent	present	polymorphic	3	60	100.00(0/60)		9.81		6	6	60	100.00(0/60)		6.08		0	0
+SRR2033160	FBti0019862	present	present	present	0	60	100.00(0/60)	poly(A)7	21.49		9	9	60	100.00(0/60)		27.59		18	18
+SRR2033160	FBti0019051	absent	present	polymorphic	10	60	100.00(0/60)		13.44		8	8	60	100.00(0/60)		13.76		6	6
+SRR2033160	FBti0019066	absent	present	polymorphic	4	60	100.00(0/60)		10.85	(GT)n	6	6	60	100.00(0/60)		10.82		8	8
+SRR2033160	FBti0063523		present	polymorphic		60	100.00(0/60)		23.12	Gypsy-1_DSim-I	22	22	60	100.00(0/60)		18.27	Gypsy-1_DSim-I	10	10
+SRR2033160	FBti0019041	present	present	present	0	60	100.00(0/60)		12.39		10	10	60	100.00(0/60)		15.78		5	5
+SRR2033160	FBti0020074	absent	absent	absent	9	-2	0(0/0)		4.34		0	0	-9	0(0/0)		1.71	(T)n	0	0
+SRR2033160	FBti0062059	present	present	present	0	60	100.00(0/60)		25.01		24	24	60	100.00(0/60)		25.29	(GTTTTTT)n	13	13
+SRR2033160	FBti0019444	absent	present	polymorphic	5	60	100.00(0/60)		13.03		3	3	60	100.00(0/60)		14.39		9	9
+SRR2033160	FBti0061031	present	present	present	0	60	100.00(0/60)		22.04	DNAREP1_DSim	18	18	60	100.00(0/60)		20.64		11	11
+SRR2033160	FBti0020138		present	polymorphic		60	100.00(0/60)		36.92	Chimpo_LTR	21	21	60	100.00(0/60)		34.19	Helitron-N1_DBi	18	18
+SRR2033160	FBti0019618	absent	absent	absent	7	1	100.00(0/1)		4.44		0	0	1	100.00(0/1)		6.08		0	0
+SRR2033160	FBti0019666	absent	present	polymorphic	8	53	100.00(0/53)		7.64		0	0	60	100.00(0/60)		16.35		6	6
+SRR2033160	FBti0019067	absent	present	polymorphic	7	60	100.00(0/60)		10.92		7	7	60	100.00(0/60)		16.44		14	14
+SRR2033160	FBti0019339	absent	present	polymorphic	3	60	100.00(0/60)		15.76		5	5	60	100.00(0/60)		12.35		9	9
+SRR2033160	FBti0019601	absent	present	polymorphic	2	60	100.00(0/60)		18.57		5	5	60	100.00(0/60)		8.22		3	3
+SRR2033160	FBti0062368		present	polymorphic		60	100.00(0/60)		37.17	R1-2_DTa	21	21	60	100.00(0/60)		26.62		18	18
