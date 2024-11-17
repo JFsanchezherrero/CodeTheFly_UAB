@@ -6,7 +6,7 @@ print ("## Scrip to randomly select SRAids")
 print("###################################")
 
 print("\n + Read SRAids file...")
-SRA_file = "/data/codefly/scratch2/fly/SRAids.txt"
+SRA_file = "/data/codefly/scratch/fly/SRAids.txt"
 print("")
 ## get contents into a list
 with open(SRA_file, "r") as reader:
