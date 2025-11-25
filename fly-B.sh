@@ -46,7 +46,7 @@ if [ -z "$SRAacc" ] || [ -z "$NIU" ]; then
 fi
 
 ### Check folder exists
-myDir=/data/codefly/scratch2/results/$NIU/$SRAacc/fastq_files/$SRAacc
+myDir=/data/codefly/scratch/results/$NIU/$SRAacc/fastq_files
 
 if [ -d "$myDir" ]; then
         echo "Directory exists: SRAid and NIU seems ok!"
