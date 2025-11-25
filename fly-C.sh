@@ -1,4 +1,3 @@
-
 #!/bin/bash
 helpFunction()
 {
@@ -50,8 +49,11 @@ if [ -z "$SRAacc" ] || [ -z "$NIU" ] || [ -z "$ReadLength" ]; then
         helpFunction
 fi
 
+### Apptainer Image
+IMAGE=/data/codefly/scratch/apptainer/tlex.sif
+
 ### Check folder exists
-myDir=/data/codefly/scratch2/results/$NIU/$SRAacc/fastq_files/$SRAacc
+myDir=/data/codefly/scratch/results/$NIU/$SRAacc/fastq_files/$SRAacc
 
 if [ -d "$myDir" ]; then
         echo "Directory exists: SRAid and NIU seems ok!"
@@ -64,12 +66,30 @@ fi
 
 
 ### Move to directory and copy files necessary
-MYDIR=/data/codefly/scratch2/results/$NIU/
+MYDIR=/data/codefly/scratch/results/$NIU/
 cp -r $MYDIR/$SRAacc $_CONDOR_SCRATCH_DIR/
-cd $_CONDOR_SCRATCH_DIR/$SRAacc
+cd $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/
+mv *.fastq $SRAacc/
+cd $_CONDOR_SCRATCH_DIR/$SRAacc/
+
+
+###############################################
+# Copy common files necessary
+###############################################
+echo "# Copy common files necessary"
+echo "cp /data/codefly/scratch/fly/* ./"
+cp /data/codefly/scratch/fly/* ./
+
+echo "# Unzip files"
+echo "unzip dmel-all-chromosome-r6.04.fa.zip"
+unzip dmel-all-chromosome-r6.04.fa.zip
+echo "# Needed libraries"
+echo "cp -r /data/codefly/scratch/apptainer/Libraries/ ./"
+cp -r /data/codefly/scratch/apptainer/Libraries/ ./
+###############################################
 
 ## Execute Tlex
-docker run -t -v $_CONDOR_SCRATCH_DIR/$SRAacc:/data mctf/tlex -O $SRAacc -pairends yes -A $ReadLength -T /data/TElist_1630_v6.04.txt -M /data/TEcopies_1630_v6.04.txt -G /data/dmel-all-chromosome-r6.04.fa -R /data/fastq_files
+apptainer run -B $_CONDOR_SCRATCH_DIR/$SRAacc:/data -B $_CONDOR_SCRATCH_DIR/$SRAacc/Libraries:/usr/local/RepeatMasker/Libraries $IMAGE -O $SRAacc -pairends yes -A $ReadLength -T /data/TElist_1630_v6.04.txt -M /data/TEcopies_1630_v6.04.txt -G /data/dmel-all-chromosome-r6.04.fa -R /data/fastq_files
 cp -r ./tlex* $MYDIR/$SRAacc/
 
 elapsedseconds=$SECONDS
