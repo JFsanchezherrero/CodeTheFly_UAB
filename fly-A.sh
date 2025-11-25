@@ -59,8 +59,11 @@ echo "#---------------------------#"
 echo " Start the processing"
 echo "#---------------------------#"
 
+## apptainer image
+IMAGE=/data/codefly/scratch/apptainer/sra-tools.sif
+
 ## create directory in scratch partition disk
-MYDIR=/data/codefly/scratch2/results/$NIU
+MYDIR=/data/codefly/scratch/results/$NIU
 
 if [ -d "$MYDIR" ]; then
         echo "Directory exists for this NIU id!"
@@ -71,7 +74,7 @@ else
 fi
 
 ### Check folder exists
-mySRA_Dir=/data/codefly/scratch2/results/$NIU/$SRAacc/fastq_files/$SRAacc
+mySRA_Dir=/data/codefly/scratch/results/$NIU/$SRAacc/fastq_files/$SRAacc
 
 if [ -d "$mySRA_Dir" ]; then
         echo "Directory exists for: SRAid and seems ok!"
@@ -87,43 +90,32 @@ cd $_CONDOR_SCRATCH_DIR
 echo ""
 echo "# Create a directory to store the FASTQ files and change to it"
 mkdir -p $SRAacc/fastq_files
-cd $SRAacc
-
-###############################################
-
-###############################################
-# Copy common files necessary
-###############################################
-echo "# Copy common files necessary"
-echo "cp /data/codefly/scratch2/fly/* ./"
-cp /data/codefly/scratch2/fly/* ./
-
-echo "# Unzip files"
-echo "unzip dmel-all-chromosome-r6.04.fa.zip"
-unzip dmel-all-chromosome-r6.04.fa.zip
-###############################################
-
+cd $SRAacc/fastq_files
 
 ###############################################
 ## Get files
 ###############################################
-echo "# Run SRAtools using docker"
+echo "# Run SRAtools using apptainer"
 
 echo "## Pre-fecth SRA id"
-docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools prefetch $SRAacc
+apptainer run $IMAGE prefetch $SRAacc
+# Run a second time if the first one fails
+if [ $? -ne 0 ]; then
+  apptainer run $IMAGE prefetch $SRAacc
+fi
 
 echo "# Validate SRA id obtained"
-docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools vdb-validate $SRAacc
+apptainer run $IMAGE vdb-validate $SRAacc
 
 echo "# Create FASTQ file from file downloaded"
-docker run -t --rm -v $_CONDOR_SCRATCH_DIR/$SRAacc/fastq_files/$SRAacc:/output:rw -w /output ncbi/sra-tools fasterq-dump $SRAacc --split-files --split-3
+apptainer run $IMAGE fasterq-dump $SRAacc --split-files --split-3
 ###############################################
 
 ###############################################
-## copy files and finish
+## Copy files and finish
 ###############################################
 echo "# Copy files and finish"
-cp -r ../$SRAacc $MYDIR/
+cp -r $_CONDOR_SCRATCH_DIR/$SRAacc $MYDIR/
 
 echo "# Check folder for results in: $MYDIR"
 echo ""
